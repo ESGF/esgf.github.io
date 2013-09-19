@@ -1,0 +1,226 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+        <meta charset="">
+    <title>Federation design | ESGF.org</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Test description">
+    <meta name="author" content="">
+
+        <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+        <link href="media/css/bootstrap.css" rel="stylesheet">
+    <link href="media/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="media/css/nav-hover.css" rel="stylesheet">    <style type="text/css">
+        body {
+            padding-bottom: 40px;
+        }
+        .sidebar-nav {
+            padding: 9px 0;
+        }
+
+        @media (max-width: 980px) {
+            /* Enable use of
+            floated navbar
+            text */
+            .navbar-text.pull-right
+            {
+                float:
+                none;
+                padding-left:
+                5px;
+                padding-right:
+                5px;
+            }
+        }
+    </style>
+        
+            <link rel="shortcut icon" href="media/images/favicon.ico">
+    <link rel="apple-touch-icon" href="/media/img/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/media/img/appleimgim-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/media/img/apple-touch-icon-114x114.png">
+    
+        
+                  </head>
+
+  <body class="federation-design">
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+    <div class="container">
+      <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="index.html"><img src="media/images/esgfSmall.png" style="float:left"/></a>
+      <div class="nav-collapse">
+                <ul class="nav">
+    <li class="dropdown active">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b>
+      </a>
+      <ul class="dropdown-menu">
+                    <li><a href="mission.html">Mission</a></li>
+                      <li><a href="federation-design.html">Federation design</a></li>
+                      <li><a href="node-design.html">Node design</a></li>
+                      <li><a href="governance.html">Governance</a></li>
+                      <li><a href="committee.html">Committee</a></li>
+                      <li><a href="acknowledgments.html">Acknowledgments</a></li>
+                </ul>
+    </li>
+      <li class="dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Documents <b class="caret"></b>
+      </a>
+      <ul class="dropdown-menu">
+                    <li><a href="publications.html">Publications</a></li>
+                      <li><a href="reports.html">Reports</a></li>
+                      <li><a href="conferences.html">Conferences</a></li>
+                      <li><a href="letters-of-recommendation.html">Letters of recommendation</a></li>
+                      <li><a href="presentations.html">Presentations</a></li>
+                </ul>
+    </li>
+      <li class="dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Build <b class="caret"></b>
+      </a>
+      <ul class="dropdown-menu">
+                    <li><a href="installation.html">Installation</a></li>
+                      <li><a href="releases.html">Releases</a></li>
+                      <li><a href="trust.html">Trust</a></li>
+                </ul>
+    </li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="developer-info.html">Contribute</a></li>
+      <li class="dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Help <b class="caret"></b>
+      </a>
+      <ul class="dropdown-menu">
+                    <li><a href="http://www.youtube.com/user/ESGForg">Tutorials</a></li>
+                      <li><a href="http://askbot.esgf.org/"">Support forum</a></li>
+                      <li><a href="mailing-list.html">Mailing list</a></li>
+                </ul>
+    </li>
+  </ul>
+      </div>
+      <form class="navbar-search pull-right visible-desktop" action="search.php" method="post"><input name="searchwhat" type="hidden" value="site">
+      <input type="search" name="googleseachTerm" class="search-query span3" placeholder="search site...">
+      </form>
+    </div>
+  </div>
+  </div>
+
+<div style="margin-bottom: 60px;"></div>
+
+
+    <div class="container" id="top">
+      <h2>ESGF Federation Design</h2>
+<p>The Earth System Grid Federation (ESGF) is a spontaneous collaboration of
+groups, agencies and institutions around the world, that are dedicated to the
+development and operation of a long-term system for the management, access and
+analysis of climate data. Some of the challenges that ESGF is committed to
+address include:</p>
+<ul>
+<li>The enormous scale of the data holdings, moving from Peta-bytes to Exa-bytes</li>
+<li>Support for both model output and a wide variety of observational data</li>
+<li>The distributed nature of the data archives, which are geographically
+  distributed and autonomously operated * The need to enable users to access
+  and analyze data with a wide variety of client tools - not just web browsers,
+  but also rich desktop clients, libraries and toolkits</li>
+<li>The need to harmonize and federate multiple local access policies</li>
+</ul>
+<p>The ESGF architecture is based on a system of autonomous and distributed Nodes,
+which interoperate through common acceptance of federation protocols and trust
+agreements. Data is stored at multiple Nodes, and served through local data and
+metadata services. Nodes exchange information about their data holdings and
+services, trust each other for registering users and establishing access
+control decisions. The net result is that a user can use a web browser or rich
+desktop client, connect to any Node, and seamlessly find and access data
+throughout the federation (see <a href="media/images/FederationArchitecture.png">ESGF Architecture</a> for more details).</p>
+<p><center>
+<img alt="ESGF federation architecture diagram" src="media/images/FederationArchitecture.png" />
+</center></p>
+<p>At each Node, the ESGF software stack is the result of the integration of
+multiple applications and servers, either developed by some of the ESGF
+partners, or freely available from the community. The ESGF software development
+methodology is based on the principle of <strong>modularity</strong>, <strong>open source</strong> and
+<strong>open development</strong> (see the <a href="developer-info.html#manifesto">ESGF Manifesto</a> for more details).</p>
+<h3>The ESGF Federation Protocols</h3>
+<p>Interoperability among all Nodes in the ESGF federation is based on a
+peer-to-peer paradigm for exchanging information about services, trusts, and
+metadata holdings. Specifically, the following protocols and mechanism make all
+the Nodes in the federation work together as a whole:</p>
+<ul>
+<li><strong>The ESGF Registry</strong>. The ESGF Registry contains all relevant information
+  about each Node in the federation: its type, the URL endpoints of the
+  services it exposes, its public certificates, and so on. This information is
+  not kept in a central location, rather it is continually exchanged among all
+  Nodes so that each Node always has a local up-to-date copy of the state of
+  the whole federation.  * <strong>Single-Sign-On</strong>. Because all ESGF Nodes trust
+  each other's certificate authorities, a user can register and authenticate at
+  any of the Nodes, and be granted credentials that are honored throughout the
+  federation. The type of credentials granted depends on how the user is
+  accessing the system:<ul>
+<li>If using a web browser, the <em>OpenID</em> protocol is used to exchange
+  authentication information between the site where the user authenticates,
+  and any other site.  * If using a desktop client, an <em>X509</em> short term
+  certificate is transmitted by the client to any server that requests the
+  user to authenticate.</li>
+</ul>
+</li>
+<li><strong>Distributed Access Control</strong>. The data served from each Node may need to
+  be protected by policies that are administered at another Node. The ESGF
+  security infrastructure supports this model by establishing mutual trust
+  among all the constituents Nodes, and by transmitting security information
+  (Attribute and Authorization statements) as signed documents encoded as SAML
+  (The Security Assertion Markup Language).  * <strong>Metadata Exchange</strong>. All Nodes
+  in the federation continually exchange search and discovery metadata about
+  their data holdings. As a consequence, when users initiate a search at any
+  one site, they are able to discover resources of interest through the whole
+  federation.</li>
+</ul>
+<h3>ESGF Clients</h3>
+<p>Traditionally, the data and metadata services deployed throughout the ESGF
+system have been made available to users through a standard web browser.
+Increasingly though the ESGF collaboration is working towards enabling direct
+access to these services via rich desktop clients and toolkits, which allow
+scripted and more powerful access. Specifically, the following clients are
+being developed.</p>
+<ul>
+<li><strong>UV-CDAT</strong>. UV-CDAT is a high-performace visualization client that allows
+  the user to query the ESGF data catalogs via any metadata category, and
+  either download the selected files, or create visualization plots.  * <strong>Data
+  Mover Light</strong>. Data Mover Light (DML) is a high performance desktop client
+  that allows bulk download of data files via either HTTP or GridFTP.</li>
+<li><strong>Climate Data Exchange</strong>. The Climate Data Exchange (CDX) is the
+  combination of server-side components and a client-side toolkit library that
+  work together to expose the ESGF distributed data holdings as if it was a
+  local file system, and to issue data processing commands that are executed on
+  the servers, returning only the data results to the user desktop.</li>
+</ul>      <hr>
+      <footer>
+        <p><a href="http://github.com/esgf"><img src="media/images/github.svg" style="margin-top: -7px; height: 15px;"/></a> &bull;
+<a href="http://www-pcmdi.llnl.gov/">PCMDI</a> &bull; <a href="http://cmip-pcmdi.llnl.gov/cmip5/">CMIP5</a> &bull; <a href="http://www.llnl.gov/">LLNL</a> &bull; <a href="https://www.llnl.gov/disclaimer.html">Privacy &amp; Legal Notice</a> &bull; <a href="#">LLNL-WEB-460643</a></p>      </footer>
+    </div> <!-- /container -->
+
+     
+
+                <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    
+        <script src="media/js/links.js"></script>
+
+        <script src="media/js/libs/bootstrap.js"></script>
+    <script src="media/js/libs/bootstrap-button.js"></script>
+    <script src="media/js/libs/bootstrap-collapse.js"></script>
+    <script src="media/js/libs/bootstrap-dropdown.js"></script>
+    <script src="media/js/libs/bootstrap-transition.js"></script>
+        
+        
+    <!--[if lt IE 7 ]>
+      <script src="/media/js/libs/dd_belatedpng.js"></script>
+      <script>DD_belatedPNG.fix('img, .png_bg'); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
+    <![endif]-->
+
+      </body>
+</html>

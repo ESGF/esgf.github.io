@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3000" height="2000">
+	<desc>Flag of China</desc>
+	<rect fill="#DE2910" width="3000" height="2000" />
+	<path fill="#FFDE00" id="star" d="M 324.49468,741.854 L 390.98716,535.0722 L 216.25,406.8796 L 432.65922,406.4767 L 500.08545,200 L 567.3412,406.5327 L 783.75,407.1157 L 608.90711,535.163 L 675.22896,742 L 499.91436,614.6047 L 324.49468,741.854 L 324.49468,741.854 z" />
+	<use xlink:href="#star" transform="matrix(0.3128368,0.1151015,-0.1151015,0.3128368,901.67377,686.2452)" />
+	<use xlink:href="#star" transform="matrix(0.3330938,-1.2796173e-2,1.2796173e-2,0.3330938,1027.4139,539.8369)" />
+	<use xlink:href="#star" transform="matrix(0.2988346,-0.1476933,0.1476933,0.2988346,976.30066,324.358)" />
+	<use xlink:href="#star" transform="matrix(0.3070677,0.1297107,-0.1297107,0.3070677,910.77955,-18.5677)" />
+</svg>

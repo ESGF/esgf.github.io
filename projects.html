@@ -1,0 +1,363 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+        <meta charset="">
+    <title>More | ESGF.org</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Test description">
+    <meta name="author" content="">
+
+        <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+        <link href="media/css/bootstrap.css" rel="stylesheet">
+    <link href="media/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="media/css/nav-hover.css" rel="stylesheet">    <style type="text/css">
+        body {
+            padding-bottom: 40px;
+        }
+        .sidebar-nav {
+            padding: 9px 0;
+        }
+
+        @media (max-width: 980px) {
+            /* Enable use of
+            floated navbar
+            text */
+            .navbar-text.pull-right
+            {
+                float:
+                none;
+                padding-left:
+                5px;
+                padding-right:
+                5px;
+            }
+        }
+    </style>
+        <style>
+  ul {
+    margin-left: 95px;
+  }
+  ul ul {
+    margin: 0 0 0 45px;
+  }
+  hr, h4 {
+    margin-top: 55px;
+  }
+  h5 {
+    margin-top: -15px;
+  }
+  img.project-icon {
+    height: 70px;
+    border: none;
+    float: left;
+    height: 70px;
+    width: 70px;
+  }
+</style>
+
+            <link rel="shortcut icon" href="media/images/favicon.ico">
+    <link rel="apple-touch-icon" href="/media/img/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/media/img/appleimgim-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/media/img/apple-touch-icon-114x114.png">
+    
+        
+                  </head>
+
+  <body class="projects">
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+    <div class="container">
+      <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="index.html"><img src="media/images/esgfSmall.png" style="float:left"/></a>
+      <div class="nav-collapse">
+                <ul class="nav">
+    <li class="dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b>
+      </a>
+      <ul class="dropdown-menu">
+                    <li><a href="mission.html">Mission</a></li>
+                      <li><a href="federation-design.html">Federation design</a></li>
+                      <li><a href="node-design.html">Node design</a></li>
+                      <li><a href="governance.html">Governance</a></li>
+                      <li><a href="committee.html">Committee</a></li>
+                      <li><a href="acknowledgments.html">Acknowledgments</a></li>
+                </ul>
+    </li>
+      <li class="dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Documents <b class="caret"></b>
+      </a>
+      <ul class="dropdown-menu">
+                    <li><a href="publications.html">Publications</a></li>
+                      <li><a href="reports.html">Reports</a></li>
+                      <li><a href="conferences.html">Conferences</a></li>
+                      <li><a href="letters-of-recommendation.html">Letters of recommendation</a></li>
+                      <li><a href="presentations.html">Presentations</a></li>
+                </ul>
+    </li>
+      <li class="dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Build <b class="caret"></b>
+      </a>
+      <ul class="dropdown-menu">
+                    <li><a href="installation.html">Installation</a></li>
+                      <li><a href="releases.html">Releases</a></li>
+                      <li><a href="trust.html">Trust</a></li>
+                </ul>
+    </li>
+      <li class="active"><a href="projects.html">Projects</a></li>
+      <li><a href="developer-info.html">Contribute</a></li>
+      <li class="dropdown">
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Help <b class="caret"></b>
+      </a>
+      <ul class="dropdown-menu">
+                    <li><a href="http://www.youtube.com/user/ESGForg">Tutorials</a></li>
+                      <li><a href="http://askbot.esgf.org/"">Support forum</a></li>
+                      <li><a href="mailing-list.html">Mailing list</a></li>
+                </ul>
+    </li>
+  </ul>
+      </div>
+      <form class="navbar-search pull-right visible-desktop" action="search.php" method="post"><input name="searchwhat" type="hidden" value="site">
+      <input type="search" name="googleseachTerm" class="search-query span3" placeholder="search site...">
+      </form>
+    </div>
+  </div>
+  </div>
+
+<div style="margin-bottom: 60px;"></div>
+
+
+    <div class="container" id="top">
+      <h2>ESGF P2P Node Projects</h2>
+<p>The ESGF P2P Node is the central project.  It is an amalgam of several
+sub-projects and external software components and libraries to create a single
+Data Node artifact capable of searching, sharing and posting large amounts of
+metadata.</p>
+<h3>installer</h3>
+<h5>GitHub: <a href="https://github.com/ESGF/esgf-installer">Source</a>, <a href="https://github.com/ESGF/esgf-installer/issues">Issues</a>, <a href="https://github.com/ESGF/esgf-installer/wiki">Wiki</a></h5>
+<p><img src="http://esgf.org/esgf-installer-site/images/logo.jpg" class="project-icon"></p>
+<ul>
+<li>Build, install, configure and maintain the ESGF Node.</li>
+</ul>
+<hr />
+<h3>node-manager</h3>
+<h5>GitHub: <a href="https://github.com/ESGF/esgf-node-manager">Source</a>, <a href="https://github.com/ESGF/esgf-node-manager/issues">Issues</a>, <a href="https://github.com/ESGF/esgf-node-manager/wiki">Wiki</a></h5>
+<p><img src="http://esgf.org/esgf-node-manager-site/images/logo.png" class="project-icon"></p>
+<ul>
+<li>Central component for managing constituent <em>components</em> and overall inter
+and intra node activity.</li>
+<li>The node manager provides the framework for the coordination and management of the various components that comprise the ESGF Node.</li>
+<li>coordination, monitoring, metrics, notification, routing, discovery, etc</li>
+</ul>
+<h4>esgf-shell</h4>
+<p><img src="http://esgf.org/esgf-node-manager-site/images/shell.jpg" class="project-icon"></p>
+<ul>
+<li>The shell provides an interactive commandline <em>(REPL)</em> environment from which
+the user can manipulate the node and take advantage of node features.</li>
+<li>Use the esgf shell (esgf-sh) as a command line alternative interface into all
+the features of the ESGF Node. Write your own custom commands in Java, Clojure,
+Scala, Groovy and/or BeanShell. The shell provides familiar shell features and
+full set of commands to let you take advantage of the simple power of the
+command line.</li>
+<li>The esgf shell provides a simple shell and command line interface to the
+node's services. Users can use the shell to perform any of the tasks that may
+be performed through the web user interface. To help end users leverage the
+shell to it's maximum the shell provides the ability for end-users to develop
+custom shell commands. Commands can be written in Java, Closure, Scala,
+Jython, Groovy, or BeanShell. Through custom commands end-users have a direct
+mechanism for extending the node features and creating new ones!</li>
+<li>Power, simplicity, flexibility, extensibility, etc.</li>
+</ul>
+<hr />
+<h3>dashboard</h3>
+<h5>GitHub: <a href="https://github.com/ESGF/esgf-dashboard">Source</a>, <a href="https://github.com/ESGF/esgf-dashboard/issues">Issues</a>, <a href="https://github.com/ESGF/esgf-dashboard/wiki">Wiki</a></h5>
+<p><img src="http://esgf.org/esgf-dashboard-site/images/logo.png" class="project-icon"></p>
+<ul>
+<li>Federation level monitoring tool. The dashboard and the node manager enjoy a
+symbiotic relationship as they both participate in federation level
+activities.  Different from the node manager's role the dashboard monitors
+nodes once they are discovered and join the federation. The dashboard
+maintains historical information, whereas the node manager is primarily
+interested in keeping federation data up to date and in sync. The dashboard
+has a 'back-end' written and a quite attractive :-) front-end displaying not
+only node participation but node location as well!</li>
+</ul>
+<hr />
+<h3>desktop</h3>
+<h5>GitHub: <a href="https://github.com/ESGF/esgf-desktop">Source</a>, <a href="https://github.com/ESGF/esgf-desktop/issues">Issues</a>, <a href="https://github.com/ESGF/esgf-desktop/wiki">Wiki</a></h5>
+<p><img src="http://esgf.org/esgf-desktop-site/images/logo.png" class="project-icon"></p>
+<ul>
+<li>Federation level desktop</li>
+<li>The ESGF Desktop extends the functionalities provided by the data node
+adding an intuitive interface to back-end esgf node "monitoring" statistics
+and information - using the desktop metaphor. It extends the data node by
+providing a back-end monitoring system and a front-end user interface
+for monitoring purposes.</li>
+</ul>
+<hr />
+<h3>publisher</h3>
+<h5>GitHub: <a href="https://github.com/ESGF/esgf-publisher">Source</a>, <a href="https://github.com/ESGF/esgf-publisher/issues">Issues</a>, <a href="https://github.com/ESGF/esgf-publisher/wiki">Wiki</a></h5>
+<p><img src="http://esgf.org/esg-publisher-site/images/logo.png" class="project-icon"></p>
+<ul>
+<li>Harvests, publishes, replicates and maintains meta data.</li>
+<li>Primary feature component for performing meta data harvesting, publishing
+and maintenance. Features pluggable handler design architecture for multi
+data format support.</li>
+</ul>
+<hr />
+<h3>idp</h3>
+<h5>GitHub: <a href="https://github.com/ESGF/esgf-idp">Source</a>, <a href="https://github.com/ESGF/esgf-idp/issues">Issues</a>, <a href="https://github.com/ESGF/esgf-idp/wiki">Wiki</a></h5>
+<p><img src="http://esgf.org/esgf-idp-site/images/logo.jpg" class="project-icon"></p>
+<ul>
+<li>The identity provider in the ESGF SSO federation as well as account management
+and access control system. Also including a web-based interface for site
+administrators.</li>
+<li>Identity Provider and User Manager</li>
+<li>Where users are managed and identities kept.</li>
+<li>identity, security, naming, access, people</li>
+<li>Identity Provider and User Manager</li>
+<li>Where users are managed and identities kept.</li>
+<li>identity, security, naming, access, people</li>
+</ul>
+<hr />
+<h3>orp</h3>
+<h5>GitHub: <a href="https://github.com/ESGF/esgf-orp">Source</a>, <a href="https://github.com/ESGF/esgf-orp/issues">Issues</a>, <a href="https://github.com/ESGF/esgf-orp/wiki">Wiki</a></h5>
+<p><img src="http://esgf.org/esg-orp-site/images/logo.png" class="project-icon"></p>
+<ul>
+<li>The OpenID Relying Party - relays end-users to their home organization's IDP
+(identity provider) for secure login and connection to <em>local</em> resources</li>
+<li>OpenID relying party</li>
+<li>Provides the federation of nodes the ability to have single sign-on, with
+OpenID support.</li>
+<li>Single sign-on</li>
+</ul>
+<hr />
+<h3>security</h3>
+<h5>GitHub: <a href="https://github.com/ESGF/esgf-security">Source</a>, <a href="https://github.com/ESGF/esgf-security/issues">Issues</a>, <a href="https://github.com/ESGF/esgf-security/wiki">Wiki</a></h5>
+<p><img src="http://esgf.org/esgf-security-site/images/logo.png" class="project-icon"></p>
+<ul>
+<li>Security infrastructure for nodes and federation.</li>
+<li>Security infrastructure protecting data integrity and access on each node and
+across the federation.</li>
+</ul>
+<hr />
+<h3>search</h3>
+<h5>GitHub: <a href="https://github.com/ESGF/esgf-search">Source</a>, <a href="https://github.com/ESGF/esgf-search/issues">Issues</a>  , <a href="https://github.com/ESGF/esgf-search/wiki">Wiki</a></h5>
+<p><img src="http://esgf.org/esg-search-site/images/logo.png" class="project-icon"></p>
+<ul>
+<li>Search mechanism that supports search across entire corpus of ever-changing
+published metadata.</li>
+<li>The ESGF search module contains the next generation search functionality for
+the Earth System Grid Federation, built upon the Apache Solr search engine. The
+package contains functionality for:</li>
+<li>Publishing and unpublishing search metadata records into and from a Solr
+  server. Metadata records are generated by harvesting a remote metadata source
+  (a hierarchy of THREDDS catalogs, a OAI repository, a CAS metadata catalog).</li>
+<li>Searching the Solr engine content via a free text, faceted search or a
+  geo-spatial and temporal search.</li>
+</ul>
+<hr />
+<h3>drslib</h3>
+<h5>GitHub: <a href="https://github.com/ESGF/esgf-drslib">Source</a>, <a href="https://github.com/ESGF/esgf-drslib/issues">Issues</a>, <a href="https://github.com/ESGF/esgf-drslib/wiki">Wiki</a></h5>
+<p><img src="http://esgf.org/esgf-drslib-site/images/logo.png" class="project-icon"></p>
+<ul>
+<li>Set of libraries for handling the DRS taxonomy that model data adheres to.</li>
+</ul>
+<hr />
+<h3>stager</h3>
+<h5>GitHub: <a href="https://github.com/ESGF/esgf-stager">Source</a>, <a href="https://github.com/ESGF/esgf-stager/issues">Issues</a>, <a href="https://github.com/ESGF/esgf-stager/wiki">Wiki</a></h5>
+<p><img src="http://esgf.org/esgf-stager-site/images/logo.png" class="project-icon"></p>
+<ul>
+<li>A system for connecting to and retrieving data from back-end deep storage
+archives.</li>
+<li>The Stager provides the means to transparently access files located at a
+remote system. Remote files are cached locally preserving the directory
+structure from the remote structure.</li>
+<li>Implementation<ul>
+<li>The current implementation uses a Java web Filter for intercepting the file
+requests targeted at servlets running locally. These calls are handled
+differently depending on the user-agent attribute from the http request
+header.<ul>
+<li>If the request was started from within a browser, the user is redirected
+to a "waiting page" from where it will be automatically redirected to the
+original servlet when the file is ready.</li>
+<li>In case the request was started by a tool, the request will just block
+until the file is available.</li>
+</ul>
+</li>
+<li>The file retrieval will be triggered only once and in cache the file is
+already in the cache the filter will return immediately allowing the call to
+proceed normally without any delay. This call is logged to optimize the
+cache-cleaning mechanism.</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3>web-fe</h3>
+<h5>GitHub: <a href="https://github.com/ESGF/esgf-web-fe">Source</a>, <a href="https://github.com/ESGF/esgf-web-fe/issues">Issues</a>, <a href="https://github.com/ESGF/esgf-web-fe/wiki">Wiki</a></h5>
+<p><img src="http://esgf.org/esgf-web-fe-site/images/logo.png" class="project-icon"></p>
+<ul>
+<li>The web front-end to the federation.  Interface to fasceted search and other services.</li>
+</ul>
+<hr />
+<h3>fetcher</h3>
+<h5>GitHub: <a href="https://github.com/ESGF/esgf-fetcher">Source</a>, <a href="https://github.com/ESGF/esgf-fetcher/issues">Issues</a>, <a href="https://github.com/ESGF/esgf-fetcher/wiki">Wiki</a></h5>
+<p><img src="http://esgf.org/esgf-fetcher-site/images/logo.jpg" class="project-icon"></p>
+<ul>
+<li>Download published datasets and stay up-to-date.</li>
+<li>Fetching and keeping updated with ESGF Published data.</li>
+<li>Fast, Secure and Easy</li>
+<li>Stay Tuned... - Work in progress</li>
+<li>The ESGF Fetcher leverages the ESGF security mechanisms (esgf-security) and
+provides fast and secure HTTP file downloads. It also maintains and updates
+downloaded files with its built-in "broadcatching" capabilities. The fetcher has
+a secured RESTful interface as its control channel and provides a web and esgf
+shell (esgf-sh) command line interface. The Fetcher is a stand alone service
+that may be run on any host without any other dependencies.</li>
+</ul>
+<hr />
+<h3>toolbox</h3>
+<h5>GitHub: <a href="https://github.com/ESGF/esgf-toolbox">Source</a>, <a href="https://github.com/ESGF/esgf-fetcher/issues">Issues</a>, <a href="https://github.com/ESGF/esgf-toolbox/wiki">Wiki</a></h5>
+<p><img src="http://esgf.org/esgf-toolbox-site/images/logo.jpg" class="project-icon"></p>
+<ul>
+<li>Algorithms and tools to help you wrangle your data.</li>
+<li>The Premiere Toolbox of computation algorithms</li>
+<li>Big Data -&gt; Big Computation -&gt; Big Analytics... No Problem</li>
+<li>Stay Tuned... - Work in progress</li>
+<li>The ESGF Toolbox is a collection of algorithms written in Java, Scala, Clojure
+and Python that leverages ESGF Compute Tools' "Big Data" infrastructure to
+perform computation, analytics and querying over ESGF datasets.</li>
+</ul>      <hr>
+      <footer>
+        <p><a href="http://github.com/esgf"><img src="media/images/github.svg" style="margin-top: -7px; height: 15px;"/></a> &bull;
+<a href="http://www-pcmdi.llnl.gov/">PCMDI</a> &bull; <a href="http://cmip-pcmdi.llnl.gov/cmip5/">CMIP5</a> &bull; <a href="http://www.llnl.gov/">LLNL</a> &bull; <a href="https://www.llnl.gov/disclaimer.html">Privacy &amp; Legal Notice</a> &bull; <a href="#">LLNL-WEB-460643</a></p>      </footer>
+    </div> <!-- /container -->
+
+     
+
+                <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    
+        <script src="media/js/links.js"></script>
+
+        <script src="media/js/libs/bootstrap.js"></script>
+    <script src="media/js/libs/bootstrap-button.js"></script>
+    <script src="media/js/libs/bootstrap-collapse.js"></script>
+    <script src="media/js/libs/bootstrap-dropdown.js"></script>
+    <script src="media/js/libs/bootstrap-transition.js"></script>
+        
+        
+    <!--[if lt IE 7 ]>
+      <script src="/media/js/libs/dd_belatedpng.js"></script>
+      <script>DD_belatedPNG.fix('img, .png_bg'); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
+    <![endif]-->
+
+      </body>
+</html>
