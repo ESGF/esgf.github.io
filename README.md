@@ -9,5 +9,5 @@ To make changes to this site please clone the full site.
 
     git clone https://github.com/aims-group/esgf-site.git
     
-This repo is updated nightly from the depoly generated from that repo.
+This repo is updated nightly from the deploy generated from that repo.
 
