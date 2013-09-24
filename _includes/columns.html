@@ -1,0 +1,24 @@
+{# Columns template #}
+
+{% extends "topbar.j2" %}
+
+{% block container %}
+
+<div class="row">
+  <div class="span3">
+    <div class="well sidebar-nav">
+        {% from "macros.j2" import render_sidebar with context %}
+        {{ render_sidebar() }}
+    </div><!--well-->
+  </div><!--span-->
+  <div class="span9">
+      {% filter markdown -%}
+      {% block main %}{% endblock %}
+      {%- endfilter %}
+  </div><!--span-->
+</div><!--row-->
+
+{% endblock container %}
+
+
+

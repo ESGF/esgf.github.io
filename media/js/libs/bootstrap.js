@@ -1583,7 +1583,7 @@
               , $href = /^#\w/.test(href) && $(href)
             return ( $href
               && $href.length
-              && /%24href.position%28%29.top%20%2B%20%28%21%24.isWindow%28self.%24scrollElement.get%280%29%29%20%26%26%20self.%24scrollElement.scrollTop%28%29%29%2C%20href ) || null
+              && [[ $href.position().top + (!$.isWindow(self.$scrollElement.get(0)) && self.$scrollElement.scrollTop()), href ]] ) || null
           })
           .sort(function (a, b) { return a[0] - b[0] })
           .each(function () {

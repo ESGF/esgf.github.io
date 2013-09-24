@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title> {{ page.title }} </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="media/css/bootstrap.css" rel="stylesheet">
+    <link href="media/css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="media/css/nav-hover.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-bottom: 40px;
+      }
+      .sidebar-nav {
+        padding: 9px 0;
+      }
+
+      @media (max-width: 980px) {
+      /* Enable use of
+      floated navbar
+      text */
+        .navbar-text.pull-right
+        {
+          float:
+          none;
+          padding-left:
+          5px;
+          padding-right:
+          5px;
+        }
+      }
+    </style>
+
+    <!-- Place favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+    <link rel="shortcut icon" href="media/images/favicon.ico">
+    <link rel="apple-touch-icon" href="#">
+    <link rel="apple-touch-icon" sizes="72x72" href="#">
+    <link rel="apple-touch-icon" sizes="114x114" href="#">
+    {% include analytics.html %}
+    </head>
+
+  <body>
+    {% include topbar.html %}
+    
+    <div class="container" id="top">
+      <div class="container-fluid">
+        <div class="row-fluid">
+          <div class="span3">
+            <div class="well sidebar-nav">
+              <ul class="nav nav-list">
+                <a href="releases.html"><h4>Releases home</h4></a>
+                <li class="nav-header">Releases</li>
+                <li><a href="release1.5.html">Release 1.5</a></li>
+                <li><a href="release1.4.html">Release 1.4</a></li>
+                <li><a href="release1.2.html">Release 1.2</a></li>
+                <li class="nav-header">Roadmap</li>
+                <li><a href="roadmap.html">Developer roadmap</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="span9"> 
+            {{ content }}
+          </div>
+        </div>
+      </div> 
+      <hr>
+      <footer>
+        <a href="http://github.com/esgf">CODE</a> &bull;
+        <a href="http://www-pcmdi.llnl.gov/">PCMDI</a> &bull;
+        <a href="http://cmip-pcmdi.llnl.gov/cmip5/">CMIP5</a>
+      </footer>
+    </div> <!-- /container -->
+
+    <!-- Javascript at the bottom for fast page loading -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+    <!-- The following line makes external links open in new windows -->
+    <script src="media/js/links.js"></script>
+    
+    <script src="media/js/libs/bootstrap.js"></script>
+    <script src="media/js/libs/bootstrap-button.js"></script>
+    <script src="media/js/libs/bootstrap-collapse.js"></script>
+    <script src="media/js/libs/bootstrap-dropdown.js"></script>
+    <script src="media/js/libs/bootstrap-transition.js"></script>
+    <!--  <script src="media/js/libs/bootstrap-alert.js"></script>-->
+    <!--  <script src="media/js/libs/bootstrap-modal.js"></script>-->
+    <!--  <script src="media/js/libs/bootstrap-scrollspy.js"></script>-->
+    <!--  <script src="media/js/libs/bootstrap-tab.js"></script>-->
+    <!--  <script src="media/js/libs/bootstrap-tooltip.js"></script>-->
+    <!--  <script src="media/js/libs/bootstrap-popover.js"></script>-->
+    <!--  <script src="media/js/libs/bootstrap-carousel.js"></script>-->
+    <!--  <script src="media/js/libs/bootstrap-typeahead.js"></script>-->
+    <!-- Uncomment any of these lines to enable that plugin on your site -->
+
+  </body>
+</html>

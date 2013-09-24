@@ -1,125 +1,15 @@
+---
+layout: default
+title: Trust
+---
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-        <meta charset="">
-    <title>Trust | ESGF.org</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Test description">
-    <meta name="author" content="">
+## ESG Federation Trust Roots
+This page is the central source for all ESG Federation trust root information. It provides a distribution of all trust roots that need to be trusted by Gateways and Data Nodes that participate in the ESG Federation. 
 
-        <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+### PKI Trust Roots
+These are a collection of CA certificates that are trusted by ESG Federation services
+Show Trusted CA Certificates
 
-        <link href="media/css/bootstrap.css" rel="stylesheet">
-    <link href="media/css/bootstrap-responsive.css" rel="stylesheet">
-    <link href="media/css/nav-hover.css" rel="stylesheet">    <style type="text/css">
-        body {
-            padding-bottom: 40px;
-        }
-        .sidebar-nav {
-            padding: 9px 0;
-        }
-
-        @media (max-width: 980px) {
-            /* Enable use of
-            floated navbar
-            text */
-            .navbar-text.pull-right
-            {
-                float:
-                none;
-                padding-left:
-                5px;
-                padding-right:
-                5px;
-            }
-        }
-    </style>
-        
-            <link rel="shortcut icon" href="media/images/favicon.ico">
-    <link rel="apple-touch-icon" href="/media/img/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/media/img/appleimgim-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/media/img/apple-touch-icon-114x114.png">
-    
-        
-                  </head>
-
-  <body class="trust">
-
-    <div class="navbar navbar-inverse navbar-fixed-top">
-    <div class="navbar-inner">
-    <div class="container">
-      <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a href="index.html"><img src="media/images/esgfSmall.png" style="float:left"/></a>
-      <div class="nav-collapse">
-                <ul class="nav">
-    <li class="dropdown">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown">About <b class="caret"></b>
-      </a>
-      <ul class="dropdown-menu">
-                    <li><a href="mission.html">Mission</a></li>
-                      <li><a href="federation-design.html">Federation design</a></li>
-                      <li><a href="node-design.html">Node design</a></li>
-                      <li><a href="governance.html">Governance</a></li>
-                      <li><a href="committee.html">Committee</a></li>
-                      <li><a href="acknowledgments.html">Acknowledgments</a></li>
-                </ul>
-    </li>
-      <li class="dropdown">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Documents <b class="caret"></b>
-      </a>
-      <ul class="dropdown-menu">
-                    <li><a href="publications.html">Publications</a></li>
-                      <li><a href="reports.html">Reports</a></li>
-                      <li><a href="conferences.html">Conferences</a></li>
-                      <li><a href="letters-of-recommendation.html">Letters of recommendation</a></li>
-                      <li><a href="presentations.html">Presentations</a></li>
-                </ul>
-    </li>
-      <li class="dropdown active">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Build <b class="caret"></b>
-      </a>
-      <ul class="dropdown-menu">
-                    <li><a href="installation.html">Installation</a></li>
-                      <li><a href="releases.html">Releases</a></li>
-                      <li><a href="trust.html">Trust</a></li>
-                </ul>
-    </li>
-      <li><a href="projects.html">Projects</a></li>
-      <li><a href="developer-info.html">Contribute</a></li>
-      <li class="dropdown">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown">Help <b class="caret"></b>
-      </a>
-      <ul class="dropdown-menu">
-                    <li><a href="http://www.youtube.com/user/ESGForg">Tutorials</a></li>
-                      <li><a href="http://askbot.esgf.org/"">Support forum</a></li>
-                      <li><a href="mailing-list.html">Mailing list</a></li>
-                </ul>
-    </li>
-  </ul>
-      </div>
-      <!-- <form class="navbar-search pull-right visible-desktop" action="search.php" method="post"><input name="searchwhat" type="hidden" value="site"> -->
-      <!--<input type="search" name="googleseachTerm" class="search-query span3" placeholder="search site...">-->
-      <!--</form>-->
-    </div>
-  </div>
-  </div>
-
-<div style="margin-bottom: 60px;"></div>
-
-
-    <div class="container" id="top">
-      <h2>ESG Federation Trust Roots</h2>
-<p>This page is the central source for all ESG Federation trust root information. It provides a distribution of all trust roots that need to be trusted by Gateways and Data Nodes that participate in the ESG Federation. </p>
-<h3>PKI Trust Roots</h3>
-<p>These are a collection of CA certificates that are trusted by ESG Federation services
-Show Trusted CA Certificates</p>
 <div id="trustedCertificates">
   <table cellspacing="1" cellpadding="2" border="0">
     <tr bgcolor="#eaeaea"><td nowrap style="padding-right: 19px;"> <strong>Certificate Hash</strong> </td><td> <strong>Certificate DN</strong> </td></tr>
@@ -188,68 +78,76 @@ Show Trusted CA Certificates</p>
   </table>
 </div>
 
-<p>Available here is a link to a gzip compressed tar archive of all of these CA certificates and signing policy files.
-* <a href="https://rainbow.llnl.gov/dist/certs/esg_trusted_certificates.tar" target="_top">https://rainbow.llnl.gov/dist/certs/esg_trusted_certificates.tar</a> [<a href="https://rainbow.llnl.gov/dist/certs/esg_trusted_certificates.md5">MD5</a>]</p>
-<p>For your convenience, a truststore has been created that contains the above certificates in it.
-* <a href="https://rainbow.llnl.gov/dist/certs/esg-truststore.ts" target="_top">https://rainbow.llnl.gov/dist/certs/esg-truststore.ts</a> <!-- [<a href="https://rainbow.llnl.gov/dist/certs/esg-truststore.ts.md5">MD5</a>] --></p>
-<hr />
-<h4>Using PKI Trust Roots: Trusted CA Certificates</h4>
-<p>This section will briefly discuss how to consume the above tarball archive. First of course it must be downloaded and the md5sum should be verified to match the above listing.  After that, it should be extracted to a temporary directory and the contents copied over to <em>/etc/grid-security/certificates</em>.  An example of command used to do this could look something like this:</p>
-<pre><code>neillm@boiler:~$ cd /tmp
-neillm@boiler:/tmp$ mkdir TMPCERTS
-neillm@boiler:/tmp$ cd TMPCERTS/
-neillm@boiler:/tmp/TMPCERTS$ wget --no-check-certificate https://rainbow.llnl.gov/dist/certs/esg-trusted-certificates.tar 
---2010-08-23 09:05:06--  https://rainbow.llnl.gov/dist/certs/esg-trusted-certificates.tar Resolving rainbow.llnl.gov... 198.128.245.140
-Connecting to rainbow.llnl.gov... 198.128.245.140... :443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 14250 (14K) [application/x-tar]
-Saving to: `esg-trusted-certificates.tar
+Available here is a link to a gzip compressed tar archive of all of these CA certificates and signing policy files.
+* <a href="https://rainbow.llnl.gov/dist/certs/esg_trusted_certificates.tar" target="_top">https://rainbow.llnl.gov/dist/certs/esg_trusted_certificates.tar</a> [<a href="https://rainbow.llnl.gov/dist/certs/esg_trusted_certificates.md5">MD5</a>]
 
-100%[==============================================================================&gt;] 14,250      --.-K/s   in 0.02s
+For your convenience, a truststore has been created that contains the above certificates in it.
+* <a href="https://rainbow.llnl.gov/dist/certs/esg-truststore.ts" target="_top">https://rainbow.llnl.gov/dist/certs/esg-truststore.ts</a> <!-- [<a href="https://rainbow.llnl.gov/dist/certs/esg-truststore.ts.md5">MD5</a>] -->
 
-2010-08-23 09:05:06 (609 KB/s) - `esg-trusted-certificates.tar saved [14250/14250]
+---
 
-neillm@boiler:/tmp/TMPCERTS$ md5sum esg-trusted-certificates.tar
-[ MAKE SURE THIS VALUE MATCHES THE ONE LISTED ABOVE ]
-neillm@boiler:/tmp/TMPCERTS$ tar -xf esg-trusted-certificates.tar
-neillm@boiler:/tmp/TMPCERTS$ sudo cp esg-trusted-certificates// /etc/grid-security/certificates/
-</code></pre>
-<hr />
-<h4>Using PKI Trust Roots: The TrustStore</h4>
-<p>In order to use the above provided trust store, it must be configured for your java environment (which can be done in a number of ways).  Assuming you're using tomcat, it should be downloaded and referenced from your tomcat configuration as shown below.  If you're using it from another Java application, see the command line configuration below that. <br />
-Either way, start by downloading the trust store file and verifying the md5sum:</p>
-<pre><code>neillm@boiler:/tmp/TMPCERTS$ wget --no-check-certificate https://rainbow.llnl.gov/dist/certs/esg-truststore.ts
---2010-08-24 08:15:56--  https://rainbow.llnl.gov/dist/certs/esg-truststore.ts
-Resolving rainbow.llnl.gov... 198.128.245.140
-Connecting to rainbow.llnl.gov... 198.128.245.140... :443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 82872 (81K) [text/texmacs]
-Saving to: `esg-truststore.ts
+####Using PKI Trust Roots: Trusted CA Certificates
+This section will briefly discuss how to consume the above tarball archive. First of course it must be downloaded and the md5sum should be verified to match the above listing.  After that, it should be extracted to a temporary directory and the contents copied over to */etc/grid-security/certificates*.  An example of command used to do this could look something like this:
 
-100%[==============================================================================&gt;] 82,872      --.-K/s   in 0.09s
+    neillm@boiler:~$ cd /tmp
+    neillm@boiler:/tmp$ mkdir TMPCERTS
+    neillm@boiler:/tmp$ cd TMPCERTS/
+    neillm@boiler:/tmp/TMPCERTS$ wget --no-check-certificate https://rainbow.llnl.gov/dist/certs/esg-trusted-certificates.tar 
+    --2010-08-23 09:05:06--  https://rainbow.llnl.gov/dist/certs/esg-trusted-certificates.tar Resolving rainbow.llnl.gov... 198.128.245.140
+    Connecting to rainbow.llnl.gov... 198.128.245.140... :443... connected.
+    HTTP request sent, awaiting response... 200 OK
+    Length: 14250 (14K) [application/x-tar]
+    Saving to: `esg-trusted-certificates.tar
 
-2010-08-24 08:15:56 (863 KB/s) - `esg-truststore.ts saved [82872/82872]
+    100%[==============================================================================>] 14,250      --.-K/s   in 0.02s   
 
-neillm@boiler:/tmp/TMPCERTS$ md5sum esg-truststore.ts
-</code></pre>
-<p>In tomcat, to configure the usage of a particular trust store file, you need to modify the <em>$CATALINA_HOME/conf/server.xml</em> file.  Find the relevant connector section and edit it by adding in the paths to the trust store and keystore used.  An example section looks like this:</p>
-<pre><code>&lt;Connector port="8443"  SSLEnabled="true" maxHttpHeaderSize="8192"
-maxThreads="150" minSpareThreads="25" maxSpareThreads="75"
+    2010-08-23 09:05:06 (609 KB/s) - `esg-trusted-certificates.tar saved [14250/14250]
 
-enableLookups="false" disableUploadTimeout="true"
-acceptCount="100" scheme="https" secure="true"
+    neillm@boiler:/tmp/TMPCERTS$ md5sum esg-trusted-certificates.tar
+    [ MAKE SURE THIS VALUE MATCHES THE ONE LISTED ABOVE ]
+    neillm@boiler:/tmp/TMPCERTS$ tar -xf esg-trusted-certificates.tar
+    neillm@boiler:/tmp/TMPCERTS$ sudo cp esg-trusted-certificates// /etc/grid-security/certificates/
 
-clientAuth="want" sslProtocol="TLS"
-keystoreFile="/PATH/TO/TOMCAT/mykeystore.ks" keystorePass="KEYSTORE-PASSWORD"
-trustoreFile="/PATH/TO/TOMCAT/esg-truststore.ts" trustorePass="TRUSTSTORE-PASSWORD" /&gt;
-</code></pre>
-<p>After making this configuration change, you need to stop and start Tomcat by running the <em>$CATALINA_HOME/bin/catalina.sh</em> script. <br />
-For other command line Java applications, to configure the usage of a particular trust store, you need to modify the <em>$JAVA_OPTS</em> environment variable to include a pointer to the new trust store.  An example of this is shown here:</p>
-<pre><code>neillm@boiler:/tmp/TMPCERTS$ export JAVA-OPTS="-Djavax.net.ssl.trustStore=/tmp/TMPCERTS/esg-truststore.ts -Djavax.net.ssl.trustStorePassword=TRUSTSTORE-PASSWORD $JAVA-OPTS"
-</code></pre>
-<hr />
-<h3>ESG Whitelisting Policy</h3>
-<p>See Accepted OpenID IdP Endpoint Table
+---
+
+#### Using PKI Trust Roots: The TrustStore
+In order to use the above provided trust store, it must be configured for your java environment (which can be done in a number of ways).  Assuming you're using tomcat, it should be downloaded and referenced from your tomcat configuration as shown below.  If you're using it from another Java application, see the command line configuration below that.   
+Either way, start by downloading the trust store file and verifying the md5sum:
+
+    neillm@boiler:/tmp/TMPCERTS$ wget --no-check-certificate https://rainbow.llnl.gov/dist/certs/esg-truststore.ts
+    --2010-08-24 08:15:56--  https://rainbow.llnl.gov/dist/certs/esg-truststore.ts
+    Resolving rainbow.llnl.gov... 198.128.245.140
+    Connecting to rainbow.llnl.gov... 198.128.245.140... :443... connected.
+    HTTP request sent, awaiting response... 200 OK
+    Length: 82872 (81K) [text/texmacs]
+    Saving to: `esg-truststore.ts
+
+    100%[==============================================================================>] 82,872      --.-K/s   in 0.09s   
+
+    2010-08-24 08:15:56 (863 KB/s) - `esg-truststore.ts saved [82872/82872]
+
+    neillm@boiler:/tmp/TMPCERTS$ md5sum esg-truststore.ts
+
+In tomcat, to configure the usage of a particular trust store file, you need to modify the *$CATALINA_HOME/conf/server.xml* file.  Find the relevant connector section and edit it by adding in the paths to the trust store and keystore used.  An example section looks like this:
+
+    <Connector port="8443"  SSLEnabled="true" maxHttpHeaderSize="8192"
+    maxThreads="150" minSpareThreads="25" maxSpareThreads="75"
+
+    enableLookups="false" disableUploadTimeout="true"
+    acceptCount="100" scheme="https" secure="true"
+
+    clientAuth="want" sslProtocol="TLS"
+    keystoreFile="/PATH/TO/TOMCAT/mykeystore.ks" keystorePass="KEYSTORE-PASSWORD"
+    trustoreFile="/PATH/TO/TOMCAT/esg-truststore.ts" trustorePass="TRUSTSTORE-PASSWORD" />
+
+After making this configuration change, you need to stop and start Tomcat by running the *$CATALINA_HOME/bin/catalina.sh* script.   
+For other command line Java applications, to configure the usage of a particular trust store, you need to modify the *$JAVA_OPTS* environment variable to include a pointer to the new trust store.  An example of this is shown here:
+
+    neillm@boiler:/tmp/TMPCERTS$ export JAVA-OPTS="-Djavax.net.ssl.trustStore=/tmp/TMPCERTS/esg-truststore.ts -Djavax.net.ssl.trustStorePassword=TRUSTSTORE-PASSWORD $JAVA-OPTS"
+
+---
+### ESG Whitelisting Policy
+See Accepted OpenID IdP Endpoint Table
 <div id="idpendpoint">
   <table cellspacing="1" cellpadding="1" border="0">
     <tr bgcolor="#eaeaea"><td> DN </td></tr>
@@ -267,9 +165,10 @@ For other command line Java applications, to configure the usage of a particular
     <tr bgcolor="#eaeaea"><td> CN=ANL Gateway CA, OU=www.esg.anl.gov, OU=ESG-ANL, O=ESG </td></tr>
     <tr bgcolor="#ffffff"><td> CN=ANL Gateway CA, OU=www.esg.anl.gov, OU=ESG-ANL, O=ESG </td></tr>
   </table>
-  <b>NOTE: <em>Not all of the above OpenID Endpoints are operational.  If your organization's endpoint is incorrect, please send mail to <a href="mailto:esgf-admin@lists.llnl.gov">esgf-admin@lists.llnl.gov</a> ASAP with the correct information</em></b>.
-</div></p>
-<p>See Accepted Gateway Endpoint Table
+  <b>NOTE: *Not all of the above OpenID Endpoints are operational.  If your organization's endpoint is incorrect, please send mail to <a href="mailto:esgf-admin@lists.llnl.gov">esgf-admin@lists.llnl.gov</a> ASAP with the correct information*</b>.
+</div>
+
+See Accepted Gateway Endpoint Table
 <div id="gatewayendpoint">
   <table cellspacing="1" cellpadding="1" border="0">
     <tr>
@@ -281,8 +180,9 @@ For other command line Java applications, to configure the usage of a particular
     <tr><td> N/a </td></tr>
     <tr><td> N/A </td></tr>
   </table>
-</div></p>
-<p>See Accepted Gateway/MyProxy Endpoint Table
+</div>
+
+See Accepted Gateway/MyProxy Endpoint Table
 <div id="gatewaymyproxyendpoint">
   <table cellspacing="1" cellpadding="1" border="0"><tr><td bgcolor="#eaeaea"> Organization 
     </td><td> DN </td></tr>
@@ -299,8 +199,9 @@ For other command line Java applications, to configure the usage of a particular
     <tr bgcolor="#eaeaea"><td> CN=ANL Gateway CA, OU=www.esg.anl.gov, OU=ESG-ANL, O=ESG </td></tr>
     <tr bgcolor="#ffffff"><td> CN=Globus Simple CA, OU=simpleCA-dev.esg.anl.gov, OU=GlobusTest, O=Grid </td></tr>
   </table>
-</div></p>
-<p>See Accepted Datanode Endpoint Table
+</div>
+
+See Accepted Datanode Endpoint Table
 <div id="datanodeendpoint">
   <table cellspacing="1" cellpadding="1" border="0">
     <tr bgcolor="#eaeaea"><td> DN </td></tr>
@@ -316,29 +217,4 @@ For other command line Java applications, to configure the usage of a particular
     <tr bgcolor="#eaeaea"><td> C=US, ST=IL, O=ESG, OU=ANL, CN=esg.anl.gov</td></tr>
     <tr bgcolor="#ffffff"><td> CN=Globus Simple CA, OU=simpleCA-dev.esg.anl.gov, OU=GlobusTest, O=Grid</td></tr>
   </table>
-</div></p>      <hr>
-      <footer>
-        <p><a href="http://github.com/esgf"><img src="media/images/github.svg" style="margin-top: -7px; height: 15px;"/></a> &bull;
-<a href="http://www-pcmdi.llnl.gov/">PCMDI</a> &bull; <a href="http://cmip-pcmdi.llnl.gov/cmip5/">CMIP5</a> &bull; <a href="https://www.llnl.gov/disclaimer.html">Privacy &amp; Legal Notice</a> <!-- &bull; <a href="http://www.llnl.gov/">LLNL</a> &bull; <a href="#">LLNL-WEB-460643</a> --></p>      </footer>
-    </div> <!-- /container -->
-
-     
-
-                <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-    
-        <script src="media/js/links.js"></script>
-
-        <script src="media/js/libs/bootstrap.js"></script>
-    <script src="media/js/libs/bootstrap-button.js"></script>
-    <script src="media/js/libs/bootstrap-collapse.js"></script>
-    <script src="media/js/libs/bootstrap-dropdown.js"></script>
-    <script src="media/js/libs/bootstrap-transition.js"></script>
-        
-        
-    <!--[if lt IE 7 ]>
-      <script src="/media/js/libs/dd_belatedpng.js"></script>
-      <script>DD_belatedPNG.fix('img, .png_bg'); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
-    <![endif]-->
-
-      </body>
-</html>
+</div>
