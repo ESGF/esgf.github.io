@@ -3,11 +3,10 @@ esgf.github.io
 
 ESGF Web Site
 
-This is the production repo. 
+To make changes to this site please clone (fork) the site.
 
-To make changes to this site please clone the full site.
-
-    git clone https://github.com/aims-group/esgf-site.git
+    git clone https://github.com/ESGF/esgf.github.io.git
     
-This repo is updated nightly from the deploy generated from that repo.
+This repo is updated with every push using [jekyll](http://jekyllrb.com)    
+Need help with [github](https://help.github.com) or [jekyll](https://help.github.com/articles/using-jekyll-with-pages)
 
