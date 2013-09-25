@@ -46,10 +46,10 @@ div.announcement p {
 {% include hero.html %}
 
 <div class="hero-unit announcement">
-  <h3>Third annual ESGF Face-to-Face</h3>
+  <h3>The Third Annual ESGF & UV-CDAT Face-to-Face Meeting</h3>
   <p>
-    Come see us at the 2013 ESGF F2F Conference this December. Check out the
-    <a href="conferences.html">conferences page</a> for more information.
+    Come see us at the 2013 ESGF & UV-CDAT F2F Conference December 3rd - 5th.<br/> 
+    <a href="https://www.regonline.com/register/checkin.aspx?eventid=1256768&ResponseMemberId=&jID=1313576">Register Here</a>.
   </p>
 </div>
 
