@@ -34,11 +34,11 @@ and other information posted on our [twitter feed][twitter]. You may also subscr
 ![ESGF data node diagram][dataNodePic]
 </center>
 
-*Who needs fancy design software when you have pencil, paper and crayons!*
+*Who needs fancy design software when you have pencil, paper and crayons! Right, Lola*
 
-[readme]:        https://github.com/ESGF/esgf-installer/blob/master/README
-[bootstrap]:     https://github.com/ESGF/esgf-installer/blob/master/esg-bootstrap
-[license]:       https://github.com/ESGF/esgf-installer/blob/master/LICENSE
+[readme]:        https://raw.github.com/ESGF/esgf-installer/master/README
+[bootstrap]:     https://raw.github.com/ESGF/esgf-installer/master/esg-bootstrap
+[license]:       https://raw.github.com/ESGF/esgf-installer/master/LICENSE
 [mailinglist]:   mailing-list.html
 [wiki]:          http://github.com/ESGF/esgf-installer/wiki
 [twitter]:       http://twitter.com/ESGForg
