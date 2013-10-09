@@ -116,10 +116,10 @@ The best and recommended way to install and setup the Node is to first visit the
 [flags-features]: http://esgf.org/esgf-installer-site
 [esgf-node]: node.html
 [esgf-home]: http://esgf.org
-[wiki-functions]: http://www.esgf.org/wiki/ESGF_Functionality
+[wiki-functions]: https://github.com/ESGF/esgf.github.io/wiki/ESGF_Functionality
 [rainbow-dist]: http://rainbow.llnl.gov/dist/
 [rainbow-howto]: http://rainbow.llnl.gov/dist/esgf-installer/HOWTO
 [rainbow-bootstrap]: http://rainbow.llnl.gov/dist/esgf-installer/esg-bootstrap
-[release-notes]: http://www.esgf.org/wiki/Release_1.4
-[road-map]: http://www.esgf.org/wiki/RoadMap
+[release-notes]: https://github.com/ESGF/esgf.github.io/wiki/Release_1.4
+[road-map]: https://github.com/ESGF/esgf.github.io/wiki/RoadMap
 [other-version]: rel-v1.4.2-brooklyn_heights.html

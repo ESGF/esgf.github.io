@@ -79,5 +79,5 @@ title: Release v1.2
 
   ---
 
-[myproxy]: http://www.esgf.org/wiki/MyProxy
-[idps]: http://www.esgf.org/wiki/IdPs
+[myproxy]: https://github.com/ESGF/esgf.github.io/wiki/MyProxy
+[idps]: https://github.com/ESGF/esgf.github.io/wiki/IdPs

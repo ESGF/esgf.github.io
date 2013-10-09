@@ -7,7 +7,7 @@ title: Road Map
 [java]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 [macjava]: http://docs.oracle.com/javase/7/docs/webnotes/install/mac/mac-jdk.html
 [thredds]: http://www.unidata.ucar.edu/projects/THREDDS/tech/TDS.html
-[javascript]: http://esgf.org/wiki/JavaScript
+[javascript]: https://github.com/ESGF/esgf.github.io/wiki/JavaScript
 [uread]: http://uread.llnl.gov/
 
 ##ESGF Developer Release Roadmap

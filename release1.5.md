@@ -133,7 +133,7 @@ done
     Please re-run this task until successful before continuing further
     
     Also please review the installation FAQ it may assist you
-    http://esgf.org/wiki/ESGFNode/FAQ
+    https://github.com/ESGF/esgf.github.io/wiki/ESGFNode|FAQ
     
     
     Sorry...
@@ -141,7 +141,7 @@ done
     Please re-run this task until successful before continuing further
     
     Also please review the installation FAQ it may assist you
-    http://esgf.org/wiki/ESGFNode/FAQ
+    https://github.com/ESGF/esgf.github.io/wiki/ESGFNode|FAQ
 
 When this happens, re-run the installer. The second time around there are fewer vars added and thus we stay under the limit and are able to complete the full install. This is a known issue of the installation that we are looking into. To avoid getting this error, perform a COMPUTE + (other) install in two steps. First, an install NOT including COMPUTE. Then perform an install again including, this time including COMPUTE. We will work on fixing this properly in a subsequent release.
 
