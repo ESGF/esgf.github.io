@@ -46,6 +46,13 @@ div.announcement p {
 {% include hero.html %}
 
 <div class="hero-unit announcement">
+  <h3><font color="red"> Shutdown Status</font></h3>
+  <p>
+    While the USA Goverment is down this will effect some of the nodes
+    in our federation. For node staus information please visit the 
+    <a href="https://github.com/ESGF/esgf.github.io/wiki/Shutdown-Status">wiki page</a>
+  </p>
+
   <h3>The Third Annual ESGF & UV-CDAT Face-to-Face Meeting</h3>
   <p>
     Come see us at the 2013 ESGF & UV-CDAT F2F Conference December 3rd - 5th.<br/> 
