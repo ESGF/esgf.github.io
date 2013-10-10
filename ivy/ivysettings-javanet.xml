@@ -1,0 +1,7 @@
+<ivysettings>
+  <resolvers>
+    <url name="javanet" m2compatible="true">
+      <artifact pattern="http://download.java.net/maven/2/[organisation]/[module]/[revision]/[artifact]-[revision].[ext]"/>
+    </url>
+  </resolvers>
+</ivysettings>

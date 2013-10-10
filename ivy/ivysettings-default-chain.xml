@@ -1,0 +1,13 @@
+<ivysettings>
+  <resolvers>
+    <chain name="default-chain" returnFirst="true">
+      <resolver ref="esgf_repo_devel"/>
+      <resolver ref="esgf_repo"/>
+      <resolver ref="esgf_repo_share"/>
+      <resolver ref="javanet"/>
+      <resolver ref="public"/>
+      <resolver ref="spring-release"/>
+      <resolver ref="spring-external"/>
+    </chain>
+  </resolvers>
+</ivysettings>

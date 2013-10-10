@@ -1,0 +1,11 @@
+<ivy-settings>
+  <property name="ivy.esgf-repo-local.default.root.dir" value="${user.home}/.ivy2/local" override="false"/>
+  <resolvers>
+    <filesystem name="esgf_repo_local">
+      <ivy pattern="${ivy.esgf-repo-local.default.root.dir}/[organisation]/[module]/[revision]/ivy-[revision].xml" />
+      <artifact pattern="${ivy.esgf-repo-local.default.root.dir}/[organisation]/[module]/[revision]/[artifact].[ext]" />
+      <artifact pattern="${ivy.esgf-repo-local.default.root.dir}/[organisation]/[module]/[revision]/[artifact].[revision].[ext]" />
+      <artifact pattern="${ivy.esgf-repo-local.default.root.dir}/[organisation]/[module]/[revision]/[artifact]-[revision](-[classifier]).[ext]" />
+    </filesystem>
+  </resolvers>
+</ivy-settings>
