@@ -48,7 +48,7 @@ div.announcement p {
 <div class="hero-unit announcement">
   <h3><font color="red"> Shutdown Status</font></h3>
   <p>
-    While the USA Goverment is down this will effect some of the nodes
+    While the USA Government is down this will effect some of the nodes
     in our federation. For node staus information please visit the 
     <a href="https://github.com/ESGF/esgf.github.io/wiki/Shutdown-Status">wiki page</a>
   </p>
