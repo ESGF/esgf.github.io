@@ -1,0 +1,12 @@
+<ivy-settings>
+  <property name="ivy.esgf-repo-share.default.root.url" value="http://devel.esgf.org/artifactory/esgf-repo-share" override="false"/>
+  <resolvers>
+      <url name="esgf_repo_share">
+        <ivy pattern="${ivy.esgf-repo-share.default.root.url}/[organisation]/[module]/[revision]/ivy-[revision].xml" />
+        <artifact pattern="${ivy.esgf-repo-share.default.root.url}/[organisation]/[module]/[revision]/[artifact]-[revision](-[classifier]).[ext]" />
+	<artifact pattern="${ivy.esgf-repo-share.default.root.url}/[organisation]/[module]/[revision]/[artifact].[revision].[ext]" />
+	<artifact pattern="${ivy.esgf-repo-share.default.root.url}/[organisation]/[module]/[revision]/[artifact].[ext]" />
+      </url>
+  </resolvers>
+</ivy-settings>
+

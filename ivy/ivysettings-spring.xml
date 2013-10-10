@@ -1,0 +1,15 @@
+<ivysettings>
+    <property name="ivy.springsource.repository.url"
+    value="http://repository.springsource.com/ivy/bundles"
+    override="false"/>
+    <resolvers>
+        <url name="spring-release">
+            <ivy pattern="${ivy.springsource.repository.url}/release/[organisation]/[module]/[revision]/[artifact]-[revision].[ext]"/>
+            <artifact pattern="${ivy.springsource.repository.url}/release/[organisation]/[module]/[revision]/[artifact]-[revision].[ext]"/>
+        </url>
+        <url name="spring-external">
+            <ivy pattern="${ivy.springsource.repository.url}/external/[organisation]/[module]/[revision]/[artifact]-[revision].[ext]"/>
+            <artifact pattern="${ivy.springsource.repository.url}/external/[organisation]/[module]/[revision]/[artifact]-[revision].[ext]"/>
+        </url>
+    </resolvers>
+</ivysettings>
