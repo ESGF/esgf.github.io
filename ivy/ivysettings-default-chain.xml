@@ -1,6 +1,7 @@
 <ivysettings>
   <resolvers>
     <chain name="default-chain" returnFirst="true">
+      <resolver ref="esgf_repo_local"/>
       <resolver ref="esgf_repo_devel"/>
       <resolver ref="esgf_repo"/>
       <resolver ref="esgf_repo_share"/>
