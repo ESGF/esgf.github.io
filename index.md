@@ -50,6 +50,10 @@ div.announcement p {
   <p>
     <a href="https://github.com/ESGF/esgf.github.io/wiki/ESGF-P2P-F2F-2013">ESGF & UV-CDAT F2F Conference</a> December 3rd - 5th.<br/> 
   </p>
+  <h3>Peer Node Status</h3>
+  <p>
+    <a href="https://github.com/ESGF/esgf.github.io/wiki/Peer-Node-Status">Peer Node Status</a> updated nightly.
+  </p>
 </div>
 
 <div class="span12">
