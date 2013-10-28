@@ -48,8 +48,7 @@ div.announcement p {
 <div class="hero-unit announcement">
   <h3>The Third Annual ESGF & UV-CDAT Face-to-Face Meeting</h3>
   <p>
-    Come see us at the 2013 ESGF & UV-CDAT F2F Conference December 3rd - 5th.<br/> 
-    <a href="https://www.regonline.com/register/checkin.aspx?eventid=1256768&ResponseMemberId=&jID=1313576">Register Here</a>.
+    <a href="https://github.com/ESGF/esgf.github.io/wiki/ESGF-P2P-F2F-2013">ESGF & UV-CDAT F2F Conference</a> December 3rd - 5th.<br/> 
   </p>
 </div>
 
