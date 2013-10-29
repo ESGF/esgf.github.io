@@ -47,7 +47,7 @@ div.announcement p {
 
 <div class="hero-unit announcement">
   <h3> LLNL Power Outage </h3>
-  <p>Due to a Power Outage at LLNL pcmdi9, pcmdi11, and rainbow will be down until further notice.</p>
+  <p>Due to a Power Outage at LLNL pcmdi9, pcmdi11, and rainbow will be down until further notice. Please see <a href="https://github.com/ESGF/esgf.github.io/wiki/Shutdown-Info">Shutdown Info</a>page on our wiki for more information.</p>
   <h3>The Third Annual ESGF & UV-CDAT Face-to-Face Meeting</h3>
   <p>
     <a href="https://github.com/ESGF/esgf.github.io/wiki/ESGF-P2P-F2F-2013">ESGF & UV-CDAT F2F Conference</a> December 3rd - 5th.<br/> 
