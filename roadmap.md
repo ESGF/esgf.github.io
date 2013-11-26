@@ -14,7 +14,7 @@ title: Road Map
 This page is a **sketch** of things that intended to be done for the next few releases. **no guarantees**
 
 * v1.5.0 (April 30, 2013) [Brower Park]
-* v1.6.0 (~late June) [Bushwick]
+* v1.6.0 (Novemenber 2013) [Bushwick]
   - Upgrade Tomcat to 7.0.39 [download site][tomcat]
   - Upgrade Java 1.7x (Java SE 7u21) [ [download site][java] | [mac os x][macjava] ]
   - Upgrade Thredds to 4.3 [thredds overview][thredds]
@@ -23,7 +23,7 @@ This page is a **sketch** of things that intended to be done for the next few re
   - Using the UV-CDAT codebase (as opposed to cdat that we are currently using)
   - publisher update to use UV-CDAT libraries under python 2.7
   - Federated metrics / statistics
-* v1.7.0 (~mid July) [Canarsie]
+* v1.7.0 [Canarsie]
   - Re-implementation of core node-manager engine
   - Updated node-manager; communication update: no longer using hessian, instead using RESTful rpc calls.
   - UV-CDAT install to include entire UV-CDAT compute suite of libraries/tools (no gui)
@@ -32,9 +32,9 @@ This page is a **sketch** of things that intended to be done for the next few re
   - HPSS
   - Unit testing - Expanding test coverage
   - Documentation overhaul -> wiki, web page
-* v1.8.0 (~mid July) [Cross Island Expressway]
+* v1.8.0 [Cross Island Expressway]
   - Revamped Globus install and configuration using RPMs
-* v2.0.0 (~early September) [Carroll Gardens]
+* v2.0.0 [Carroll Gardens]
   - updated registration.xml schema (will NOT be backward compatible)
   - virtual machine packaging and configuration (no more install scripts as primary install method)
   - virtual machine cluster "master" offering (tentative)
@@ -42,7 +42,7 @@ This page is a **sketch** of things that intended to be done for the next few re
     - Restful APIs documented (color coordinated and formatted and posted on website)
   - ESGF Shell (demonstrable client using APIs - Provided as exemple of the use of all RESTful APIs)
   - Documentation!!!!!!
-* v2.1.0 (~late October) [Clinton Hill]
+* v2.1.0 [Clinton Hill]
   - Client-side APIs for calling all esgf services in Python, Java(/Clojure), [JavaScript][javascript]
   - Compute cluster offering: ESGF's Cloud-in-a-box
   - Compute Job Submission service.
@@ -51,7 +51,7 @@ This page is a **sketch** of things that intended to be done for the next few re
     - Handful of most used algorithms
   - Separate all services to sit on separate ports - (jetty, http-kit)
     - Construct SSL termination and reverse proxy manager service)
-* v2.2.0 (~early 2014)
+* v2.2.0
   - Cross cluster computing.
   - Smart Caching
 
