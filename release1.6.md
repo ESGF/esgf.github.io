@@ -46,15 +46,15 @@ The best and recommended way to install and setup the Node is to first visit the
 ###Node Component Versions:
 <table cellspacing="1" cellpadding="1" border="0">
   <tr bgcolor="#eaeaea"><td> Project </td><td> Version / Tag&nbsp;&nbsp;</td><td> Home Site </td></tr>
-  <tr bgcolor="#ffffff"><td> node-manager&nbsp;&nbsp;</td><td> v0.6.19 (db [1])</td><td> <a href="http://esgf.org/esgf-node-manager-site">http://esgf.org/esgf-node-manager-site</a> </td></tr>
-  <tr bgcolor="#eaeaea"><td> publisher </td><td> v2.11.1 </td><td> <a href="http://esgf.org/esg-publisher-site">http://esgf.org/esg-publisher-site</a> </td></tr>
-  <tr bgcolor="#ffffff"><td> orp </td><td> v2.3.8 </td><td> <a href="http://esgf.org/esg-orp-site">http://esgf.org/esg-orp-site</a> </td></tr>
-  <tr bgcolor="#eaeaea"><td> security </td><td> v2.4.0 (db [2]) </td><td> <a href="http://esgf.org/esgf-security-site">http://esgf.org/esgf-security-site</a> </td></tr>
-  <tr bgcolor="#ffffff"><td> search </td><td> v3.7.8 </td><td> <a href="http://esgf.org/esg-search-site">http://esgf.org/esg-search-site</a> </td></tr>
-  <tr bgcolor="#eaeaea"><td> idp </td><td> v2.4.4 </td><td> <a href="http://esgf.org/esgf-idp-site">http://esgf.org/esgf-idp-site</a> </td></tr>
-  <tr bgcolor="#ffffff"><td> web-fe </td><td> v2.4.10 </td><td> <a href="http://esgf.org/esgf-web-fe-site">http://esgf.org/esgf-web-fe-site</a> </td></tr>
-  <tr bgcolor="#eaeaea"><td> dashboard </td><td> v1.3.7 (db [5])</td><td> <a href="http://esgf.org/esgf-dashboard-site">http://esgf.org/esgf-dashboard-site</a> </td></tr>
-  <tr bgcolor="#ffffff"><td> desktop </td><td> v0.0.5 </td><td><a href="http://esgf.org/esgf-desktop-site">http://esgf.org/esgf-desktop-site</a></td></tr>
+  <tr bgcolor="#ffffff"><td> node-manager&nbsp;&nbsp;</td><td> v0.6.19 (db [1])</td><td> <a href="http://esgf.org/esgf-node-manager">http://esgf.org/esgf-node-manager</a> </td></tr>
+  <tr bgcolor="#eaeaea"><td> publisher </td><td> v2.11.1 </td><td> <a href="http://esgf.org/esg-publisher">http://esgf.org/esg-publisher</a> </td></tr>
+  <tr bgcolor="#ffffff"><td> orp </td><td> v2.3.8 </td><td> <a href="http://esgf.org/esg-orp">http://esgf.org/esg-orp</a> </td></tr>
+  <tr bgcolor="#eaeaea"><td> security </td><td> v2.4.0 (db [2]) </td><td> <a href="http://esgf.org/esgf-security">http://esgf.org/esgf-security</a> </td></tr>
+  <tr bgcolor="#ffffff"><td> search </td><td> v3.7.8 </td><td> <a href="http://esgf.org/esg-search">http://esgf.org/esg-search</a> </td></tr>
+  <tr bgcolor="#eaeaea"><td> idp </td><td> v2.4.4 </td><td> <a href="http://esgf.org/esgf-idp">http://esgf.org/esgf-idp</a> </td></tr>
+  <tr bgcolor="#ffffff"><td> web-fe </td><td> v2.4.10 </td><td> <a href="http://esgf.org/esgf-web-fe">http://esgf.org/esgf-web-fe</a> </td></tr>
+  <tr bgcolor="#eaeaea"><td> dashboard </td><td> v1.3.7 (db [5])</td><td> <a href="http://esgf.org/esgf-dashboard">http://esgf.org/esgf-dashboard</a> </td></tr>
+  <tr bgcolor="#ffffff"><td> desktop </td><td> v0.0.5 </td><td><a href="http://esgf.org/esgf-desktop">http://esgf.org/esgf-desktop</a></td></tr>
 </table>
 
 ###External Application Stack Versions
