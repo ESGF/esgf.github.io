@@ -120,4 +120,4 @@ The best and recommended way to install and setup the Node is to first visit the
 [rainbow-bootstrap]: http://rainbow.llnl.gov/dist/esgf-installer/esg-bootstrap
 [release-notes]: https://github.com/ESGF/esgf.github.io/wiki/Release_1.4
 [road-map]: https://github.com/ESGF/esgf.github.io/wiki/RoadMap
-[other-version]: rel-v1.4.2-brooklyn_heights.html
+[other-version]: http://esgf.org/release1.5.html
