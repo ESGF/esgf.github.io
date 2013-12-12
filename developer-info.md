@@ -7,15 +7,27 @@ title: Developers
 
 ### Code
 
-* [GitHub](http://github.com/esgf)
+* [ESGF GitHub Repository](http://github.com/esgf)
 
-### Mailing list
+----
+### Mailing lists
 To join the developers mailing list, send an email to
-[majordomo@lists.llnl.gov][majordomo] with the following in the body:
+[majordomo@lists.llnl.gov][majordomo-devel] with the following in the body:
 
-    subscribe esgf-devel
+    subscribe esgf-devel	
 
 (For the users mailing list, see the [mailing list] page.)
+
+Other Mailing lists for developer Working Groups
+
+   * [Installation Working Group List][majordomo-install] esgf-install@lists.llnl.gov
+   * [Server Side Working Group List][majordomo-server-side] esgf-server-side@lists.llnl.gov
+   * [Networking Working Group List][majordomo-networking] esgf-networking@lists.llnl.gov
+   * [Security Authentication / ID Mgmt Working Group List][majordomo-security-auth] esgf-security-auth@lists.llnl.gov
+   * [Controlled Vocabulary Working Group][majordomo-ctrl-vocab] esgf-ctrl-vocab@lists.llnl.gov
+   * [Data Publishing Working Group][majordomo-data-pub] esgf-data-pub@lists.llnl.gov
+   
+----    
 
 ### Standards
 * **NO TABS**; instead use 4 spaces
@@ -88,6 +100,12 @@ modules should be developed:
 [mailinglist]:      mailing-list.html
 [askbot]:           http://askbot.esgf.org
 [github]:           http://www.github.com/ESGF
-[majordomo]:       mailto:esgf-devel@lists.llnl.gov
+[majordomo-devel]:       mailto:esgf-devel@lists.llnl.gov
+[majordomo-install]:     mailto:esgf-install@lists.llnl.gov
+[majordomo-server-side]:     mailto:esgf-server-side@lists.llnl.gov
+[majordomo-networking]:     mailto:esgf-networking@lists.llnl.gov
+[majordomo-security-auth]:     mailto:esgf-security-auth@lists.llnl.gov
+[majordomo-ctrl-vocab]:     mailto:esgf-ctrl-vocab@lists.llnl.gov
+[majordomo-data-pub]:     mailto:esgf-data-pub@lists.llnl.gov
 [mailing list]:     mailing-list.html
 
