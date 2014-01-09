@@ -70,6 +70,12 @@ perl-Archive-Tar          | A module for Perl manipulation of .tar files
 perl-XML-Parser           | Perl module for parsing XML files 
 xorg-x11*                 | All the x11 packages 
 
+### Known Gotchas
+
+* Default peer node is esgf-node1.llnl.gov.  User should choose a valid node like pcmdi9.llnl.gov.  If user had selected esgf-node1.llnl.gov initially, best solution after the script fails is to go to /esg/config/esgf.properties and replace every instance of esgf-node1.llnl.gov with pcmdi9.llnl.gov.
+* GridFTP installation.  Fails because the uuid.h header file can't be found.  The solution is to install uuid-devel and libuuid-devel as prerequisites.
+* CDAT installation.  There was a problem with building CDAT.  This was fixed by pointing the script to the right hash of the latest cdat installation.  This can be found in line 131 of esg-node and changed to77421b9205d347950f31b1815781f010087da7d1
+
 ---
 
 [installation]: https://github.com/ESGF/esgf.github.io/wiki/Installation
