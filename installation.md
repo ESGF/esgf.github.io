@@ -3,7 +3,7 @@ layout: default
 title: Installation
 ---
 
-## Esgf Node Installation
+## ESGF Node Installation
 The installation is an interactive process where the user is prompted for input.
 To help manage your expectations of the installation process, the following
 should give you a ballpark idea:
