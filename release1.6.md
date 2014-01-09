@@ -99,25 +99,22 @@ The best and recommended way to install and setup the Node is to first visit the
 </table>
 (<b>*</b> indicates that the installer fetches a copy of indicated file from the ESGF.org distribution server)
 
-### Release Notes
-* [Release Information and Features][release-notes]
-
 ---
 
 ###Other Versions
 * [Development Road Map][road-map]
 * Previous [v1.5.0][other-version] (Brower Park)
 
-[esgf-release]: https://github.com/ESGF/esgf-installer/releases/tag/v1.6.2-bushwick_myrtle-release
-[esgf-script]: https://github.com/ESGF/esgf-installer/blob/f33e0990eb061927e64595c48b4a2182575e81a9/esg-node
-[esgf-download]: https://raw.github.com/ESGF/esgf-installer/f33e0990eb061927e64595c48b4a2182575e81a9/esg-node
-[flags-features]: http://esgf.org/esgf-installer-site
-[esgf-node]: node.html
-[esgf-home]: http://esgf.org
-[wiki-functions]: https://github.com/ESGF/esgf.github.io/wiki/ESGF_Functionality
-[rainbow-dist]: http://rainbow.llnl.gov/dist/
-[rainbow-howto]: http://rainbow.llnl.gov/dist/esgf-installer/HOWTO
-[rainbow-bootstrap]: http://rainbow.llnl.gov/dist/esgf-installer/esg-bootstrap
-[release-notes]: https://github.com/ESGF/esgf.github.io/wiki/Release_1.4
-[road-map]: https://github.com/ESGF/esgf.github.io/wiki/RoadMap
-[other-version]: http://esgf.org/release1.5.html
+[esgf-release]:       https://github.com/ESGF/esgf-installer/releases/tag/v1.6.2-bushwick_myrtle-release
+[esgf-script]:        https://github.com/ESGF/esgf-installer/blob/f33e0990eb061927e64595c48b4a2182575e81a9/esg-node
+[esgf-download]:      https://raw.github.com/ESGF/esgf-installer/f33e0990eb061927e64595c48b4a2182575e81a9/esg-node
+[flags-features]:     http://esgf.org/esgf-installer-site
+[esgf-node]:          node.html
+[esgf-home]:          http://esgf.org
+[wiki-functions]:     https://github.com/ESGF/esgf.github.io/wiki/ESGF_Functionality
+[rainbow-dist]:       http://rainbow.llnl.gov/dist/
+[rainbow-howto]:      http://rainbow.llnl.gov/dist/esgf-installer/HOWTO
+[rainbow-bootstrap]:  http://rainbow.llnl.gov/dist/esgf-installer/esg-bootstrap
+[release-notes]:      https://github.com/ESGF/esgf.github.io/wiki/Release_1.4
+[road-map]:           https://github.com/ESGF/esgf.github.io/wiki/RoadMap
+[other-version]:      http://esgf.org/release1.5.html
