@@ -1,6 +1,6 @@
 ---
 layout: releases_sidebar
-title: Releases {version}
+{version}
 ---
 
 ## ESGF Node Current Release
