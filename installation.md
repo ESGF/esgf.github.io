@@ -1,6 +1,6 @@
 ---
-layout| default
-title| Installation
+layout: default
+title: Installation
 ---
 
 ## Esgf Node Installation
@@ -8,13 +8,13 @@ title| Installation
 
 The installation is an interactive process where the user is prompted for input.
 To help manage your expectations of the installation process, the following
-should give you a ballpark idea|
+should give you a ballpark idea:
 
 * The entire process takes approximately an hour.
 * There are about a 20 prompts for user input - almost all of which have
 resonable defaults (you can just hit enter - recommended).
 * The lion's share of the time is spent building the various tools and
-executables (heads up| globus and python take a relatively long time to build).
+executables (heads up: globus and python take a relatively long time to build).
 
 ### Operating Systems
 we currently support centOS / RedHat
