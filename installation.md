@@ -27,7 +27,7 @@ preinstaller python script.
     python esgfpreinstaller.py
 
 it should run out of the box with python 2.6.6 or higher, if not see the
-scrips [wiki page].
+scrips [wiki page][preinstaller].
 
 ### Packages
 when avaiable always download and install the devel versions
