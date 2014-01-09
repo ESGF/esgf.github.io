@@ -4,8 +4,6 @@ title: Installation
 ---
 
 ## Esgf Node Installation
-[Installation] | [README] | [Bootstrap script][bootstrap] | [License] | [Releases] | [FAQ] |[Installer WIki][wiki] | [ESGF Wiki][sitewiki]
-
 The installation is an interactive process where the user is prompted for input.
 To help manage your expectations of the installation process, the following
 should give you a ballpark idea:
@@ -68,6 +66,16 @@ when avaiable always download and install the devel versions
 * perl-Archive-Tar: A module for Perl manipulation of .tar files 
 * perl-XML-Parser: Perl module for parsing XML files 
 * xorg-x11* 
+
+###Useful links
+
+* [FAQ]
+* [Installer Wiki page][wiki]
+* [README]
+* [Bootstrap script][bootstrap]
+* [ESGF Wiki][sitewiki]
+* [Releases]
+* [License]
 
 ### Known Gotchas
 
