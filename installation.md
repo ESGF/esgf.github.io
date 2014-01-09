@@ -16,22 +16,22 @@ resonable defaults (you can just hit enter - recommended).
 * The lion's share of the time is spent building the various tools and
 executables (heads up: globus and python take a relatively long time to build).
 
-## Operating Systems
+### Operating Systems
 we currently support centOS / RedHat
 
-## Prerequisites
+### Prerequisites
 Before getting started, you must have the following packages installed
-on your system. If you are running centOS6 and have machine or ssh access you can run this
+on your system. If you have machine or ssh access you can run this
 preinstaller python script.
 
     wget https://raw2.github.com/aims-group/webshooter/master/esgfpreinstaller.py
     chmod 755 esgfpreinstaller.py
     python esgfpreinstaller.py
 
-it should run out of the box with python 2.6.6 or higher, if not try
-[this].
+it should run out of the box with python 2.6.6 or higher, if not see the
+scrips [wiki page].
 
-#### Packages
+### Packages
 when avaiable always download and install the devel versions
 
   * autoconf-archive.noarch: The Autoconf Macro Archive 
