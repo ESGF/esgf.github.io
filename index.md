@@ -92,27 +92,27 @@ div.announcement p {
           <h4 class="muted">DOE</h4>
           <img src="media/images/doe.svg" class="thumbnail">
         </a>
-      </div><!--/.span3-->
+      </div>
       <div class="span3">
         <a target="_blank" href="http://www.nasa.gov">
           <h4 class="muted">NASA</h4>
           <img src="media/images/nasa.svg" class="thumbnail nasa">
         </a>
-      </div><!--/.span3-->
+      </div>
       <div class="span3">
         <a target="_blank" href="http://www.noaa.gov">
           <h4 class="muted">NOAA</h4>
           <img src="media/images/noaa.svg" class="thumbnail">
         </a>
-      </div><!--/.span3-->
+      </div>
       <div class="span3">
         <a target="_blank" href="http://www.nsf.gov">
           <h4 class="muted">NSF</h4>
           <img src="media/images/nsf.png" class="thumbnail">
         </a>
-      </div><!--/.span3-->
-    </div><!--/.row for span3s-->
-  </div><!--/.span12 -->
+      </div>
+    </div>
+  </div>
 
   <h3>European Sponsors &nbsp; Australian Sponsors</h3>
   <div class="span12">
@@ -122,14 +122,13 @@ div.announcement p {
           <h4 class="muted">IS-ENES</h4>
           <img src="media/images/IS-ENES2.png" class="thumbnail">
         </a>
-      </div><!--/.span3-->
+      </div>
       <div class="span3">
         <a target="_blank" href="http://nci.org.au">
           <h4 class="muted">NCI</h4>
           <img src="media/images/NCI_logo.jpg" class="thumbnail">
         </a>
-     </div><!--/.span3-->
-    </div><!--/.row for span3s-->
-  </div><!--/.span12 -->
-</div><!--/.span12 -->
-
+     </div>
+    </div>
+  </div>
+</div>
