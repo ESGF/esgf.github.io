@@ -112,16 +112,24 @@ div.announcement p {
         </a>
       </div><!--/.span3-->
     </div><!--/.row for span3s-->
-  </div>
-  <h3>European Sponsors</h3>
+  </div><!--/.span12 -->
+
+  <h3>European Sponsors &nbsp; Australian Sponsors</h3>
   <div class="span12">
     <div class="row">
       <div class="span3">
-        <a target="_blank" href="http://enes.org/">
+        <a target="_blank" href="http://enes.org">
           <h4 class="muted">IS-ENES</h4>
           <img src="media/images/IS-ENES2.png" class="thumbnail">
         </a>
-      </div>
-    </div>
-  </div>
-</div>
+      </div><!--/.span3-->
+      <div class="span3">
+        <a target="_blank" href="http://nci.org.au">
+          <h4 class="muted">NCI</h4>
+          <img src="media/images/NCI_logo.jpg" class="thumbnail">
+        </a>
+     </div><!--/.span3-->
+    </div><!--/.row for span3s-->
+  </div><!--/.span12 -->
+</div><!--/.span12 -->
+
