@@ -126,7 +126,7 @@ div.announcement p {
       <div class="span3">
         <a target="_blank" href="http://nci.org.au">
           <h4 class="muted">NCI</h4>
-          <img src="media/images/NCI_logo_cut.jpg" class="thumbnail">
+          <img src="media/images/NCI_logo.png" class="thumbnail">
         </a>
      </div>
     </div>
