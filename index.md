@@ -114,7 +114,7 @@ div.announcement p {
     </div>
   </div>
 
-  <h3>European Sponsors &nbsp; Australian Sponsors</h3>
+  <h3>European Sponsors &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Australian Sponsors</h3>
   <div class="span12">
     <div class="row">
       <div class="span3">
@@ -126,7 +126,7 @@ div.announcement p {
       <div class="span3">
         <a target="_blank" href="http://nci.org.au">
           <h4 class="muted">NCI</h4>
-          <img src="media/images/NCI_logo.jpg" class="thumbnail">
+          <img src="media/images/NCI_logo_cut.jpg" class="thumbnail">
         </a>
      </div>
     </div>
