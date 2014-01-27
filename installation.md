@@ -22,7 +22,7 @@ Before getting started, you must have the following packages installed
 on your system. If you have machine or ssh access you can run this
 preinstaller python script.
 
-    wget https://raw2.github.com/aims-group/webshooter/master/esgfpreinstaller.py
+    wget https://raw2.github.com/mattben/webshooter/master/esgfpreinstaller.py
     chmod 755 esgfpreinstaller.py
     python esgfpreinstaller.py
 
@@ -64,7 +64,7 @@ when avaiable always download and install the devel versions
 * zlib-devel: Header files and libraries for Zlib development 
 * perl-[ExtUtils]* 
 * perl-Archive-Tar: A module for Perl manipulation of .tar files 
-* perl-XML-Parser: Perl module for parsing XML files 
+* perl-XiML-Parser: Perl module for parsing XML files 
 * xorg-x11* 
 
 ###Useful links
@@ -85,13 +85,13 @@ when avaiable always download and install the devel versions
 
 ---
 
-[installation]: https://github.com/ESGF/esgf.github.io/wiki/Installation
 [readme]:       https://raw.github.com/ESGF/esgf-installer/master/README
 [bootstrap]:    https://raw.github.com/ESGF/esgf-installer/master/esg-bootstrap
 [license]:      https://raw.github.com/ESGF/esgf-installer/master/LICENSE
+[installation]: https://github.com/ESGF/esgf.github.io/wiki/Installation
 [releases]:     https://github.com/ESGF/esgf-installer/releases
 [faq]:          https://github.com/ESGF/esgf.github.io/wiki/ESGFNode%7CFAQ
-[preinstaller]: https://github.com/aims-group/webshooter/wiki/esgfpreinstaller
-[wiki]:         http://github.com/ESGF/esgf-installer/wiki
+[wiki]:         https://github.com/ESGF/esgf-installer/wiki
 [sitewiki]:     https://github.com/ESGF/esgf.github.io/wiki
 [extutils]:     https://github.com/ESGF/esgf.github.io/wiki/ExtUtils
+[preinstaller]: https://github.com/mattben/webshooter/wiki/esgfpreinstaller
