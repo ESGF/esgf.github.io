@@ -275,9 +275,9 @@ perform computation, analytics and querying over ESGF datasets.
 [ESGF/esgf-orp/wiki]:             https://github.com/ESGF/esgf-orp/wiki
 [ESGF/esgf-orp/site]:             http://esgf.org/esgf-orp/
 
-[ESGF/esg-publisher]:            https://github.com/ESGF/esg-publisher
-[ESGF/esg-publisher/issues]:     https://github.com/ESGF/esg-publisher/issues
-[ESGF/esg-publisher/wiki]:       https://github.com/ESGF/esg-publisher/wiki
+[ESGF/esg-publisher]:            https://github.com/ESGF/esgf-publisher
+[ESGF/esg-publisher/issues]:     https://github.com/ESGF/esgf-publisher/issues
+[ESGF/esg-publisher/wiki]:       https://github.com/ESGF/esgf-publisher/wiki
 [ESGF/esg-publisher/site]:       http://esg.org/esg-publisher/
 
 [ESGF/esgf-search]:               https://github.com/ESGF/esgf-search
