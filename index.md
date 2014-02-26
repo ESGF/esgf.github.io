@@ -46,6 +46,10 @@ div.announcement p {
 {% include hero.html %}
 
 <div class="hero-unit announcement">
+  <h3>December 2012</h3>
+  <p>
+    <a href="http://aims-group.github.io/pdf/ESGF_UV-CDAT_Meeting_Report_December2013.pdf">3rd Annual ESGF & UV-CDAT F2F Meeting Report</a>
+  </p>
   <h3>Peer Node Status</h3>
   <p>
     <a href="https://github.com/ESGF/esgf.github.io/wiki/Peer-Node-Status">Peer Node Status</a> updated nightly.
