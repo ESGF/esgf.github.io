@@ -38,14 +38,9 @@ To join the users mailing list, send an email to
 
 ### PCMDI9
 
-* <a href="mailto:#" target="_blank">Gavin Bell</a>
-* <a href="mailto:#" target="_blank">Dean Williams</a>
-* <a href="mailto:#" target="_blank">Tony Hoang</a>
-* <a href="mailto:#" target="_blank">Michael Ganzberger</a>
-* <a href="mailto:#" target="_blank">Charles Doutriaux</a>
+* <a href="mailto:#" target="_blank">Jeff Painter</a>
 * <a href="mailto:#" target="_blank">Matthew Harris</a>
-* <a href="mailto:#" target="_blank">Karl Taylor</a>
-* <a href="mailto:#" target="_blank">Ben Carlsson</a>
+* <a href="mailto:#" target="_blank">Dean Williams</a>
 
 ### BNU
 
