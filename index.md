@@ -48,7 +48,7 @@ div.announcement p {
 <div class="hero-unit announcement">
   <h3>Awards</h3>
   <p>
-  ESGF is an award winner of the Enlighten Your Research Global international networking program. <a href="media/pdf/ESGF-Awards.pdf">Award</a>
+  ESGF has won new awards! Check them out on the <a href="awards.html">awards page</a>.
   </p>
   <h3>Peer Node Status</h3>
   <p>
