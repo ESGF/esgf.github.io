@@ -46,9 +46,9 @@ div.announcement p {
 {% include hero.html %}
 
 <div class="hero-unit announcement">
-  <h3>December 2013</h3>
+  <h3>Awards</h3>
   <p>
-    <a href="http://aims-group.github.io/pdf/ESGF_UV-CDAT_Meeting_Report_March2014.pdf">3rd Annual ESGF & UV-CDAT F2F Meeting Report</a>
+  ESGF is an award winner of the Enlighten Your Research Global international networking program. <a href="media/pdf/ESGF-Awards.pdf">Award</a>
   </p>
   <h3>Peer Node Status</h3>
   <p>
