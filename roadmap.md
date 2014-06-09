@@ -128,3 +128,6 @@ This is a rough staging area for things that need to be done. It is meant as a p
 
 ###Done
 * Add commit point in the version or as a separate entry in META-INF/MANIFEST
+
+
+Last commit 
