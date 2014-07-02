@@ -46,13 +46,12 @@ div.announcement p {
 {% include hero.html %}
 
 <div class="hero-unit announcement">
-  <h3>Awards</h3>
+  <h3>2014 Annual ESGF & UV-CDAT Conference</h3>
   <p>
-  ESGF has won new awards! Check them out on the <a href="awards.html">awards page</a>.
-  </p>
-  <h3>Peer Node Status</h3>
-  <p>
-    <a href="https://github.com/ESGF/esgf.github.io/wiki/Peer-Node-Status">Peer Node Status</a> updated nightly.
+  The 2014 Annual ESGF & UV-CDAT Conference is now open for registration. To register, please go to the following 
+  <a href="http://www.regonline.com/ESFG-UVCDAT-Conference">link</a>.<br/>
+  The conference will be held December 9 – 11 in Livermore, California. The conference committee will be organizing 
+  the draft agenda in the coming weeks, which this year will include the user community.
   </p>
 </div>
 
