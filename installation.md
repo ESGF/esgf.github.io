@@ -3,6 +3,8 @@ layout: default
 title: Installation
 ---
 
+
+## The most current set of instructions can be found here https://github.com/ESGF/esgf-installer/wiki/ESGF-Installation-From-scratch 
 ## ESGF Node Installation
 The installation is an interactive process where the user is prompted for input.
 To help manage your expectations of the installation process, the following
@@ -22,7 +24,7 @@ Before getting started, you must have the following packages installed
 on your system. If you have machine or ssh access you can run this
 preinstaller python script.
 
-    wget https://raw2.github.com/mattben/webshooter/master/esgfpreinstaller.py
+    wget https://raw.githubusercontent.com/webshootertk/utilitybelt/master/node_checker.py
     chmod 755 esgfpreinstaller.py
     python esgfpreinstaller.py
 
@@ -94,4 +96,4 @@ when avaiable always download and install the devel versions
 [wiki]:         https://github.com/ESGF/esgf-installer/wiki
 [sitewiki]:     https://github.com/ESGF/esgf.github.io/wiki
 [extutils]:     https://github.com/ESGF/esgf.github.io/wiki/ExtUtils
-[preinstaller]: https://github.com/mattben/webshooter/wiki/esgfpreinstaller
+[preinstaller]: https://github.com/webshootertk/utilitybelt/wiki/esgf_preinstaller
