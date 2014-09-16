@@ -62,13 +62,13 @@ div.announcement p {
   a collaboration that develops, deploys and maintains software infrastructure for
   the management, dissemination, and analysis of model output and observational
   data. ESGF's primary goal is to facilitate advancements in Earth System Science.
-  It is an interagency and international effort led by the Department of Energy
-  (DOE), and co-funded by National Aeronautics and Space Administration (NASA),
-  National Oceanic and Atmospheric Administration (NOAA), National Science
-  Foundation (NSF), and international laboratories such as the Max Planck
-  Institute for Meteorology (MPI-M) German Climate Computing Centre (DKRZ), the
-  Australian National University (ANU) National Computational Infrastructure
-  (NCI), and the British Atmospheric Data Center (BADC). The ESGF mission is to:
+  It is an interagency and international effort led by the Department of Energy (DOE), 
+  and co-funded by National Aeronautics and Space Administration (NASA), 
+  National Oceanic and Atmospheric Administration (NOAA), National Science Foundation (NSF), 
+  and international laboratories such as the Max Planck Institute for Meteorology (MPI-M) 
+  German Climate Computing Centre (DKRZ), the Australian National University (ANU) 
+  National Computational Infrastructure (NCI), Institut Pierre-Simon Laplace (IPSL), 
+  and the British Atmospheric Data Center (BADC). The ESGF mission is to:
   <ul>
     <li>Support current CMIP5 activities, and prepare for future assessments</li>
     <li>Develop data and metadata facilities for inclusion of observations and reanalysis products for CMIP5 use</li>
