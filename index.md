@@ -56,7 +56,7 @@ div.announcement p {
   </center>
   </p>
   <div class="alert">
-  <strong>NOTE:</strong>Due to GO-TO-MEETING technical challenges, we will be using a different number for the teleconference: 1 (925) 424-8105 (access code 305757#)
+  <strong>NOTE:</strong> Due to GO-TO-MEETING technical challenges, we will be using a different number for the teleconference: 1 (925) 424-8105 (access code 305757#)
   </div>
   
   
