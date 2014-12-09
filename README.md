@@ -13,37 +13,38 @@ Need help with [github](https://help.github.com) or [jekyll](https://help.github
 ---
 
 ##Useful links
-###email list
+### Mailing Lists
 
-who | what
+For Whom? | List Address
  --- | ---
-user | esgf-user@lists.llnl.gov
-devel | esgf-devel@lists.llnl.gov
+Users | esgf-user@lists.llnl.gov
+Developers | esgf-devel@lists.llnl.gov
 
-###website
+### Websites
+
 * http://esgf.llnl.gov
 * https://esgf.github.io
 
-###askbot 
+### Questions & Answers 
 * ~~http://askbot-esgf.llnl.gov~~ will be back up soon
 
-###email archive 
+### Mailing List Archives
 * ~~http://aims4.llnl.go~~ coming soon
 
 
-###wikis
+### Wikis
 
-what | where
+Project | URL
 --- | ---
-general | https://github.com/ESGF/esgf.github.io/wiki
-installer | https://github.com/ESGF/esgf-installer/wiki
+General | https://github.com/ESGF/esgf.github.io/wiki
+Installer | https://github.com/ESGF/esgf-installer/wiki
 drslib | https://github.com/ESGF/esgf-drslib/wiki
-search | https://github.com/ESGF/esg-search/wiki
-dashboard | https://github.com/ESGF/esgf-dashboard/wiki
+Search | https://github.com/ESGF/esg-search/wiki
+Dashboard | https://github.com/ESGF/esgf-dashboard/wiki
 
-###issues
+### Issues
 
-what | where
+Project | URL
 --- | ---
 compute | https://github.com/ESGF/compute/issues
 esg-orp | https://github.com/ESGF/esg-orp/issues
@@ -56,7 +57,7 @@ esgf-dist | https://github.com/ESGF/esgf-dist/issues
 esgf-drslib | https://github.com/ESGF/esgf-drslib/issues
 esgf-fetcher | https://github.com/ESGF/esgf-fetcher/issues
 esgf-getcert | https://github.com/ESGF/esgf-getcert/issues
-esgf.github.io | https://github.com/ESGF/esgf.github.io/issues
+Website | https://github.com/ESGF/esgf.github.io/issues
 esgf-idp | https://github.com/ESGF/esgf-idp/issues
 esgf-installer | https://github.com/ESGF/esgf-installer/issues
 esgf-node-manager | https://github.com/ESGF/esgf-node-manager/issues
@@ -66,11 +67,11 @@ esgf-test-suite | https://github.com/ESGF/esgf-test-suite/issues
 esgf-utils | https://github.com/ESGF/esgf-utils/issues
 esgf-web-fe | https://github.com/ESGF/esgf-web-fe/issues
 
-###github
+### Github
 
-what | where
+Project | URL
 --- | ---
-orginzation | https://github.com/esgf
+Organization | https://github.com/esgf
 compute | https://github.com/ESGF/compute
 esg-orp | https://github.com/ESGF/esg-orp
 esg-publisher | https://github.com/ESGF/esg-publisher
@@ -82,7 +83,7 @@ esgf-dist | https://github.com/ESGF/esgf-dist
 esgf-drslib | https://github.com/ESGF/esgf-drslib
 esgf-fetcher | https://github.com/ESGF/esgf-fetcher
 esgf-getcert | https://github.com/ESGF/esgf-getcert
-esgf.github.io | https://github.com/ESGF/esgf.github.io
+Website | https://github.com/ESGF/esgf.github.io
 esgf-idp | https://github.com/ESGF/esgf-idp
 esgf-installer | https://github.com/ESGF/esgf-installer
 esgf-node-manager | https://github.com/ESGF/esgf-node-manager
