@@ -41,6 +41,7 @@ Installer | https://github.com/ESGF/esgf-installer/wiki
 drslib | https://github.com/ESGF/esgf-drslib/wiki
 Search | https://github.com/ESGF/esg-search/wiki
 Dashboard | https://github.com/ESGF/esgf-dashboard/wiki
+CoG | https://earthsystemcog.org/projects/cog/
 
 ### Issues
 
@@ -66,6 +67,7 @@ esgf-security | https://github.com/ESGF/esgf-security/issues
 esgf-test-suite | https://github.com/ESGF/esgf-test-suite/issues
 esgf-utils | https://github.com/ESGF/esgf-utils/issues
 esgf-web-fe | https://github.com/ESGF/esgf-web-fe/issues
+CoG | https://github.com/EarthSystemCoG/COG/issues
 
 ### Github
 
@@ -92,4 +94,5 @@ esgf-security | https://github.com/ESGF/esgf-security
 esgf-test-suite | https://github.com/ESGF/esgf-test-suite
 esgf-utils | https://github.com/ESGF/esgf-utils
 esgf-web-fe | https://github.com/ESGF/esgf-web-fe
+CoG | https://github.com/EarthSystemCoG/COG
 
