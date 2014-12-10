@@ -96,3 +96,5 @@ esgf-utils | https://github.com/ESGF/esgf-utils
 esgf-web-fe | https://github.com/ESGF/esgf-web-fe
 CoG | https://github.com/EarthSystemCoG/COG
 
+### Videos
+* http://esgf.llnl.gov/mov/
