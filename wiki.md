@@ -73,4 +73,5 @@ CoG | https://github.com/EarthSystemCoG/COG
 ### Mailing List Archives
 * ~~http://aims4.llnl.go~~ coming soon
 
-
+### Videos
+* http://esgf.llnl.gov/mov/
