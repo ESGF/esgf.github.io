@@ -82,11 +82,15 @@ being developed.
   either download the selected files, or create visualization plots.  * **Data
   Mover Light**. Data Mover Light (DML) is a high performance desktop client
   that allows bulk download of data files via either HTTP or GridFTP.
-  * **Climate Data Exchange**. The Climate Data Exchange (CDX) is the
-  combination of server-side components and a client-side toolkit library that
-  work together to expose the ESGF distributed data holdings as if it was a
-  local file system, and to issue data processing commands that are executed on
-  the servers, returning only the data results to the user desktop.
+  * **Regional Climate Model Evaluation System (RCMES) & Apache Open Climate 
+  Workbench. [RCMES](http://rcmes.jpl.nasa.gov/) is a model evalution framework bringing remote sensing 
+  data from the National Aeronautics and Space Administration (NASA) and
+  other agencies to bear for evaluation of climate model outputs. RCMES is
+  Powered by [Apache OCW](http://climate.apache.org/) is a comprehensive 
+  toolkit providing regridding (temporal and spatial); metrics calculation 
+  (RMSE, bias, probability distribution function, etc.) and visualization 
+  to compare remote sensing data with model output. RCMES and OCW have been
+  plugged into the ESGF Search API.
 
 [esgf architecture]: media/images/FederationArchitecture.png
 [esgf manifesto]:    developer-info.html#manifesto
