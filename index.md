@@ -46,20 +46,9 @@ div.announcement p {
 {% include hero.html %}
 
 <div class="hero-unit announcement">
-  <h3>2014 Annual ESGF & UV-CDAT Conference</h3>
-  <p>
-  Webinar Logistics: Please register for 4th Annual <br/>
-  ESGF and UV-CDAT Conference on December 9, 10, 11, 2014 <br/>
-  at: <a href="https://attendee.gotowebinar.com/register/8109767231900886530">https://attendee.gotowebinar.com/register/8109767231900886530</a> <br/>
-  After registering, you will receive a confirmation email containing information about joining the webinar.<br/> 
-  <center><a href="http://aims-group.github.io/pdf/2014-ESGF-&-UV-CDAT-F2F-Agenda.pdf" target="_blank">Agenda</a> | <a href="http://aims-group.github.io/pdf/2014-ESGF_UV-CDAT_Conference-Abstracts.pdf" target="_blank">Abstracts</a> | <a href="http://aims-group.github.io/pdf/Driving-Directions-to-Rios-Lovell-Estate-Winery.pdf" target="_blank">Directions</a>
-  </center>
-  </p>
-  <div class="alert">
-  <strong>NOTE:</strong> Due to GO-TO-MEETING technical challenges, we will be using a different number for the teleconference: 1 (925) 424-8105 (access code 305757#)
-  </div>
-  
-  
+  <h3>2014 Annual ESGF &amp; UV-CDAT Conference</h3>
+  <p>Thanks for attending the 2014 Face-To-Face conference! We look forward to seeing you all again next year!</p>
+  <p><a href="/facetoface.html">Slides from the conference are now available</a></p>
 </div>
 
 <div class="span12">
