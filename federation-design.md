@@ -83,7 +83,7 @@ being developed.
   Mover Light**. Data Mover Light (DML) is a high performance desktop client
   that allows bulk download of data files via either HTTP or GridFTP.
   * **Regional Climate Model Evaluation System (RCMES) & Apache Open Climate 
-  Workbench. [RCMES](http://rcmes.jpl.nasa.gov/) is a model evalution framework bringing remote sensing 
+  Workbench**. [RCMES](http://rcmes.jpl.nasa.gov/) is a model evalution framework bringing remote sensing 
   data from the National Aeronautics and Space Administration (NASA) and
   other agencies to bear for evaluation of climate model outputs. RCMES is
   Powered by [Apache OCW](http://climate.apache.org/) is a comprehensive 
