@@ -123,7 +123,6 @@ To join the users mailing list, send an email to
 
 ### BADC
 
-* <a href="mailto:#" target="_blank">Stephen Pascoe</a>
 * <a href="mailto:#" target="_blank">Alan Iwi</a>
 
 ### NSC-LIU
