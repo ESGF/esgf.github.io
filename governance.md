@@ -71,8 +71,10 @@ The **EC** shall elect a Chair, who will serve a three-year term. An exception i
 
 Multiple members representing a single organization are together allowed only a single vote on all issues. For example, if two **EC** members represent the same NOAA-funded project, each of those member's votes would be counted as half a vote.
 
-#### Meetings
 -------------
+
+#### Meetings
+
 
 Meetings may occur via telecom, e-mail, or face-to-face. The **EC** will hold regular meetings, no less than every other month. The **SC** will meet no less than semiannually. The **SC** and **EC** will meet jointly no less than semiannually. At least one of the joint meetings should be a face-to-face meeting. Scheduled meetings and meeting notes shall be posted on the ESGF website.
 
