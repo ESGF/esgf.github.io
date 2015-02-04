@@ -5,6 +5,23 @@ title: Publications
 
 ## Publications
 
+###2014
+
+####mproving Processes for User Support in e-Science
+Hashim I. Chunpir, Thomas Ludwig (2014): Improving Processes for User Support in e-Science. IEEE eScience 2014 Conference - Works in Progress session [PID....]
+
+####Reviewing the governance structure of end-user support  in e-Science infrastructures.
+Hashim I. Chunpir, Thomas Ludwig (2014): Reviewing the governance structure of end-user support  in e-Science infrastructures. –INFORMATIK-2014 Beyond Data (2014). [LNI...]
+
+####A snap-shot of user support services in Earth System Grid Federation (ESGF): a use case of climate cyberinfrastructure.
+Hashim Iqbal Chunpir, Thomas Ludwig, A. Badewi: A snap-shot of user support services in Earth System Grid Federation (ESGF): a use case of climate cyberinfrastructure. 2nd International Conference on Human Side of Service Engineering, an associate conference of 5th International Conference on Applied Human Factors and Ergonomics (AHFE), 2014 [AHFE..]
+
+####User Support System in the Complex Environment.
+Hashim Iqbal Chunpir, <a href=http://www.informatik.uni-trier.de/%7Eley/pers/hd/b/Badewi:Amgad_Ali.html">Amgad Ali Badewi</a>, <a href="http://www.informatik.uni-trier.de/%7Eley/pers/hd/l/Ludwig_0002:Thomas.html">Thomas Ludwig</a>: User Support System in the Complex Environment. <a href="http://www.informatik.uni-trier.de/%7Eley/db/conf/hci/hci2014-11.html#ChunpirB014">HCI (11) 2014</a>: 392-402 [852...]
+
+####Using Soft Systems Methodology (SSM) in Understanding Current User-Support Scenario in the Climate Science Domain of Cyber-Infrastructures
+Hashim Iqbal Chunpir, <a href="http://www.informatik.uni-trier.de/%7Eley/pers/hd/l/Ludwig_0002:Thomas.html">Thomas Ludwig</a>, <a href="http://www.informatik.uni-trier.de/%7Eley/pers/hd/b/Badewi:Amgad_Ali.html">Amgad Ali Badewi</a>: Using Soft Systems Methodology (SSM) in Understanding Current User-Support Scenario in the Climate Science Domain of Cyber-Infrastructures.<a href="http://www.informatik.uni-trier.de/%7Eley/db/conf/hci/hci2014-10.html#Chunpir0B14">HCI (10) 2014</a>: 495-506 [851...]
+
 ### 2013
 
 #### <a href="media/pdf/ESGF_Fact_Sheet.pdf" target="_blank">ESGF Fact Sheet</a>
