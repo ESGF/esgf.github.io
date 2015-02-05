@@ -49,6 +49,7 @@ div.announcement p {
   <h3>2014 Annual ESGF &amp; UV-CDAT Conference</h3>
   <p>Thanks for attending the 2014 Face-To-Face conference! We look forward to seeing you all again next year!</p>
   <p><a href="/facetoface.html">Slides from the conference are now available</a></p>
+  <p><a href="http://aims-group.github.io/pdf/2014-ESGF_UV-CDAT_Conference_Report.pdf">The report on the conference is now available</a></p>
 </div>
 
 <div class="span12">
