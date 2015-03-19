@@ -17,7 +17,7 @@ resonable defaults (you can just hit enter - recommended).
 executables (heads up: globus and python take a relatively long time to build).
 
 ### Operating Systems
-we currently support centOS / RedHat
+we currently support centOS / RedHat / Scientific Linux versions 5 and 6
 
 ### Prerequisites
 Before getting started, you must have the following packages installed
@@ -78,12 +78,6 @@ when avaiable always download and install the devel versions
 * [ESGF Wiki][sitewiki]
 * [Releases]
 * [License]
-
-### Known Gotchas
-
-* Default peer node is esgf-node1.llnl.gov.  User should choose a valid node like pcmdi9.llnl.gov.  If user had selected esgf-node1.llnl.gov initially, best solution after the script fails is to go to /esg/config/esgf.properties and replace every instance of esgf-node1.llnl.gov with pcmdi9.llnl.gov.
-* GridFTP installation.  Fails because the uuid.h header file can't be found.  The solution is to install uuid-devel and libuuid-devel as prerequisites.
-* CDAT installation.  There was a problem with building CDAT.  This was fixed by pointing the script to the right hash of the latest cdat installation.  This can be found in line 131 of esg-node and changed to77421b9205d347950f31b1815781f010087da7d1
 
 ---
 
