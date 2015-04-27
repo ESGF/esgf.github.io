@@ -53,8 +53,8 @@ The **Executive Committee** accepts guidance from and reports to the **Steering 
 * Seek input from users (both ESGF node hosts and service users) whenever major changes are considered that might affect them.
 * Communicate resource needs to the **SC**.
 * Provide updates on plans and progress when requested by the **SC**.
-* Establish an Advisory Board (AB) that interacts and communicates community concerns and ideas to the **XC** for their consideration. This acts as a direct mode by which the community can act to guide further ESGF development.
-* To facilitate interactions between the AB as well as external sponsors and resources, the **XC** will establish procedures whereby these groups can submit proposals. 
+* Establish an **Advisory Board** (**AB**) that interacts and communicates community concerns and ideas to the **XC** for their consideration. This acts as a direct mode by which the community can act to guide further ESGF development.
+* To facilitate interactions between the **AB** as well as external sponsors and resources, the **XC** will establish procedures whereby these groups can submit proposals. 
 * Communicate **SC** decisions to the developer community.
 
 
