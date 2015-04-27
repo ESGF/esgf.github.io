@@ -86,7 +86,7 @@ The **SC** and the **XC** may invite guests to attend meetings and participate i
 
 #### Addendum 1: ESGF Steering Committee Membership:
 
-##### Nominations:
+##### Members:
 
 * Sponsor representatives:
 	* Justin Hnilo (Chair, DOE)
@@ -95,11 +95,11 @@ The **SC** and the **XC** may invite guests to attend meetings and participate i
 	* Ben Evans (Australian Department of Education)
 	* Annarita Mariotti (NOAA)
 * Ex-officio member:
-	* Executive Committee Chair
+	* Executive Committee Chair, Dean N. Williams
 
-##### Addendum 2: ESGF Executive Committee Membership
+#### Addendum 2: ESGF Executive Committee Membership
 
-Nominations:
+##### Members:
 
 * Dean N. Williams (Chair, DOE)
 * Michael Lautenschlager (Co-Chair, DKRZ)
