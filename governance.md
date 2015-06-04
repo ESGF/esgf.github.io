@@ -16,13 +16,14 @@ The major funders of ESGF will participate in governing it, and by doing so ther
 The Steering Committee provides a forum for ESGF funding agencies to communicate, interact and coordinate their support for ESGF and to help fashion a common vision for its evolution.  The SC establishes procedures and agreements that may be required for development and use of ESGF software.  It also communicates resource constraints to the Executive Committee and provides feedback to the XC as to how well it is meeting sponsor goals and satisfying user needs. 
 Responsibilities of the Steering Committee:
 
-* Communicate sponsor objectives and constraints to the XC to ensure that they are reflected in ESGF goals and vision.
+*	Communicate sponsor objectives and constraints to the XC to ensure that they are reflected in ESGF goals and vision.
 *	With advice from the XC, establish procedures for new open source ESGF software releases.
 *	With advice from the XC, draw up “terms of use” agreements and/or “memoranda of understanding” with those relying on ESGF software infrastructure, specifying any expectations and requirements (including resource requirements) for participation.
 *	Advise on funding issues and opportunities that may be relevant to continued progress.
 *	Ensure SC membership includes representatives from all agencies and recognized consortia of research organizations providing significant ESGF contributions.
 *	Consider new directions proposed by the XC and provide feedback on which ones are consistent with ongoing or potential funding sources.
 *	Annually produce a report outlining individual funding levels and projects supported
+
 
 The SC shall have a DOE program manager as chair. A co-chair will be elected at the first meeting.  The initial representatives of the SC are also identified in Addendum 1.
 Additional sponsor representatives will be admitted to the committee if they support ESGF at a level greater than a threshold (initially thought to be 5FTE /year that will be established by the SC Chair in consultation with the other members of the Board. Members may be removed or added by a simple majority vote by the rest of the membership.  Decisions and recommendations will be made through a simple majority vote and relayed via email to members of the XC.
@@ -66,6 +67,7 @@ Meetings may occur via telecom, e-mail, or face-to-face.  The XC will hold regul
 
 The SC and the XC may invite guests to attend meetings and participate in other relevant ways, but guests do not have voting privileges. Participating guests may, for example, testify as to needed capabilities, provide expert technical advice, present proposals, or contribute to the code base.
 
+ 
 ###Addendum 1: ESGF Steering Committee Membership:
 
 * Members:
@@ -73,10 +75,10 @@ The SC and the XC may invite guests to attend meetings and participate in other 
   * Justin Hnilo (Chair, DOE)
   * Sylvie Joussaume (IS-ENES)
   * Tsengdar Lee (NASA)
-  * Ben Evans (Australian Department of Education)
+  * Ben Evans (NCI)
   * Annarita Mariotti (NOAA)
 * Ex-officio member:
-  * Executive Committee Chair, Dean N. Williams (DOE)
+	* Executive Committee Chair, Dean N. Williams (DOE)
 
 
 ###Addendum 2: ESGF Executive Committee Membership
@@ -94,4 +96,4 @@ The SC and the XC may invite guests to attend meetings and participate in other 
   * Ben Evans (NCI)
   * Claire Trenham (NCI)
 
-  [download](media/pdf/ESGF_Governance_4_27_2015.pdf)
+  [download](media/pdf/ESGF_Governance_6_4_2015.pdf)
