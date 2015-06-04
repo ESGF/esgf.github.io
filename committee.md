@@ -9,7 +9,7 @@ title: Committees
   * Justin Hnilo (Chair, DOE)
   * Sylvie Joussaume (IS-ENES)
   * Tsengdar Lee (NASA)
-  * Ben Evans (Australian Department of Education)
+  * Ben Evans (NCI)
   * Annarita Mariotti (NOAA)
   * ESGF Executive Committee Membership
 
@@ -26,4 +26,3 @@ title: Committees
   * V. Balaji (NOAA)
   * Ben Evans (NCI)
   * Claire Trenham (NCI)
-
