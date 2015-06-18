@@ -46,10 +46,12 @@ div.announcement p {
 {% include hero.html %}
 
 <div class="hero-unit announcement">
-  <h3>2014 Annual ESGF &amp; UV-CDAT Conference</h3>
-  <p>Thanks for attending the 2014 Face-To-Face conference! We look forward to seeing you all again next year!</p>
-  <p><a href="/facetoface.html">Slides from the conference are now available</a></p>
-  <p><a href="http://aims-group.github.io/pdf/2014-ESGF_UV-CDAT_Conference_Report.pdf">The report on the conference is now available</a></p>
+  <h3>Dear  ESGF community</h3>
+  <p>
+  To protect the integrity of the ESGF data archives, we have decided to overhaul the entire ESG Federation of data nodes. This means that over the next 3 or 4 weeks, you will not have access to data through ESGF. <br/>
+  Updates concerning the overhaul of ESGF will be posted at:  <a href="http://esgf.llnl.gov">http://esgf.llnl.gov</a>.<br/>
+  Note that this announcement affects all ESGF data, including CMIP5 output, but data from CMIP3 simulations remains available via <a href="https://esg.llnl.gov:8443/about/registration.do">https://esg.llnl.gov:8443/about/registration.do</a>  (see also <a href="http://www-pcmdi.llnl.gov/ipcc/info_for_analysts.php#getting_started">http://www-pcmdi.llnl.gov/ipcc/info_for_analysts.php#getting_started)</a>.
+  </p>
 </div>
 
 <div class="span12">
