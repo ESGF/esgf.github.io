@@ -48,9 +48,9 @@ div.announcement p {
 <div class="hero-unit announcement">
   <h3>Dear  ESGF community</h3>
   <p>
-  To protect the integrity of the ESGF data archives, we have decided to overhaul the entire ESG Federation of data nodes. This means that over the next 3 or 4 weeks, you will not have access to data through ESGF. <br/>
-  Updates concerning the overhaul of ESGF will be posted at:  <a href="http://esgf.llnl.gov">http://esgf.llnl.gov</a>.<br/>
-  Note that this announcement affects all ESGF data, including CMIP5 output, but data from CMIP3 simulations remains available via <a href="https://esg.llnl.gov:8443/about/registration.do">https://esg.llnl.gov:8443/about/registration.do</a>  (see also <a href="http://www-pcmdi.llnl.gov/ipcc/info_for_analysts.php#getting_started">http://www-pcmdi.llnl.gov/ipcc/info_for_analysts.php#getting_started)</a>.
+  <p>To protect the integrity of the ESGF data archives, we have decided to overhaul the entire ESG Federation of data nodes. This means that over the next 3 or 4 weeks, you will not have access to data through ESGF. </p>
+  <p>Updates concerning the overhaul of ESGF will be posted at:  <a href="http://esgf.llnl.gov">http://esgf.llnl.gov</a>.</p>
+  <p>Note that this announcement affects all ESGF data, including CMIP5 output, but data from CMIP3 simulations remains available via <a href="https://esg.llnl.gov:8443/about/registration.do">https://esg.llnl.gov:8443/about/registration.do</a>  (see also <a href="http://www-pcmdi.llnl.gov/ipcc/info_for_analysts.php#getting_started">http://www-pcmdi.llnl.gov/ipcc/info_for_analysts.php#getting_started)</a>.</p>
   </p>
 </div>
 
