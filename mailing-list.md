@@ -54,10 +54,31 @@ To join the users mailing list, send an email to
 * <a href="mailto:#" target="_blank">Carsten Ehbrecht</a>
 * <a href="mailto:#" target="_blank">Hans Ramthun</a>
 
-### IPSL
+### IPSL-UPMC
 
 * <a href="mailto:#" target="_blank">Sebastien Denvil</a>
 * <a href="mailto:#" target="_blank">Nicolas Carenton</a>
+
+### IPSL-Polytechnique
+
+* <a href="mailto:#" target="_blank">Karim Ramage</a>
+
+### IPSL-IDRIS
+
+* <a href="mailto:#" target="_blank">Agnes Ansari</a>
+
+### IPSL-CEA-TGCC
+
+* <a href="mailto:#" target="_blank">sc-tgcc@cea.fr</a>
+
+### CNRM-CERFACS
+
+* <a href="mailto:#" target="_blank">Eric Gerbier</a>
+
+### CINES
+
+* <a href="mailto:#" target="_blank">Pascal Dugenie</a>
+* <a href="mailto:#" target="_blank">Yann Honvault</a>
 
 ### NCI
 
