@@ -53,7 +53,7 @@ These logo guidelines will help maintain and establish project identity, protect
 3. **Infrastructure application logos**:  To identify the software environment, room is allocated in the upper right of the top-framing banner for up to two logos.  One of these should be the ESGF logo. The second of these will in many instances be the CoG logo, but sites using other user interface software may replace it with the logo for that software.
 4. **Infrastructure sponsor acknowledgment**: Infrastructure sponsors are acknowledged in text on the bottom-framing banner. They will be fully recognized on a separate page, linked to project webpages, detailing their contributions.
 
-The bottommost framing banner, although customizable, must include certain mandated links such as the privacy policy. At this point, the bottommost area (see [Figure 3](fig3)) is open for each portal site to modify as they see fit.
+The bottommost framing banner, although customizable, must include certain mandated links such as the privacy policy. At this point, the bottommost area (see [Figure 3][fig3]) is open for each portal site to modify as they see fit.
 
 These guidelines represent the basic standard for project identity, sponsor and infrastructure acknowledgement for all portals—whether using the CoG front-end portal or some other front-end portal not affiliated with the projects or ESGF. The next section displays examples of the placement and size of logos on the CoG front-end. It also contains the two "powered by" ESGF logos for portals employing the ESGF infrastructure that are not using CoG as their primary front-end.
 
