@@ -7,7 +7,7 @@ title: Logo Requirements
 
 # Logo Requirements and Usage Guidelines
 
-### Owners of the Living Document: ESGF Executive Committee, CoG Committee, CMIP Panel, WCRP)
+##### Owners of the Living Document: ESGF Executive Committee, CoG Committee, CMIP Panel, WCRP)
 
 ## 1. Summary
 
