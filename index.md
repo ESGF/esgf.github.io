@@ -46,6 +46,15 @@ div.announcement p {
 {% include hero.html %}
 
 <div class="hero-unit announcement">
+  <h3>ESGF Face to Face</h3>
+  <p>
+  <p> December 7 - 11, 2015</p>
+  <p>Thank you in advance for participating in the ESGF Conference. We are excited to host this event in Monterey, CA at the Marriott Hotel. This venue will allow for many of our program goals to be met including a series of poster sessions and a social interactions to facilitate networking and collaboration relationships with conference attendees.</p>
+  <p><a href="http://www.cvent.com/events/earth-system-grid-federation-esgf-conference-2015/event-summary-89df663c495a4c03b52523abc05df8be.aspx">Register Here</a></p>
+  </p>
+</div>
+
+<div class="hero-unit announcement">
   <h3>Dear  ESGF community</h3>
   <p>
   <p>To protect the integrity of the ESGF data archives, we have decided to overhaul the entire ESG Federation of data nodes.  We plan to have the updated version of ESGF available the week of September 21st, and access to nodes will be restored as they come online after that date.</p>
