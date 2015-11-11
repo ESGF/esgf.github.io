@@ -51,7 +51,14 @@ div.announcement p {
   <p> December 7 - 11, 2015</p>
   <p>Thank you in advance for participating in the ESGF Conference. We are excited to host this event in Monterey, CA at the Marriott Hotel. This venue will allow for many of our program goals to be met including a series of poster sessions and a social interactions to facilitate networking and collaboration relationships with conference attendees.</p>
   <p><a href="http://www.cvent.com/events/earth-system-grid-federation-esgf-conference-2015/event-summary-89df663c495a4c03b52523abc05df8be.aspx">Register Here</a></p>
+  
+  <p>
+   <a href="ESGF_Development_for_Data_Centers_and_Interoperable_Services_v11-11-15.pdf">ESGF Development for Data Centers and Interoperable Services</a>
+    | 
+   <a href="media/pdf/2015_ESGF_F2F_Agenda_v11-11-15.pdf">Agenda</a>
   </p>
+   
+   </p>
 </div>
 
 <div class="hero-unit announcement">
