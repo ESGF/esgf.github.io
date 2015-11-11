@@ -55,7 +55,7 @@ div.announcement p {
   <br/>
   <a href="media/pdf/2015_ESGF_F2F_Agenda_v11-11-15.pdf">Agenda</a>
   <br/>
-  <a href="ESGF_Development_for_Data_Centers_and_Interoperable_Services_v11-11-15.pdf">ESGF Development for Data Centers and Interoperable Services</a>
+  <a href="media/pdf/ESGF_Development_for_Data_Centers_and_Interoperable_Services_v11-11-15.pdf">ESGF Development for Data Centers and Interoperable Services</a>
   </p>
   </p>
 </div>
