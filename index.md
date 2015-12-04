@@ -56,6 +56,8 @@ div.announcement p {
   <a href="media/pdf/2015-ESGF-Agenda.pdf">Agenda</a>
   <br/>
   <a href="media/pdf/2015-ESGF-Abstacts.pdf">Abstracts</a>
+  <br/>
+  <a href="2015-F2F.html">ESGF Face to Face Page</a>
   </p>
   </p>
 </div>
