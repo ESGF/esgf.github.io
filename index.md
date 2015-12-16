@@ -49,14 +49,12 @@ div.announcement p {
   <h3>ESGF Face to Face</h3>
   <p>
   <p> December 7 - 11, 2015</p>
-  <p>Thank you in advance for participating in the ESGF Conference. We are excited to host this event in Monterey, CA at the Marriott Hotel. This venue will allow for many of our program goals to be met including a series of poster sessions and a social interactions to facilitate networking and collaboration relationships with conference attendees.</p>
+  <p>Thank you in participating in the ESGF Conference.</p>
   <p>
-  <a href="http://www.cvent.com/events/earth-system-grid-federation-esgf-conference-2015/event-summary-89df663c495a4c03b52523abc05df8be.aspx">Register Here</a>
-  <br/>
   <a href="media/pdf/2015-ESGF-Agenda.pdf">Agenda</a>
-  <br/>
+   | 
   <a href="media/pdf/2015-ESGF-Abstacts.pdf">Abstracts</a>
-  <br/>
+   | 
   <a href="2015-F2F.html">ESGF Face to Face Page</a>
   </p>
   </p>
@@ -65,9 +63,27 @@ div.announcement p {
 <div class="hero-unit announcement">
   <h3>Dear  ESGF community</h3>
   <p>
-  <p>To protect the integrity of the ESGF data archives, we have decided to overhaul the entire ESG Federation of data nodes.  We plan to have the updated version of ESGF available in December, and access to nodes will be restored as they come online after that date.</p>
-  <p>Updates concerning the overhaul of ESGF will be posted at:  <a href="http://esgf.llnl.gov">http://esgf.llnl.gov</a>.</p>
-  <p>Note that this announcement affects all ESGF data, including CMIP5 output, but data from CMIP3 simulations remains available via <a href="https://esg.llnl.gov:8443/about/registration.do">https://esg.llnl.gov:8443/about/registration.do</a>  (see also <a href="http://www-pcmdi.llnl.gov/ipcc/info_for_analysts.php#getting_started">http://www-pcmdi.llnl.gov/ipcc/info_for_analysts.php#getting_started)</a>. A list of what CMIP5 data is available can be found <a href="https://verc.enes.org/community/announcements/news/esgf-data-nodes-down">here</a>.</p>
+  ESGF has been released, and we will begin publishing data again, eta Mid January 2016.</br>
+  What we have been up to.
+  <ul>
+  <li>Completed software scan of all modules, fixed all exposed and other potential security breaches</li>
+  <li>Major upgrade of underlying system infrastructure include:</li>
+  <ul>
+  <li>Java 1.8, Tomcat 8, Postgres 9.4, OpenSSL 1.0, Python 2.7.9</li>
+  <li>Switch ESGF installer to RPM-based components</li>
+  <li>Run Apache httpd server in front of Tomcat (better performance, flexibility)</li>
+  </ul>
+  <li>Major upgrade of all ESGF services:</li>
+  <ul>
+  <li>Search services (Solr5), data download (TDS5), high performance data transfer (Globus-Connect-Server), computation (UV-CDAT), visualization (LAS)</li>
+  <li>Replaced old web-front-end with new CoG user interface (your question)</li>
+  </ul>
+  <li>Currently republishing ALL data collections (CMIP5, CORDEX, Obs4MIPs, ana4MIPs,…)</li>
+  <li>ESGF v2.1 released December 10th; fully operational scheduled for mid-January</li>
+  <li>you can see the beginnings of the new CoG interface at <a href="http://pcmdi9.llnl.gov">http://pcmdi9.llnl.gov</a></li>
+  </ul>
+  To learn more about the CoG interface see: <a href="https://earthsystemcog.org">https://earthsystemcog.org</a> There’s tutorials here as well.</br>
+  We thank you for your patience with us.
   </p>
 </div>
 
