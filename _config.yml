@@ -1,4 +1,4 @@
 name: ESGF
 author: esgf.org
 markdown: kramdown
-highlighter: pygements
+highlighter: pygments
