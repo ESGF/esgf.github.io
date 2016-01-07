@@ -200,6 +200,10 @@ To join the users mailing list, send an email to
 
 * <a href="mailto:#" target="_blank">Young Hwa Byun</a>
 
+### PIK
+
+* <a href="mailto:#" target="_blank">Matthias Büchner</a>
+
 ---
 
 [developer info]:  developer-info.html
