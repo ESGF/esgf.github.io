@@ -80,7 +80,7 @@ div.announcement p {
   </ul>
   <li>Currently republishing ALL data collections (CMIP5, CORDEX, Obs4MIPs, ana4MIPs,…)</li>
   <li>ESGF v2.1 released December 10th; fully operational scheduled for mid-January</li>
-  <li>you can see the beginnings of the new CoG interface at <a href="http://pcmdi9.llnl.gov">http://pcmdi9.llnl.gov</a></li>
+  <li>you can see the beginnings of the new CoG interface at <a href="http://pcmdi.llnl.gov">http://pcmdi.llnl.gov</a></li>
   </ul>
   To learn more about the CoG interface see: <a href="https://earthsystemcog.org">https://earthsystemcog.org</a> There’s tutorials here as well.</br>
   We thank you for your patience with us.

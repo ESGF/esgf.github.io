@@ -168,15 +168,15 @@ This will regenerate the keystore and rebuild the truststore. If you are upgradi
 
 #####Upon startup, at the end of the installation process you see...
 
-Setting Index Peer... to => [pcmdi9.llnl.gov] (endpoint type = p2p)
-Installing Public Certificate of Target Peer Node...[pcmdi9.llnl.gov]
+Setting Index Peer... to => [pcmdi.llnl.gov] (endpoint type = p2p)
+Installing Public Certificate of Target Peer Node...[pcmdi.llnl.gov]
 
     Oo.:-)
     [FAIL] Could not access private keystore /esg/config/tomcat/keystore-tomcat (re-run --add-my-cert-to-truststore)
     :-(
     Sync'ing /esg/config/tomcat/esg-truststore.ts with /usr/local/java/jre/lib/security/jssecacerts ... [OK]
     :-)
-    https://pcmdi9.llnl.gov/esg-search/remote/secure/client-cert/hessian/publishingService
+    https://pcmdi.llnl.gov/esg-search/remote/secure/client-cert/hessian/publishingService
 
 This is a symptom of the same cause as the previous issue. The output directs you as to the remedy.
 

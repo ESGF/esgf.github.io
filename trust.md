@@ -70,7 +70,7 @@ Show Trusted CA Certificates
     <tr bgcolor="#ffffff"><td>241a8801 </td><td> /C=US/ST=IL/L=Chicago/O=ANL/OU=ESG/CN=dev.esg.anl.gov </td></tr>
     <tr bgcolor="#eaeaea"><td>c4949a23 </td><td> /O=Grid/OU=GlobusTest/OU=simpleCA-esg.ccs.ornl.gov/CN=Globus Simple CA </td></tr>
     <tr bgcolor="#ffffff"><td>439ce3f7 </td><td> /C=UK/O=eScienceSLCSHierarchy/OU=Authority/CN=SLCS Top Level CA </td></tr>
-    <tr bgcolor="#eaeaea"><td>52440ff8 </td><td> /O=Grid/OU=GlobusTest/OU=simpleCA-pcmdi9.llnl.gov/CN=Globus Simple CA </td></tr>
+    <tr bgcolor="#eaeaea"><td>52440ff8 </td><td> /O=Grid/OU=GlobusTest/OU=simpleCA-pcmdi.llnl.gov/CN=Globus Simple CA </td></tr>
     <tr bgcolor="#ffffff"><td>6e5da70c </td><td> /C=DE/O=DKRZ/OU=WDCC/CN=ESG-DKRZ CA (albedo2) </td></tr>
     <tr bgcolor="#eaeaea"><td>b204d74a </td><td> /C=US/O=VeriSign, Inc./OU=VeriSign Trust Network/OU=(c) 2006 VeriSign, Inc. - For authorized use only/CN=VeriSign Class 3 Public Primary Certification Authority - G5 </td></tr>
     <tr bgcolor="#ffffff"><td>b13cc6df </td><td> /C=US/ST=UT/L=Salt Lake City/O=The USERTRUST Network/OU=http://www.usertrust.com/CN=UTN-USERFirst-Hardware </td></tr>

@@ -36,7 +36,7 @@ To join the users mailing list, send an email to
 
 ## Node Contacts
 
-### PCMDI9
+### PCMDI
 
 * <a href="mailto:#" target="_blank">Jeff Painter</a>
 * <a href="mailto:#" target="_blank">Matthew Harris</a>
