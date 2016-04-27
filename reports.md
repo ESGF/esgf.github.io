@@ -5,6 +5,7 @@ title: Reports
 
 ##Reports
 
+#### <a href="media/pdf/ESGF-Software-Security-Plan-V1.0.pdf" target="_blank"> ESGF Software Security Plan </a>
 
 #### <a href="media/pdf/2015-ESGF_F2FConference_report_web.pdf" target="_blank">2015 ESGF F2F Conference Report </a>
 
