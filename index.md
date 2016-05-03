@@ -46,21 +46,6 @@ div.announcement p {
 {% include hero.html %}
 
 <div class="hero-unit announcement">
-  <h3>ESGF Face to Face</h3>
-  <p>
-  <p> December 7 - 11, 2015</p>
-  <p>Thank you in participating in the ESGF Conference.</p>
-  <p>
-  <a href="media/pdf/2015-ESGF-Agenda.pdf">Agenda</a>
-   | 
-  <a href="media/pdf/2015-ESGF-Abstacts.pdf">Abstracts</a>
-   | 
-  <a href="2015-F2F.html">ESGF Face to Face Page</a>
-  </p>
-  </p>
-</div>
-
-<div class="hero-unit announcement">
   <h3>Dear  ESGF community</h3>
   <p>
   ESGF has been released, and we will begin publishing data again, eta Mid January 2016.</br>
