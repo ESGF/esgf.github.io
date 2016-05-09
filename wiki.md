@@ -3,6 +3,8 @@ layout: default
 title: Wiki
 ---
 
+### <a href="https://github.com/ESGF/esgf.github.io/wiki/Implementation-Plan-Table">Implementation Plan Table</a>
+
 ### Wikis
 
 Project | URL
@@ -66,12 +68,6 @@ esgf-test-suite | https://github.com/ESGF/esgf-test-suite
 esgf-utils | https://github.com/ESGF/esgf-utils
 esgf-web-fe | https://github.com/ESGF/esgf-web-fe
 CoG | https://github.com/EarthSystemCoG/COG
-
-### Questions & Answers 
-* ~~http://askbot-esgf.llnl.gov~~ will be back up soon
-
-### Mailing List Archives
-* ~~http://aims4.llnl.go~~ coming soon
 
 ### Videos
 * http://esgf.llnl.gov/mov/
