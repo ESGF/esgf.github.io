@@ -46,29 +46,9 @@ div.announcement p {
 {% include hero.html %}
 
 <div class="hero-unit announcement">
-  <h3>Dear  ESGF community</h3>
+  <h3> 2016 ESGF F2F</h3>
   <p>
-  ESGF has been released, and we will begin publishing data again, eta Mid January 2016.</br>
-  What we have been up to.
-  <ul>
-  <li>Completed software scan of all modules, fixed all exposed and other potential security breaches</li>
-  <li>Major upgrade of underlying system infrastructure include:</li>
-  <ul>
-  <li>Java 1.8, Tomcat 8, Postgres 9.4, OpenSSL 1.0, Python 2.7.9</li>
-  <li>Switch ESGF installer to RPM-based components</li>
-  <li>Run Apache httpd server in front of Tomcat (better performance, flexibility)</li>
-  </ul>
-  <li>Major upgrade of all ESGF services:</li>
-  <ul>
-  <li>Search services (Solr5), data download (TDS5), high performance data transfer (Globus-Connect-Server), computation (UV-CDAT), visualization (LAS)</li>
-  <li>Replaced old web-front-end with new CoG user interface (your question)</li>
-  </ul>
-  <li>Currently republishing ALL data collections (CMIP5, CORDEX, Obs4MIPs, ana4MIPs,…)</li>
-  <li>ESGF v2.1 released December 10th; fully operational scheduled for mid-January</li>
-  <li>you can see the beginnings of the new CoG interface at <a href="http://pcmdi.llnl.gov">http://pcmdi.llnl.gov</a></li>
-  </ul>
-  To learn more about the CoG interface see: <a href="https://earthsystemcog.org">https://earthsystemcog.org</a> There’s tutorials here as well.</br>
-  We thank you for your patience with us.
+  ESGF commiunity stay tuned for more details and registration for the upcoming 2016 ESGF Face To Face conference in Washington DC.
   </p>
 </div>
 
