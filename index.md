@@ -46,9 +46,9 @@ div.announcement p {
 {% include hero.html %}
 
 <div class="hero-unit announcement">
-  <h3> 2016 ESGF F2F</h3>
+  <h3> CMIP3 UPDATES</h3>
   <p>
-  ESGF commiunity stay tuned for more details and registration for the upcoming 2016 ESGF Face To Face conference in Washington DC.
+  CMIP commiunity, for the first time ESGF is glad to announce that CMIP3 data can be downloaded from <a href="pcmdi.llnl.gov"></a>.
   </p>
 </div>
 
