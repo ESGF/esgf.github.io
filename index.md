@@ -48,7 +48,7 @@ div.announcement p {
 <div class="hero-unit announcement">
   <h3> CMIP3 UPDATES</h3>
   <p>
-  CMIP commiunity, for the first time ESGF is glad to announce that CMIP3 data can be downloaded from <a href="pcmdi.llnl.gov">pcmdi.llnl.gov</a>.
+  CMIP commiunity, for the first time ESGF is glad to announce that CMIP3 data can be downloaded from <a href="http://pcmdi.llnl.gov">pcmdi.llnl.gov</a>.
   </p>
 </div>
 
