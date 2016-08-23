@@ -3,7 +3,8 @@ layout: default
 title: Committees
 ---
 
-###ESGF Steering Committee Membership:
+### ESGF Steering Committee Membership:
+
 * Members:
   * Sponsor representatives:
   * Justin Hnilo (Chair, DOE)
@@ -13,7 +14,8 @@ title: Committees
   * Annarita Mariotti (NOAA)
   * ESGF Executive Committee Membership
 
-###ESGF Executive Committee Membership
+### ESGF Executive Committee Membership
+
 * Members:
   * Dean N. Williams (Chair, DOE)
   * Michael Lautenschlager (Co-Chair, DKRZ)

@@ -5,7 +5,8 @@ title: Release v1.2
 
 ## ESGF Release Version 1.2
 
-####v1.2.0 (released: Bensonhurst)
+#### v1.2.0 (released: Bensonhurst)
+
 * **Security**:
   - Improved access control for TDS-based OpenDAP access
   - Support for registering in groups with non-automatic approval
@@ -23,7 +24,9 @@ title: Release v1.2
   - Integrated LAS computation service
 
 ---
-####v1.2.1 (staged)
+
+#### v1.2.1 (staged)
+
 * **Security**:
   - ORP: support for configuration of additional trusted [IdPs][idps] from static white list file.
 * **Search**:
@@ -37,7 +40,9 @@ title: Release v1.2
   - Support for negative facet syntax (example: model=!CCSM)
 
 ---
-####v1.2.2 (in test - ready to be staged)
+
+#### v1.2.2 (in test - ready to be staged)
+
 * **Search**:
   - Improvements in search speed when querying for datasets, and adding them to the data cart
   - Allowing seamless harvesting of new search facets from THREDDS catalogs into the Solr index, and easy configuration in the web UI.
@@ -55,7 +60,9 @@ title: Release v1.2
   - Cleaner installation process
 
 ---
-####v1.2.3 (in development and testing)
+
+#### v1.2.3 (in development and testing)
+
 * **Web front end**:
   - Technotes Support
   - CIM (Metafor) Metadata Interface integration
@@ -76,8 +83,6 @@ title: Release v1.2
   - Ability to install old versions of Node
   - Ability to run installer using off board database
   - LAS multi-dataset support
-
-  ---
 
 [myproxy]: https://github.com/ESGF/esgf.github.io/wiki/MyProxy
 [idps]: https://github.com/ESGF/esgf.github.io/wiki/IdPs

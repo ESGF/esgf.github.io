@@ -26,22 +26,27 @@ title: Projects
 </style>
 
 ## ESGF P2P Node Projects
+
 The ESGF P2P Node is the central project.  It is an amalgam of several
 sub-projects and external software components and libraries to create a single
 Data Node artifact capable of searching, sharing and posting large amounts of
 metadata.
 
 ### installer
-##### [Site][ESGF/esgf-installer/site], [Source][ESGF/esgf-installer], [Issues][ESGF/esgf-installer/issues], [Wiki][ESGF/esgf-installer/wiki]
-[<img src="http://esgf.org/esgf-installer/images/logo.jpg" class="project-icon">][ESGF/esgf-installer/site]
+
+##### [Source][ESGF/esgf-installer], [Issues][ESGF/esgf-installer/issues], [Wiki][ESGF/esgf-installer/wiki]
+
+<img src="{{site.url}}/media/images/installer.jpg" class="project-icon">
 
 * Build, install, configure and maintain the ESGF Node.
 
 ---
 
 ### node-manager
-##### [Site][ESGF/esgf-node-manager/site], [Source][ESGF/esgf-node-manager], [Issues][ESGF/esgf-node-manager/issues], [Wiki][ESGF/esgf-node-manager/wiki]
-[<img src="http://esgf.org/esgf-node-manager/images/logo.png" class="project-icon">][ESGF/esgf-node-manager/site]
+
+##### [Source][ESGF/esgf-node-manager], [Issues][ESGF/esgf-node-manager/issues], [Wiki][ESGF/esgf-node-manager/wiki]
+
+<img src="{{site.url}}/media/images/node-manager.png" class="project-icon">
 
 * Central component for managing constituent *components* and overall inter
 and intra node activity.
@@ -49,7 +54,8 @@ and intra node activity.
 * coordination, monitoring, metrics, notification, routing, discovery, etc
 
 #### esgf-shell
-<a href="http://esgf.org/esgf-node-manager/esgf-sh/" target="_blank"><img src="http://esgf.org/esgf-node-manager/images/shell.jpg" class="project-icon"></a>
+
+<img src="{{site.url}}/media/images/esgf-shell.jpg" class="project-icon">
 
 * The shell provides an interactive commandline *(REPL)* environment from which
 the user can manipulate the node and take advantage of node features.
@@ -70,8 +76,10 @@ mechanism for extending the node features and creating new ones!
 ---
 
 ### dashboard
-##### [Site][ESGF/esgf-dashboard/site], [Source][ESGF/esgf-dashboard], [Issues][ESGF/esgf-dashboard/issues], [Wiki][ESGF/esgf-dashboard/wiki]
-[<img src="http://esgf.org/esgf-dashboard/images/logo.png" class="project-icon">][ESGF/esgf-dashboard/site]
+
+##### [Source][ESGF/esgf-dashboard], [Issues][ESGF/esgf-dashboard/issues], [Wiki][ESGF/esgf-dashboard/wiki]
+
+<img src="{{site.url}}/media/images/dashboard.png" class="project-icon">
 
 * Federation level monitoring tool. The dashboard and the node manager enjoy a
 symbiotic relationship as they both participate in federation level
@@ -85,8 +93,10 @@ only node participation but node location as well!
 ---
 
 ### desktop
-##### [Site][ESGF/esgf-desktop/site], [Source][ESGF/esgf-desktop], [Issues][ESGF/esgf-desktop/issues], [Wiki][ESGF/esgf-desktop/wiki]
-[<img src="http://esgf.org/esgf-desktop/images/logo.png" class="project-icon">][ESGF/esgf-desktop/site]
+
+##### [Source][ESGF/esgf-desktop], [Issues][ESGF/esgf-desktop/issues], [Wiki][ESGF/esgf-desktop/wiki]
+
+<img src="{{site.url}}/media/images/desktop.png" class="project-icon">
 
 * Federation level desktop
 * The ESGF Desktop extends the functionalities provided by the data node
@@ -98,8 +108,10 @@ for monitoring purposes.
 ---
 
 ### publisher
-##### [Site][ESGF/esg-publisher/site], [Source][ESGF/esg-publisher], [Issues][ESGF/esg-publisher/issues], [Wiki][ESGF/esg-publisher/wiki]
-[<img src="http://esgf.org/esg-publisher/images/logo.png" class="project-icon">][ESGF/esg-publisher/site]
+
+##### [Source][ESGF/esg-publisher], [Issues][ESGF/esg-publisher/issues], [Wiki][ESGF/esg-publisher/wiki]
+
+<img src="{{site.url}}/media/images/publisher.png" class="project-icon">
 
 * Harvests, publishes, replicates and maintains meta data.
 * Primary feature component for performing meta data harvesting, publishing
@@ -109,8 +121,10 @@ data format support.
 ---
 
 ### idp
-##### [Site][ESGF/esgf-idp/site], [Source][ESGF/esgf-idp], [Issues][ESGF/esgf-idp/issues], [Wiki][ESGF/esgf-idp/wiki]
-[<img src="http://esgf.org/esgf-idp/images/logo.jpg" class="project-icon">][ESGF/esgf-idp/site]
+
+##### [Source][ESGF/esgf-idp], [Issues][ESGF/esgf-idp/issues], [Wiki][ESGF/esgf-idp/wiki]
+
+<img src="{{site.url}}/media/images/idp.jpg" class="project-icon">
 
 * The identity provider in the ESGF SSO federation as well as account management
 and access control system. Also including a web-based interface for site
@@ -125,8 +139,10 @@ administrators.
 ---
 
 ### orp
-##### [Site][ESGF/esgf-orp/site], [Source][ESGF/esgf-orp], [Issues][ESGF/esgf-orp/issues], [Wiki][ESGF/esgf-orp/wiki]
-[<img src="http://esgf.org/esg-orp/images/logo.png" class="project-icon">][ESGF/esgf-orp/site]
+
+##### [Source][ESGF/esgf-orp], [Issues][ESGF/esgf-orp/issues], [Wiki][ESGF/esgf-orp/wiki]
+
+<img src="{{site.url}}/media/images/orp.png" class="project-icon">
 
 * The OpenID Relying Party - relays end-users to their home organization's IDP
 (identity provider) for secure login and connection to *local* resources
@@ -138,8 +154,10 @@ OpenID support.
 ---
 
 ### security
-##### [Site][ESGF/esgf-security/site], [Source][ESGF/esgf-security], [Issues][ESGF/esgf-security/issues], [Wiki][ESGF/esgf-security/wiki]
-[<img src="http://esgf.org/esgf-security/images/logo.png" class="project-icon">][ESGF/esgf-security/site]
+
+##### [Source][ESGF/esgf-security], [Issues][ESGF/esgf-security/issues], [Wiki][ESGF/esgf-security/wiki]
+
+<img src="{{site.url}}/media/images/security.png" class="project-icon">
 
 * Security infrastructure for nodes and federation.
 * Security infrastructure protecting data integrity and access on each node and
@@ -148,8 +166,10 @@ across the federation.
 ---
 
 ### search
-##### [Site][ESGF/esgf-search/site], [Source][ESGF/esgf-search], [Issues][ESGF/esgf-search/issues], [Wiki][ESGF/esgf-search/wiki]
-[<img src="http://esgf.org/esg-search/images/logo.png" class="project-icon">][ESGF/esgf-search/site]
+
+##### [Source][ESGF/esgf-search], [Issues][ESGF/esgf-search/issues], [Wiki][ESGF/esgf-search/wiki]
+
+<img src="{{site.url}}/media/images/search.png" class="project-icon">
 
 * Search mechanism that supports search across entire corpus of ever-changing
 published metadata.
@@ -165,16 +185,20 @@ package contains functionality for:
 ---
 
 ### drslib
-##### [Site][ESGF/esgf-drslib/site], [Source][ESGF/esgf-drslib], [Issues][ESGF/esgf-drslib/issues], [Wiki][ESGF/esgf-drslib/wiki]
-[<img src="media/images/drslib.png" class="project-icon">][ESGF/esgf-drslib/site]
+
+##### [Source][ESGF/esgf-drslib], [Issues][ESGF/esgf-drslib/issues], [Wiki][ESGF/esgf-drslib/wiki]
+
+<img src="{{site.url}}/media/images/drslib.png" class="project-icon">
 
 * Set of libraries for handling the DRS taxonomy that model data adheres to.
 
 ---
 
 ### stager
-##### [Site][ESGF/esgf-stager/site], [Source][ESGF/esgf-stager], [Issues][ESGF/esgf-stager/issues], [Wiki][ESGF/esgf-stager/wiki]
-[<img src="http://esgf.org/esgf-stager/images/logo.png" class="project-icon">][ESGF/esgf-stager/site]
+
+##### [Source][ESGF/esgf-stager], [Issues][ESGF/esgf-stager/issues], [Wiki][ESGF/esgf-stager/wiki]
+
+<img src="{{site.url}}/media/images/stager.png" class="project-icon">
 
 * A system for connecting to and retrieving data from back-end deep storage
 archives.
@@ -199,16 +223,20 @@ structure from the remote structure.
 ---
 
 ### web-fe
-##### [Site][ESGF/esgf-web-fe/site], [Source][ESGF/esgf-web-fe], [Issues][ESGF/esgf-web-fe/issues], [Wiki][ESGF/esgf-web-fe/wiki]
-<img src="http://esgf.org/esgf-web-fe/images/logo.png" class="project-icon">
+
+##### [Source][ESGF/esgf-web-fe], [Issues][ESGF/esgf-web-fe/issues], [Wiki][ESGF/esgf-web-fe/wiki]
+
+<img src="{{site.url}}/media/images/web-fe.png" class="project-icon">
 
 * The web front-end to the federation.  Interface to fasceted search and other services.
 
 ---
 
 ### fetcher
-##### [Site][ESGF/esgf-fetcher/site], [Source][ESGF/esgf-fetcher], [Issues][ESGF/esgf-fetcher/issues], [Wiki][ESGF/esgf-fetcher/wiki]
-[<img src="http://esgf.org/esgf-fetcher/images/logo.jpg" class="project-icon">][ESGF/esgf-fetcher/site]
+
+##### [Source][ESGF/esgf-fetcher], [Issues][ESGF/esgf-fetcher/issues], [Wiki][ESGF/esgf-fetcher/wiki]
+
+<img src="{{site.url}}/media/images/fetcher.jpg" class="project-icon">
 
 * Download published datasets and stay up-to-date.
 * Fetching and keeping updated with ESGF Published data.
@@ -224,8 +252,10 @@ that may be run on any host without any other dependencies.
 ---
 
 ### toolbox
-##### [Site][ESGF/esgf-toolbox/site], [Source][ESGF/esgf-toolbox], [Issues][ESGF/esgf-fetcher/issues], [Wiki][ESGF/esgf-toolbox/wiki]
-[<img src="http://esgf.org/esgf-toolbox/images/logo.jpg" class="project-icon">][ESGF/esgf-toolbox/site]
+
+##### [Source][ESGF/esgf-toolbox], [Issues][ESGF/esgf-fetcher/issues], [Wiki][ESGF/esgf-toolbox/wiki]
+
+<img src="{{site.url}}/media/images/toolbox.jpg" class="project-icon">
 
 * Algorithms and tools to help you wrangle your data.
 * The Premiere Toolbox of computation algorithms
@@ -243,69 +273,55 @@ perform computation, analytics and querying over ESGF datasets.
 [ESGF/esgf-desktop]:              https://github.com/ESGF/esgf-desktop
 [ESGF/esgf-desktop/issues]:       https://github.com/ESGF/esgf-desktop/issues
 [ESGF/esgf-desktop/wiki]:         https://github.com/ESGF/esgf-desktop/wiki
-[ESGF/esgf-desktop/site]:         http://esgf.org/esgf-desktop/
 
 [ESGF/esgf-drslib]:               https://github.com/ESGF/esgf-drslib
 [ESGF/esgf-drslib/issues]:        https://github.com/ESGF/esgf-drslib/issues
 [ESGF/esgf-drslib/wiki]:          https://github.com/ESGF/esgf-drslib/wiki
-[ESGF/esgf-drslib/site]:          http://esgf.org/esgf-drslib/
 
 [ESGF/esgf-fetcher]:              https://github.com/ESGF/esgf-fetcher
 [ESGF/esgf-fetcher/issues]:       https://github.com/ESGF/esgf-fetcher/issues
 [ESGF/esgf-fetcher/wiki]:         https://github.com/ESGF/esgf-fetcher/wiki
-[ESGF/esgf-fetcher/site]:         http://esgf.org/esgf-fetcher/
 
 [ESGF/esgf-idp]:                  https://github.com/ESGF/esgf-idp
 [ESGF/esgf-idp/issues]:           https://github.com/ESGF/esgf-idp/issues
 [ESGF/esgf-idp/wiki]:             https://github.com/ESGF/esgf-idp/wiki
-[ESGF/esgf-idp/site]:             http://esgf.org/esgf-idp/
 
 [ESGF/esgf-installer]:            https://github.com/ESGF/esgf-installer
 [ESGF/esgf-installer/issues]:     https://github.com/ESGF/esgf-installer/issues
 [ESGF/esgf-installer/wiki]:       https://github.com/ESGF/esgf-installer/wiki
-[ESGF/esgf-installer/site]:       http://esgf.org/esgf-installer/
 
 [ESGF/esgf-node-manager]:         https://github.com/ESGF/esgf-node-manager
 [ESGF/esgf-node-manager/issues]:  https://github.com/ESGF/esgf-node-manager/issues
 [ESGF/esgf-node-manager/wiki]:    https://github.com/ESGF/esgf-node-manager/wiki
-[ESGF/esgf-node-manager/site]:    http://esgf.org/esgf-node-manager/
 
 [ESGF/esgf-orp]:                  https://github.com/ESGF/esgf-orp
 [ESGF/esgf-orp/issues]:           https://github.com/ESGF/esgf-orp/issues
 [ESGF/esgf-orp/wiki]:             https://github.com/ESGF/esgf-orp/wiki
-[ESGF/esgf-orp/site]:             http://esgf.org/esgf-orp/
 
 [ESGF/esg-publisher]:            https://github.com/ESGF/esg-publisher
 [ESGF/esg-publisher/issues]:     https://github.com/ESGF/esg-publisher/issues
 [ESGF/esg-publisher/wiki]:       https://github.com/ESGF/esg-publisher/wiki
-[ESGF/esg-publisher/site]:       http://esgf.org/esg-publisher/
 
 [ESGF/esgf-search]:               https://github.com/ESGF/esgf-search
 [ESGF/esgf-search/issues]:        https://github.com/ESGF/esgf-search/issues
 [ESGF/esgf-search/wiki]:          https://github.com/ESGF/esgf-search/wiki
-[ESGF/esgf-search/site]:          http://esgf.org/esgf-search/
 
 [ESGF/esgf-security]:             https://github.com/ESGF/esgf-security
 [ESGF/esgf-security/issues]:      https://github.com/ESGF/esgf-security/issues
 [ESGF/esgf-security/wiki]:        https://github.com/ESGF/esgf-security/wiki
-[ESGF/esgf-security/site]:        http://esgf.org/esgf-security/
 
 [ESGF/esgf-shell]:                https://github.com/ESGF/esgf-shell
 [ESGF/esgf-shell/issues]:         https://github.com/ESGF/esgf-shell/issues
 [ESGF/esgf-shell/wiki]:           https://github.com/ESGF/esgf-shell/wiki
-[ESGF/esgf-shell/site]:           http://esgf.org/esgf-shell/
 
 [ESGF/esgf-stager]:               https://github.com/ESGF/esgf-stager
 [ESGF/esgf-stager/issues]:        https://github.com/ESGF/esgf-stager/issues
 [ESGF/esgf-stager/wiki]:          https://github.com/ESGF/esgf-stager/wiki
-[ESGF/esgf-stager/site]:          http://esgf.org/esgf-stager/
 
 [ESGF/esgf-toolbox]:              https://github.com/ESGF/esgf-toolbox
 [ESGF/esgf-toolbox/issues]:       https://github.com/ESGF/esgf-toolbox/issues
 [ESGF/esgf-toolbox/wiki]:         https://github.com/ESGF/esgf-toolbox/wiki
-[ESGF/esgf-toolbox/site]:         http://esgf.org/esgf-toolbox/
 
 [ESGF/esgf-web-fe]:               https://github.com/ESGF/esgf-web-fe
 [ESGF/esgf-web-fe/issues]:        https://github.com/ESGF/esgf-web-fe/issues
 [ESGF/esgf-web-fe/wiki]:          https://github.com/ESGF/esgf-web-fe/wiki
-[ESGF/esgf-web-fe/site]:          http://esgf.org/esgf-web-fe/

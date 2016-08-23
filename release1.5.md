@@ -4,6 +4,7 @@ title: Release v1.5
 ---
 
 ## ESGF Release Version 1.5.0 (Brower Park)
+
 Date: April 2013
 
 Notes : If you are **upgrading** your node please issue the following commands:
@@ -29,7 +30,7 @@ FYI: The esg-node tool will backup /user/local/tomcat/conf during the migration 
 
 done
 
-####Functionality | Features | Fixes
+#### Functionality | Features | Fixes
 
 * **esgf-installer**: version 1.5.0 (aka the node version)
   - new node maintenance flags
@@ -82,8 +83,10 @@ done
   - LAS: version 8.1
 
 ---
-####Known issues and trouble shooting tips
-######When also installing the COMPUTE node type, bash exceeds mem limit for vars
+
+#### Known issues and trouble shooting tips
+
+###### When also installing the COMPUTE node type, bash exceeds mem limit for vars
 
      Enter the name of the directory containing the 
      'fer_executables.tar.gz file. 
@@ -145,7 +148,7 @@ done
 
 When this happens, re-run the installer. The second time around there are fewer vars added and thus we stay under the limit and are able to complete the full install. This is a known issue of the installation that we are looking into. To avoid getting this error, perform a COMPUTE + (other) install in two steps. First, an install NOT including COMPUTE. Then perform an install again including, this time including COMPUTE. We will work on fixing this properly in a subsequent release.
 
-#####Thredds server complains about not being able to "re-init"
+##### Thredds server complains about not being able to "re-init"
 
     ...
     Enter lines, or <RETURN> to end
@@ -166,7 +169,7 @@ This will regenerate the keystore and rebuild the truststore. If you are upgradi
     %> source /etc/esg.env
     %> $CDAT_HOME/bin/esgsetup --thredds --publish 
 
-#####Upon startup, at the end of the installation process you see...
+##### Upon startup, at the end of the installation process you see...
 
 Setting Index Peer... to => [pcmdi.llnl.gov] (endpoint type = p2p)
 Installing Public Certificate of Target Peer Node...[pcmdi.llnl.gov]
@@ -184,7 +187,7 @@ This is a symptom of the same cause as the previous issue. The output directs yo
 
 The difference between this solution and the previous is that this solution will NOT regenerate your keystore, you will have to know the proper password for it. The previous solution will regenerate the keystore where you SET the keystore password. If you don't know your keystore password, or wish to change it by regenerating it do the previous entry's solution - this means that you have a valid keypair in your /esg/config/tomcat directory.
 
-#####non-compute data node install fails with missing las_servers.xml
+##### non-compute data node install fails with missing las_servers.xml
 
 There is an issue here where the failure to find the las_servers.xml file prevents thredds from being operational. The short fix is to create (touch) the missing file. This is the [solution implemented in v1.6.0][issue11], currently under development.   
 
@@ -223,10 +226,12 @@ One thing to notice here is that the script detects if you have the publisher co
 ---
 
 
-###ESGF Release Version 1.5.0-2 (Brower Park)
+### ESGF Release Version 1.5.0-2 (Brower Park)
+
 (small but necessary modifications posted to production)
 
-####Functionality | Features | Fixes
+#### Functionality | Features | Fixes
+
 * **esgf-web-fe**: version 2.4.1
   - **Admin page**
     - Manage Users now only shows 25 and has a flip through options like the search page
@@ -241,8 +246,6 @@ One thing to notice here is that the script detects if you have the publisher co
     - When a users slicks Show All Registered the loading icon is displayed until all groups are loaded
   - **Login Page**
     - Forgot password no longer has a hard coded from sender email, instead reads the admins email from esgf.properties
-
- ---
 
 [issue1]: https://github.com/ESGF/esgf-security/issues?milestone=1&state=closed
 [issue2s]: https://github.com/ESGF/esgf-security/issues?milestone=2&state=closed

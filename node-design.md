@@ -24,7 +24,7 @@ special central locations where the information is aggregated.
 
 These two characteristics are described in more detail below.
 <center>
-![ESGF architecture][esgf architecture]
+<img src="{{site.url}}/media/images/Architecture.png"/>
 </center>
 
 ## The ESGF Software Stack
@@ -110,8 +110,5 @@ namely:
     system administrators to monitor the status of all services deployed at each
     Node.
 <center>
-![ESGF node types][esgf node types]
+<img src="{{site.url}}/media/images/ESGFNodetypes-19.jpg"/>
 </center>
-
-[esgf node types]:  media/images/ESGFNodetypes-19.jpg
-[esgf architecture]: media/images/Architecture.png

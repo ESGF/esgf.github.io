@@ -12,7 +12,7 @@ Need help with [github](https://help.github.com) or [jekyll](https://help.github
 
 ---
 
-##Useful links
+## Useful links
 ### Mailing Lists
 
 For Whom? | List Address

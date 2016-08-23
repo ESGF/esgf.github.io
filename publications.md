@@ -5,21 +5,21 @@ title: Publications
 
 ## Publications
 
-###2014
+### 2014
 
-####<a href="media/pdf/PID3346481.pdf">Improving Processes for User Support in e-Science</a>
+#### <a href="media/pdf/PID3346481.pdf">Improving Processes for User Support in e-Science</a>
 Hashim I. Chunpir, Thomas Ludwig (2014): Improving Processes for User Support in e-Science. IEEE eScience 2014 Conference - Works in Progress session
 
-####<a href="media/pdf/LNI-word-vorlage-enChunpir29062014.pdf">Reviewing the governance structure of end-user support  in e-Science infrastructures</a>
+#### <a href="media/pdf/LNI-word-vorlage-enChunpir29062014.pdf">Reviewing the governance structure of end-user support  in e-Science infrastructures</a>
 Hashim I. Chunpir, Thomas Ludwig (2014): Reviewing the governance structure of end-user support  in e-Science infrastructures. –INFORMATIK-2014 Beyond Data (2014). 
 
-####<a href="media/pdf/AHFE2014_Hashim_Chunpir_PaperID925.pdf">A snap-shot of user support services in Earth System Grid Federation (ESGF): a use case of climate cyberinfrastructure</a>
+#### <a href="media/pdf/AHFE2014_Hashim_Chunpir_PaperID925.pdf">A snap-shot of user support services in Earth System Grid Federation (ESGF): a use case of climate cyberinfrastructure</a>
 Hashim Iqbal Chunpir, Thomas Ludwig, A. Badewi: A snap-shot of user support services in Earth System Grid Federation (ESGF): a use case of climate cyberinfrastructure. 2nd International Conference on Human Side of Service Engineering, an associate conference of 5th International Conference on Applied Human Factors and Ergonomics (AHFE), 2014 
 
-####<a href="media/pdf/85200392.pdf">User Support System in the Complex Environment</a>
-Hashim Iqbal Chunpir, <a href=http://www.informatik.uni-trier.de/%7Eley/pers/hd/b/Badewi:Amgad_Ali.html">Amgad Ali Badewi</a>, <a href="http://www.informatik.uni-trier.de/%7Eley/pers/hd/l/Ludwig_0002:Thomas.html">Thomas Ludwig</a>: User Support System in the Complex Environment. <a href="http://www.informatik.uni-trier.de/%7Eley/db/conf/hci/hci2014-11.html#ChunpirB014">HCI (11) 2014</a>: 392-402
+#### <a href="media/pdf/85200392.pdf">User Support System in the Complex Environment</a>
+Hashim Iqbal Chunpir, <a href="http://www.informatik.uni-trier.de/%7Eley/pers/hd/b/Badewi:Amgad_Ali.html">Amgad Ali Badewi</a>, <a href="http://www.informatik.uni-trier.de/%7Eley/pers/hd/l/Ludwig_0002:Thomas.html">Thomas Ludwig</a>: User Support System in the Complex Environment. <a href="http://www.informatik.uni-trier.de/%7Eley/db/conf/hci/hci2014-11.html#ChunpirB014">HCI (11) 2014</a>: 392-402
 
-####<a href="media/pdf/85190495.pdf">Using Soft Systems Methodology (SSM) in Understanding Current User-Support Scenario in the Climate Science Domain of Cyber-Infrastructures</a>
+#### <a href="media/pdf/85190495.pdf">Using Soft Systems Methodology (SSM) in Understanding Current User-Support Scenario in the Climate Science Domain of Cyber-Infrastructures</a>
 Hashim Iqbal Chunpir, <a href="http://www.informatik.uni-trier.de/%7Eley/pers/hd/l/Ludwig_0002:Thomas.html">Thomas Ludwig</a>, <a href="http://www.informatik.uni-trier.de/%7Eley/pers/hd/b/Badewi:Amgad_Ali.html">Amgad Ali Badewi</a>: Using Soft Systems Methodology (SSM) in Understanding Current User-Support Scenario in the Climate Science Domain of Cyber-Infrastructures.<a href="http://www.informatik.uni-trier.de/%7Eley/db/conf/hci/hci2014-10.html#Chunpir0B14">HCI (10) 2014</a>: 495-506
 
 ### 2013

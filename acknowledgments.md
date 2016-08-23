@@ -101,13 +101,12 @@ title: Acknowledgments
 * ![China logo][]
     * China
 
-###ESGF is a team of many people and teams from nations all over the world.
+### ESGF is a team of many people and teams from nations all over the world.
 
 <center>
-![participants][team]
+<img src="{{site.url}}/media/images/ESGF_Participants.png"/>
 </center>
 
-[team]: media/images/ESGF_Participants.png
 [anl]:  http://www.anl.gov/
 [lbnl]: http://www.lbl.gov/
 [llnl]: https://www.llnl.gov/

@@ -10,7 +10,9 @@ title: Developers
 * [ESGF GitHub Repository](http://github.com/esgf)
 
 ----
+
 ### Mailing lists
+
 To join the developers mailing list, send an email to
 [majordomo@lists.llnl.gov][majordomo-devel] with the following in the body:
 
@@ -30,6 +32,7 @@ Other Mailing lists for developer Working Groups
 ----    
 
 ### Standards
+
 * **NO TABS**; instead use 4 spaces
     * For background behind this issues check out [this][background1] or [that][background2] site
 * Java
@@ -52,10 +55,12 @@ Other Mailing lists for developer Working Groups
     * [Source Code](#)
 
 ### Guidelines
+
 * Do not javadoc with @author tag.
 * Never commit into the repo what can be generated
 
 ### Tools
+
 * Version Control System: [git]
 * Build: [ant]
 * Dependencey Management: [ivy]
@@ -71,6 +76,7 @@ Other Mailing lists for developer Working Groups
     * Make a pull request
 
 <a name="manifesto"></a>
+
 ### Manifesto
 
 Described here the inspiring principles according to which ESGF software
