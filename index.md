@@ -44,6 +44,10 @@ div.announcement p {
 </style>
 
 {% include hero.html %}
+<div class="hero-unit announcement">
+  <h3>ESGF User Survey 2016</h3>
+  <p>Please participate in out first <a href="https://www.surveymonkey.com/r/ESGF2016">user survey</a> to help guide future development of ESGF!</p>
+</div>
 
 <div class="hero-unit announcement">
   <h3>ESGF 2016</h3>
@@ -54,7 +58,6 @@ div.announcement p {
     <a href="http://www.cvent.com/d/wvqnw0">Register Now</a><br/>
   </p>
 </div>
-
 <div class="span12">
   <h2>What is ESGF?</h2>
   <p>
