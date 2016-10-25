@@ -53,7 +53,7 @@ div.announcement p {
   <h3>ESGF 2016</h3>
   <p>
     ESGF Face to Face <br/> 
-    Conference Dates: December 6, 3016 - December 9, 2016 <br/>
+    Conference Dates: December 6, 2016 - December 9, 2016 <br/>
     Location: Washington DC, Marriott at Metro Center<br/>
     <a href="http://www.cvent.com/d/wvqnw0">Register Now</a><br/>
   </p>
