@@ -3,8 +3,13 @@ layout: default
 title: Conferences 
 ---
 
-##Conferences
+## Conferences
 
+### 2016
+
+* <a href="{{site.url}}/2016-F2F.html" target="_blank">ESGF Conference</a>
+  - Review current status of ESGF software, plan future development, discuss infrastructure and collaboration.
+  
 ### 2015
 
 * <a href="{{site.url}}/2015-F2F.html" target="_blank">ESGF Conference</a>
