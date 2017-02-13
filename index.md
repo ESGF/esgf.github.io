@@ -44,21 +44,17 @@ div.announcement p {
 </style>
 
 {% include hero.html %}
+
+<div class="hero-unit announcement">
+  <h3>ESGF 2017</h3>
+  <p> <a href="media/pdf/2017-ESGF_F2F_Conference_Report.pdf" target="_blank">2017 ESGF F2F Conference Report</a> </p>
+</div>
+
 <div class="hero-unit announcement">
   <h3>ESGF User Survey 2016</h3>
   <p>Please participate in out first <a href="https://www.surveymonkey.com/r/ESGF2016">user survey</a> to help guide future development of ESGF!</p>
 </div>
 
-<div class="hero-unit announcement">
-  <h3>ESGF 2016</h3>
-  <p>
-    <a href="2016-F2F.html">ESGF Face to Face</a> <br/> 
-    Conference Dates: December 6, 2016 - December 9, 2016 <br/>
-    <a href="{{site.url}}/media/2016-F2F/Agenda.pdf ">Agenda</a> |
-    <a href="{{site.url}}/media/2016-F2F/Abstracts.pdf ">Abstracts</a> |
-    <a href="{{site.url}}/media/2016-F2F/Telecommute.pdf">Telecommute</a>
-  </p>
-</div>
 <div class="span12">
   <h2>What is ESGF?</h2>
   <p>
