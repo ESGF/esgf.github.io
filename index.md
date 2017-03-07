@@ -50,11 +50,6 @@ div.announcement p {
   <p> <a href="media/pdf/2017-ESGF_F2F_Conference_Report.pdf" target="_blank">2017 ESGF F2F Conference Report</a> </p>
 </div>
 
-<div class="hero-unit announcement">
-  <h3>ESGF User Survey 2016</h3>
-  <p>Please participate in out first <a href="https://www.surveymonkey.com/r/ESGF2016">user survey</a> to help guide future development of ESGF!</p>
-</div>
-
 <div class="span12">
   <h2>What is ESGF?</h2>
   <p>
