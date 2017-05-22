@@ -6,6 +6,9 @@ title: Publications
 ## Publications, Reports and Software
 
 ### 2017
+
+Charles Doutriaux; Thomas Maxwell; Aashish Chaudhary; Paul J. Durack; Sankhesh Jhaveri; David Lonie; Sam Fries; Dan Lipsa; Chris Harris; David E DeMarle; Remi Rampin; Denis Nadeau; Charles Doutriaux; James McEnerney; Jonathan Beezley; HarinarayanKrishnan; Jeffrey Painter; Brad King; Ben Burnett; Andrew Bauer; leung25; Huy T. Vo; dakoop; Dean N. Williams; Zach Mullen; Bryce Sampson; Arulalan.T; Edward Brown; Boonthanome Nouanesengsy; Jonathas Costa. Ultrascale Visualization Climate Data Analysis Tools (UV-CDAT), release version 2.10.0, May 11, 2017, DOI: 10.5281/zenodo.574661.
+
 Santer, B.D., J.C. Fyfe, G. Pallotta, G.M. Flato, G.A. Meehl, M.H. England, E. Hawkins, M.E. Mann, J.F. Painter, C. Bonfils, I. Cvijanovic, C. Mears, F.J. Wentz, S. Po-Chedley, Q. Fu, C.-Z. Zou. “Model Expectations and Reality: The Case of Tropospheric Warming.” Nature Geoscience 2017 (in review).
 
 Adam Arkin, David Bader, Tjerk Straatsma, Jack Wells, James Hack, Richard Coffey, Eli, Dart, Matt Jacobson, Jeremy Smith, Rich Bonneau, Dan Rokhsar, Lee Ann Mccue, Tim Scheibe, Eoin Brody, Kathy Yelick, Bill Gustafson, Minghua Zhang, Gil Compo, Dave Moulton, Peter Thornton, Wieslaw Maslowski, Todd Ringler, Bill Collins, Phil Jones, Nathan Urban, Kate Calvin, Andy Jones, Dean N. Williams, Pavlos Kollias, Bert Debusschere, His-Yen Ma, Kate Evans, Esmond Ng, Rob Jacob, Pat Worley, Katie Antypas, Richard Gerber, Katherine Riley, Mary Fitzpatrick, Beth Cerny. “Biological and Environmental Research Exascale Requirements Review,” A Meeting Report from the March 28–31, 2016, Workshop (in review).
