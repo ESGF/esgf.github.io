@@ -167,8 +167,6 @@ Santer, B.D., J. Painter, C. Bonfils, C. Mears, S. Solomon, T.M.L. Wigley, P.J. 
 
 Santer, B.D., J.F. Painter, C.A. Mears, C. Doutriaux, P. Caldwell, J.M. Arblaster, P.J. Cameron-Smith, N.P. Gillett, P.J. Gleckler, J. Lanzante, J. Perlwitz, S. Solomon, P.A. Stott, K.E. Taylor, L. Terray, P.W. Thorne, M.F. Wehner, F.J. Wentz, T.M.L. Wigley, L.J. Wilcox, C.-Z. Zou. “Identifying human influences on atmospheric temperature.” Proceedings of the National Academy of Sciences 2013, 110, 26–33, DOI: 10.1073/pnas.1210514109. 
 
-### 2013
-
 <a href="media/pdf/ESGF_Fact_Sheet.pdf" target="_blank">ESGF Fact Sheet</a>
 The Earth System Grid Federation (ESGF) peer-to-peer enterprise system is an
 interagency and international effort led by the U.S. Department of Energy, and
