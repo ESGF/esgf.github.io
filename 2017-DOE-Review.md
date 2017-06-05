@@ -14,7 +14,7 @@ title: 2017 DOE Proposal Review
 5. Denis Nadeau: [Community Data Management System (CDSM) & Climate Model Output Rewriter][5]
 6. Jason Boutte: [Server-side Computing: Application Programming Interface (API)][6]
 7. Zeshawn Shaheen: [Diagnostics and Metrics][7]
-8. William Hill and Luca Cinquini: [Software Installation]
+8. William Hill and Luca Cinquini: [Software Installation][8]
 9. Soo Kyung Kim: [Machine Learning][9]
 10. Jim McEnerney: [Uncertainty Quantification (UQ) Analytical Modeling (AM)][10]
 11. Ji-Woo Lee: [Scientific Contributions of ESGF to Research Communities][11]
@@ -28,7 +28,7 @@ title: 2017 DOE Proposal Review
 [5]: {{site.url}}/media/2017-DOE/ESGF%20Community%20Data%20Management%20System%20(CDSM)%20&%20Climate%20Model%20Output%20Rewriter%20Final.pptx
 [6]: {{site.url}}/media/2017-DOE/ESGF%20Server-side%20Computing%20-%20API%20Final.pptx
 [7]: {{site.url}}/media/2017-DOE/ESGF%20Diagnostics%20and%20Metrics%20Final.pptx
-[8]: #
+[8]: {{site.url}}/media/2017-DOE/ESGF%20Installer%20Python%20Conversion%20Final.pptx
 [9]: {{site.url}}/media/2017-DOE/ESGF%20Machine%20Learning%20Final.pptx
 [10]: {{site.url}}/media/2017-DOE/ESGF%20Uncertainty%20Quantification%20and%20Analytical%20Modeling%20Final.pptx
 [11]: {{site.url}}/media/2017-DOE/ESGF%20Scientific%20Contributions%20of%20ESGF%20to%20Research%20Communities%20Final.pptx
