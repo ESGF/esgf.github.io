@@ -8,7 +8,7 @@ title: 2017 DOE Proposal Review
 #### Agenda and Presentations
 
 1. Dean N. Williams: [ESGF Overview][1]
-2. Sasha Ames: [Tracking and Feedback Notification (TFN), and Node Manager][2]
+2. Sasha Ames: [Publication, Tracking and Feedback Notification (TFN), and Node Manager][2]
 3. Luca Cinquini: [CoG User Interface (UI), Metadata and Search][3]
 4. Charles Doutriaux: [Advanced Computational Environments and Data Analytics][4]
 5. Denis Nadeau: [Community Data Management System (CDSM) & Climate Model Output Rewriter][5]
@@ -22,7 +22,7 @@ title: 2017 DOE Proposal Review
 13. Matthew Harris: [User Support and Documentation][13]
 
 [1]: {{site.url}}/media/2017-DOE/ESGF%20Overview%20Final.pptx
-[2]: {{site.url}}/media/2017-DOE/ESGF%20Publication,%20Registration,%20User%20Notification%20Final.pptx
+[2]: {{site.url}}/media/2017-DOE/ESGF%20Publication,%20Registration,%20Tracking-Feedback%20Notification%20Final.pptx
 [3]: {{site.url}}/media/2017-DOE/ESGF%20CoG%20User%20Interface%20(UI),%20Metadata%20and%20Search%20Final.pptx
 [4]: {{site.url}}/media/2017-DOE/ESGF%20Advanced%20Computational%20Environments%20and%20Data%20Analytics%20Final.pptx
 [5]: {{site.url}}/media/2017-DOE/ESGF%20Community%20Data%20Management%20System%20(CDSM)%20&%20Climate%20Model%20Output%20Rewriter%20Final.pptx
