@@ -4,7 +4,9 @@ title: Releases
 ---
 
 ## ESGF Node Current Release
-#### [v1.6.2-bushwick_myrtle-release (Bushwick/Myrtle, Brooklyn)][esgf-release]
+
+#### v1.6.2-bushwick_myrtle-release (Bushwick/Myrtle, Brooklyn)
+
 The embodiment of the node application stack is indeed the [installation script][esgf-script] ([downlad][esgf-download]). The script automates the installation process installing the node's application stack in a predictable and uniform way.  This allows for better maintenance and ease of upgrade. The script is written in bash and has a number of features.  Though, one could install these components individiually on one's own.  It is **HIGHLY** recommended to use the script for all installation and update needs.  Learn more about the script, it's flags and features [here][flags-featres].
 
 The ESGF Node, as discussed on the [node][esgf-node] page, is an amalgam of software components that work in concert to perform the higher level tasks of the Node.  The Node is a collectionof components developed by the members of the [ESGF.org][esgf-home] open source effort as well as external tools and libraries that provide support for the ESGF Node feature set. A list of ESGF P2P Node functionality is posted [here][wiki-functions].
@@ -20,7 +22,8 @@ The best and recommended way to install and setup the Node is to first visit the
 
 ---
 
-###Features & [Functionality][wiki-functions]
+### Features & Functionality
+
 <table cellspacing="1" cellpadding="1" border="0">
   <tr bgcolor="#eaeaea"><td> Feature </td><td>&nbsp;&nbsp;Installed&nbsp;&nbsp;</td><td>&nbsp;&nbsp;Tested&nbsp;&nbsp;</td></tr>
   <tr bgcolor="#ffffff"><td> publication </td><td><center><img src="media/images/checkbox_on.png"></center></td><td><center><img src="media/images/checkbox_on.png"></center></td></tr>
@@ -43,7 +46,8 @@ The best and recommended way to install and setup the Node is to first visit the
   <tr bgcolor="#eaeaea"><td> index replication </td><td><center><img src="media/images/checkbox_on.png"></center></td><td><center><img src="media/images/checkbox_on.png"></center></td></tr>
 </table>
 
-###Node Component Versions:
+### Node Component Versions:
+
 <table cellspacing="1" cellpadding="1" border="0">
   <tr bgcolor="#eaeaea"><td> Project </td><td> Version / Tag&nbsp;&nbsp;</td><td> Home Site </td></tr>
   <tr bgcolor="#ffffff"><td> node-manager&nbsp;&nbsp;</td><td> v0.6.19 (db [1])</td><td> <a href="http://esgf.org/esgf-node-manager">http://esgf.org/esgf-node-manager</a> </td></tr>
@@ -57,7 +61,8 @@ The best and recommended way to install and setup the Node is to first visit the
   <tr bgcolor="#ffffff"><td> desktop </td><td> v0.0.5 </td><td><a href="http://esgf.org/esgf-desktop">http://esgf.org/esgf-desktop</a></td></tr>
 </table>
 
-###External Application Stack Versions
+### External Application Stack Versions
+
 <table cellspacing="1" cellpadding="1" border="0">
   <tr bgcolor="#eaeaea"><td> Application </td><td> Version / Tag </td><td> Home Site </td></tr>
   <tr bgcolor="#ffffff"><td> ant </td><td> v1.9.1 </td><td>   <a href="http://ant.apache.org/" target="rel">http://ant.apache.org/</a> </td></tr>
@@ -85,7 +90,7 @@ The best and recommended way to install and setup the Node is to first visit the
       <tr><td> ferret </td><td> v6.842 </td><td> <a href="http://ferret.pmel.noaa.gov/Ferret/" target="rel">http://ferret.pmel.noaa.gov/Ferret/</a>
 </table>
 
-###External Libraries Versions
+### External Libraries Versions
 
 <table cellspacing="1" cellpadding="1" border="0">
   <tr bgcolor="#eaeaea"><td> Library </td><td> Version / Tag </td><td> Home Site </td></tr>
@@ -101,7 +106,8 @@ The best and recommended way to install and setup the Node is to first visit the
 
 ---
 
-###Other Versions
+### Other Versions
+
 * [Development Road Map][road-map]
 * Previous [v1.5.0][other-version] (Brower Park)
 

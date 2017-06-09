@@ -86,7 +86,7 @@ For your convenience, a truststore has been created that contains the above cert
 
 ---
 
-####Using PKI Trust Roots: Trusted CA Certificates
+#### Using PKI Trust Roots: Trusted CA Certificates
 This section will briefly discuss how to consume the above tarball archive. First of course it must be downloaded and the md5sum should be verified to match the above listing.  After that, it should be extracted to a temporary directory and the contents copied over to */etc/grid-security/certificates*.  An example of command used to do this could look something like this:
 
     neillm@boiler:~$ cd /tmp
@@ -146,6 +146,7 @@ For other command line Java applications, to configure the usage of a particular
     neillm@boiler:/tmp/TMPCERTS$ export JAVA-OPTS="-Djavax.net.ssl.trustStore=/tmp/TMPCERTS/esg-truststore.ts -Djavax.net.ssl.trustStorePassword=TRUSTSTORE-PASSWORD $JAVA-OPTS"
 
 ---
+
 ### ESG Whitelisting Policy
 See Accepted OpenID IdP Endpoint Table
 <div id="idpendpoint">

@@ -5,7 +5,8 @@ title: Release v1.4
 
 ## ESGF Release Version 1.4 (Brighton Beach)
 
-####v1.4.0 (Brighton Beach)
+#### v1.4.0 (Brighton Beach)
+
 Date: August 2012
 
 * **Node Manager**
@@ -46,7 +47,7 @@ wrong published checksum check
 * **Other**
   - Updated Thredds server to 4.2.10, which should greatly improved the internal memory management.
 
-#####Release Instructions and Notes
+##### Release Instructions and Notes
 
 * The format of the file **/esg/config/facets.properties** has changed to support additional functionality. If you have a local version of that file, move it somewhere else prior to running the installer, so that a new version can be copied in place (which you can later customize).
 * The location of the Solr index data has changed to **/esg/solr-index**. The installer will automatically copy the old Solr indexes for master and slave into the new location.
@@ -66,7 +67,9 @@ Note that every replica shard will run in a separate Jetty container, on a dedic
 Also, when adding a replica the port value is optional. If one is not supplied the next 'free' port is used. However when deleting a replica shard run --list-shards first and specify the hostname and the port (hostname:port). Use; esg-node **--list-shards**, (view the shard you wish to remove) then, esg-node **--remove-replica-shard** \<shard to remove hostname\>:\<port\>
 
 ---
-####v1.4.2 (Brooklyn Heights)
+
+#### v1.4.2 (Brooklyn Heights)
+
 Date: December 2012
 
 * esgf-installer: version 1.4.2

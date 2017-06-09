@@ -5,7 +5,7 @@ title: Letters
 
 ## Letters of Recommendation
 
-###2013
+### 2013
 
 * <a href="media/pdf/DOELetter.pdf" target="_blank">Department of Energy (DOE)</a>
 * <a href="media/pdf/NASAletter.pdf" target="_blank">National Aeronautics and Space Administration (NASA)</a>
@@ -17,5 +17,5 @@ title: Letters
 * <a href="media/pdf/NoahGoldsteinLetter.pdf" target="_blank">Dr. Noah Goldstein, Director; Livermore Energy Systems Informatics Capability</a>
 * <a href="media/pdf/RonaldStoufferLetter.pdf" target="_blank">Ronald J Stouffer, Head of the Climate Model Intercomparison Project (CMIP) Panel</a>
 
-####<a href="media/pdf/ESGFLetters.pdf" target="_blank">Packet of Letters</a>
+#### <a href="media/pdf/ESGFLetters.pdf" target="_blank">Packet of Letters</a>
 

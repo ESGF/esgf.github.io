@@ -28,7 +28,7 @@ desktop client, connect to any Node, and seamlessly find and access data
 throughout the federation (see [ESGF Architecture] for more details).
 
 <center>
-![ESGF federation architecture diagram][federation architecture]
+<img src="{{site.url}}/media/images/FederationArchitecture.png"/>
 </center>
 
 At each Node, the ESGF software stack is the result of the integration of
@@ -92,8 +92,5 @@ being developed.
   to compare remote sensing data with model output. RCMES and OCW have been
   plugged into the ESGF Search API.
 
-[esgf architecture]: media/images/FederationArchitecture.png
-[esgf manifesto]:    developer-info.html#manifesto
-
-[federation architecture]: media/images/FederationArchitecture.png
-
+[esgf architecture]: {{site.url}}/media/images/FederationArchitecture.png
+[esgf manifesto]:    {{site.url}}/developer-info.html#manifesto

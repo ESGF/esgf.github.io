@@ -2,6 +2,7 @@
 layout: default
 title: Governance
 ---
+
 ## Earth System Grid Federation Governance
 
 ### Purpose
@@ -11,6 +12,7 @@ The Earth System Grid Federation (ESGF; http://esgf.llnl.gov/) comprises a colle
 The major funders of ESGF will participate in governing it, and by doing so there is the expectation that acting in good faith, they will attempt to work cooperatively and support work consistent with ESGF’s goals.  Nevertheless, it is explicitly understood that sponsors maintain complete control over allocation of their resources.  This means that it will be essential to maintain strong lines of communication among the sponsors as well as the ESGF developers so that competing priorities can be harmonized and misunderstandings eliminated.
 
 #### Steering Committee (SC):
+
 > Composed of major ESGF sponsors, the Steering Committee ensures that directions proposed by the Executive Committee are consistent with funding priorities and are responsive to any concerns expressed by the user community.
 
 The Steering Committee provides a forum for ESGF funding agencies to communicate, interact and coordinate their support for ESGF and to help fashion a common vision for its evolution.  The SC establishes procedures and agreements that may be required for development and use of ESGF software.  It also communicates resource constraints to the Executive Committee and provides feedback to the XC as to how well it is meeting sponsor goals and satisfying user needs. 
@@ -28,7 +30,8 @@ Responsibilities of the Steering Committee:
 The SC shall have a DOE program manager as chair. A co-chair will be elected at the first meeting.  The initial representatives of the SC are also identified in Addendum 1.
 Additional sponsor representatives will be admitted to the committee if they support ESGF at a level greater than a threshold (initially thought to be 5FTE /year that will be established by the SC Chair in consultation with the other members of the Board. Members may be removed or added by a simple majority vote by the rest of the membership.  Decisions and recommendations will be made through a simple majority vote and relayed via email to members of the XC.
 
-####Executive Committee (XC): 
+#### Executive Committee (XC):
+ 
 > Composed of institutional leaders of ESGF, the Executive Committee provides general guidance and makes high-level decisions in directing and coordinating the course of ESGF consistent with multiple sponsor needs. 
 
 The Executive Committee accepts guidance from and reports to the Steering Committee. Taking into account funding constraints communicated by the SC and seeking input from ESGF users, the XC develops design requirements for ESGF software infrastructure and establishes procedures and agreements on its evolution and application. 
@@ -79,7 +82,6 @@ The SC and the XC may invite guests to attend meetings and participate in other 
 * Ex-officio member:
 	* Executive Committee Chair, Dean N. Williams (DOE)
 
-
 ### Addendum 2: ESGF Executive Committee Membership
 
 * Members:
@@ -96,4 +98,4 @@ The SC and the XC may invite guests to attend meetings and participate in other 
   * Claire Trenham (NCI)
 
 
-[download](media/pdf/ESGF_Governance_6_4_2015.pdf)
+[download]({{site.url}}/media/pdf/ESGF_Governance_6_4_2015.pdf)

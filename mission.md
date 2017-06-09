@@ -3,6 +3,7 @@ layout: default
 title: ESGF Mission
 ---
 
+
 ## ESGF Mission
 
 The Earth System Grid Federation (ESGF) is an international collaboration for
@@ -25,12 +26,11 @@ design and development) and energy (infrastructure for [California Energy
 Systems for the 21st Century][ces21] (CES21)).
 
 ---
+
 <center>
-![node Info][node]
+<img src="{{site.url}}/media/images/nodeInfo.png"/>
 </center>
 
-[esgf]:  media/images/esgf.png
-[node]:  media/images/nodeInfo.png
 [ipcc]:  http://www.ipcc.ch/
 [cmip]:  http://cmip-pcmdi.llnl.gov/
 [ces21]: https://ces21.llnl.gov/
