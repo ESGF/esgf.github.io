@@ -9,3 +9,4 @@ title: Nodes
 * [JPL](https://esgf-node.jpl.nasa.gov/projects/esgf-jpl/)
 * [CEDA](https://esgf-index1.ceda.ac.uk/projects/esgf-ceda/)
 * [IPSL](https://esgf-node.ipsl.upmc.fr/projects/esgf-ipsl/)
+* [DKRZ](https://esgf-data.dkrz.de/projects/esgf-dkrz/)
