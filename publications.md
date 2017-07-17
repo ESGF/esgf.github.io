@@ -19,7 +19,7 @@ Hashim Iqbal Chunpir, Dean N. Williams, Thomas Ludwig. “User eXperience (UX) o
 
 Zeshawn Shaheen, Charles Doutriaux. Community Diagnostics Package (CDP), release version 1.0.3, March 15, 2017, DOI: 10.5281/zenodo.399291.
 
-Dean N. Williams, et al. U.S. DOE. 6th Annual Earth System Grid Federation Face-to-Face Conference Report. DOE/SC-0188. U.S. Department of Energy Office of Science.,” March 2017, [https://esgf.llnl.gov/media/pdf/2017-ESGF_F2F_Conference_Report.pdf](https://esgf.llnl.gov/media/pdf/2017-ESGF_F2F_Conference_Report.pdf).
+Dean N. Williams, et al. U.S. DOE. 6th Annual Earth System Grid Federation Face-to-Face Conference Report. DOE/SC-0188. U.S. Department of Energy Office of Science.,” March 2017, [https://esgf.llnl.gov/media/pdf/2017-ESGF_F2F_Conference_Report.pdf](https://esgf.llnl.gov/media/pdf/2017-ESGF_F2F_Conference_Report.pdf) DOI: 10.2172/1369382, [https://doi.org/10.2172/1369382](https://doi.org/10.2172/1369382).
 
 Santer, B.D., S. Solomon, G. Pallotta, C. Mears, S. Po-Chedley, Q. Fu, F.J. Wentz, C.-Z. Zou, J.F. Painter, I. Cvijanovic, C. Bonfils. “Comparing Tropospheric Warming in Climate Models and Satellite Data.” J. Clim. 2017 30, 373–392. DOI: 10.1175/JCLI-D-16-0333.1
 
