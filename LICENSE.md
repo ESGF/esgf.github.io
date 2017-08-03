@@ -14,9 +14,7 @@ title: License
 *   All rights reserved. This file is part of the:                        *
 *   Earth System Grid Federation (ESGF) Data Node Software Stack          *
 *                                                                         *
-*   For details, see http://esgf.org/                                     *
-*   Please also read this link                                            *
-*    http://esgf.org/LICENSE                                              *
+*   For details, see http://esgf.llnl.gov/                                *
 *                                                                         *
 *   * Redistribution and use in source and binary forms, with or          *
 *   without modification, are permitted provided that the following       *
