@@ -12,16 +12,11 @@ title: Mailing List
 ## ESGF Mailing List
 
 ### Subscribing to the mailing list for users
-To join the users mailing list, send an email to
-[majordomo@lists.llnl.gov][majordomo] with the following in the body:
 
-    subscribe esgf-user
+Coming back soon:  information on how to subscribe.  We are working with our mailing list management to determine what you need to do.
 
-(For the developers mailing list, see the [developer info] page.)
+For the developers mailing list, see the [developer info] page.)
 
-**Remember**: the best place to ask and anwser any questions regarding ESGF
-(installing, publishing, front-end, etc.) is our
-[question/answer forum][esgf-askbot]!
 
 ---
 
@@ -33,6 +28,5 @@ To join the users mailing list, send an email to
 <a href="http://esgf.wordpress.com/"><img class="contact-logo" src="media/images/wordpress.png" alt="Wordpress logo"/></a>
 
 [developer info]:  developer-info.html
-[esgf-askbot]:     http://askbot.esgf.org
-[majordomo]:       mailto:majordomo@lists.llnl.gov
+
 
