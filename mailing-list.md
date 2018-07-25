@@ -3,17 +3,15 @@ layout: default
 title: Mailing List 
 ---
 
-<style type="text/css">
-  img.contact-logo {
-    height: 40px;
-  }
-</style>
 
 ## ESGF Mailing List
 
 ### Subscribing to the mailing list for users
 
-Coming back soon:  information on how to subscribe.  We are working with our mailing list management to determine what you need to do.
+-To join the users mailing list, send an email to
+-[listserv@listserv.llnl.gov] with the following in the body:
+ 
+ -    subscribe esgf-user
 
 For the developers mailing list, see the [developer info] page.)
 
