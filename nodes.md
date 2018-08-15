@@ -13,4 +13,3 @@ title: Nodes
 * [LIU](https://esg-dn1.nsc.liu.se)
 * [NCI](https://esgf.nci.org.au)
 * [NCCS](https://esgf.nccs.nasa.gov)
-* [ESRL](https://esgf.esrl.noaa.gov)
