@@ -19,7 +19,7 @@ Hashim Iqbal Chunpir, Dean N. Williams, Thomas Ludwig. “User eXperience (UX) o
 
 Zeshawn Shaheen, Charles Doutriaux. Community Diagnostics Package (CDP), release version 1.0.3, March 15, 2017, DOI: 10.5281/zenodo.399291.
 
-Dean N. Williams, et al. U.S. DOE. 6th Annual Earth System Grid Federation Face-to-Face Conference Report. DOE/SC-0188. U.S. Department of Energy Office of Science.,” March 2017, [https://esgf.llnl.gov/media/pdf/2017-ESGF_F2F_Conference_Report.pdf](https://esgf.llnl.gov/media/pdf/2017-ESGF_F2F_Conference_Report.pdf).
+Dean N. Williams, et al. U.S. DOE. 6th Annual Earth System Grid Federation Face-to-Face Conference Report. DOE/SC-0188. U.S. Department of Energy Office of Science.,” March 2017, [https://esgf.llnl.gov/media/pdf/2017-ESGF_F2F_Conference_Report.pdf](https://esgf.llnl.gov/media/pdf/2017-ESGF_F2F_Conference_Report.pdf), DOI: 10.2172/1369382, [https://doi.org/10.2172/1369382](https://doi.org/10.2172/1369382).
 
 Santer, B.D., S. Solomon, G. Pallotta, C. Mears, S. Po-Chedley, Q. Fu, F.J. Wentz, C.-Z. Zou, J.F. Painter, I. Cvijanovic, C. Bonfils. “Comparing Tropospheric Warming in Climate Models and Satellite Data.” J. Clim. 2017 30, 373–392. DOI: 10.1175/JCLI-D-16-0333.1
 
@@ -187,6 +187,20 @@ notably assessments by the International Panel on Climate Change. The portal
 below is for the Program for Climate Modeling Diagnosis and Intercomparison at
 Livermore, one of dozens federated around the world.
 
+### 2011
+
+Dean N. Williams, Ian T. Foster, Don E. Middleton, Rachana Ananthakrishnan, Neill Miller, Mehmet Balman, Junmin Gu, Vijaya Natarajan, Arie Shoshani, Alex Sim, Gavin Bell, Robert Drach, Michael Ganzberger, Jim Ahrens, Phil Jones, Daniel Crichton, Luca Cinquini, David Brown, Danielle Harper, Nathan Hook, Eric Nienhouse, Gary Strand, Hannah Wilcox, Nathan Wilhelmi, Stephan Zednik, Steve Hankin, Roland Schweitzer, John Harney, Ross Miller, Galen Shipman, Feiyi Wang, Peter Fox, Patrick West, Stephan Zednik, Ann Chervenak, Craig Ward,  "Earth System Grid Center for Enabling Technologies (ESG-CET): A Data Infrastructure for Data-Intensive Climate Research", SciDAC Conference, 2011. [https://digital.library.unt.edu/ark:/67531/metadc869320/](https://digital.library.unt.edu/ark:/67531/metadc869320/), DOI: 10.2172/1113915.
+
+Dean N. Williams, Bryan N. Lawrence, Michael Lautenschlager, Don Middleton, V. Balaji, “The Earth System Grid Federation: Delivering globally accessible petascale data for CMIP5”, Proceedings of the Asia-Pacific Advanced Network, 2011, v. 32, p. 121-130. [http://dx.doi.org/10.7125/APAN.32.15](http://dx.doi.org/10.7125/APAN.32.15), ISSN 2227-3026.
+    
+A. Sim, D. Gunter, V. Natarajan, A. Shoshani, D. Williams, J. Long, J. Hick, J. Lee, E. Dart,  "Efficient Bulk Data Replication for the Earth System Grid", Proceedings of International Symposium on Grid Computing, Data Driven e-Science: Use Cases and Successful Applications of Distributed Computing Infrastructures (ISGC 2010), 2011, pp 435-444. DOI: 10.1007/978-1-4419-8014-4_33, ISBN 978-1-4419-8014-4.
+
+### 2010
+
+A. Sim, M. Balman, D. Williams, A. Shoshani, V. Natarajan, "Adaptive Transfer Adjustment in Efficient Bulk Data Transfer Management for Climate Datasets", The 22nd IASTED International Conference on Parallel and Distributed Computing and System (PDCS), 2010. DOI: 10.2316/P.2010.724-062. 
+    
+R. Kettimuthu, A. Sim, D. Gunter, B. Allcock, P. Bremer, J. Bresnahan, A. Cherry, L. Childers, E. Dart, I. Foster, K. Harms, J. Hick, J. Lee, M. Link, J. Long, K. Miller, V. Natarajan, V. Pascucci, K. Raffenetti, D. Ressman, D. Williams, L. Wilson, L. Winkler,  "Lessons learned from moving earth system grid data sets over a 20 Gbps wide-area network", HPDC’10, ACM, 2010, 316-319, doi:10.1145/1851476.1851519.
+
 ### 2009
 
 <a href="media/pdf/Lessons-learned-from-moving-esg.pdf" target="_blank">Lessons learned from moving Earth System Grid data sets over a 20 Gbps wide-area network</a>
@@ -197,7 +211,6 @@ sources&mdash;the Argonne Leadership Computing Facility (ALCF), Lawrence Livermo
 National Laboratory (LLNL), and National Energy Research Scientific Computing
 Center (NERSC)&mdash;to the 2009 Supercomputing conference (SC09) show floor in
 Portland, Oregon.
-
 
 <a href="media/pdf/ExpReports-ESG-SC09_final.pdf" target="_blank">Experience Report on the Supercomputing 2009 Bandwidth Challenge from the Perspective of the Earth System Grid</a>
 The Supercomputing 2009 (SC09) Bandwidth Challenge entry titled, “High

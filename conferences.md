@@ -5,6 +5,11 @@ title: Conferences
 
 ## Conferences
 
+### 2017
+
+* <a href="{{site.url}}/2017-F2F.html" target="_blank">ESGF Conference</a>
+  - Review current status of ESGF software, plan future development, discuss infrastructure and collaboration.
+  
 ### 2016
 
 * <a href="{{site.url}}/2016-F2F.html" target="_blank">ESGF Conference</a>
