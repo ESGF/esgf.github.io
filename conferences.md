@@ -5,6 +5,10 @@ title: Conferences
 
 ## Conferences
 
+### 2018
+
+* <a href="https://www.cvent.com/events/8th-annual-esgf-f2f-conference-esgf-2018-/registration-d2c9d372ed56433cab3e5b80c9541c50.aspx">Register here</a>
+
 ### 2017
 
 * <a href="{{site.url}}/2017-F2F.html" target="_blank">ESGF Conference</a>
