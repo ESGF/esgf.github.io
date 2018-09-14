@@ -98,4 +98,4 @@ The SC and the XC may invite guests to attend meetings and participate in other 
   * Claire Trenham (NCI)
 
 
-[download]({{site.url}}/media/pdf/ESGF_Governance_6_4_2015.pdf)
+[download]({{site.url}}/esgf-media/pdf/ESGF_Governance_6_4_2015.pdf)
