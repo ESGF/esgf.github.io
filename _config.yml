@@ -2,3 +2,4 @@ name: ESGF
 author: esgf.org
 markdown: kramdown
 highlighter: rouge
+esgf-media: "https://esgf.llnl.gov/esgf-media"

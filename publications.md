@@ -19,7 +19,7 @@ Hashim Iqbal Chunpir, Dean N. Williams, Thomas Ludwig. “User eXperience (UX) o
 
 Zeshawn Shaheen, Charles Doutriaux. Community Diagnostics Package (CDP), release version 1.0.3, March 15, 2017, DOI: 10.5281/zenodo.399291.
 
-Dean N. Williams, et al. U.S. DOE. 6th Annual Earth System Grid Federation Face-to-Face Conference Report. DOE/SC-0188. U.S. Department of Energy Office of Science.,” March 2017, [https://esgf.llnl.gov/media/pdf/2017-ESGF_F2F_Conference_Report.pdf](https://esgf.llnl.gov/media/pdf/2017-ESGF_F2F_Conference_Report.pdf), DOI: 10.2172/1369382, [https://doi.org/10.2172/1369382](https://doi.org/10.2172/1369382).
+Dean N. Williams, et al. U.S. DOE. 6th Annual Earth System Grid Federation Face-to-Face Conference Report. DOE/SC-0188. U.S. Department of Energy Office of Science.,” March 2017, [https://esgf.llnl.gov/esgf-media/pdf/2017-ESGF_F2F_Conference_Report.pdf](https://esgf.llnl.gov/esgf-media/pdf/2017-ESGF_F2F_Conference_Report.pdf), DOI: 10.2172/1369382, [https://doi.org/10.2172/1369382](https://doi.org/10.2172/1369382).
 
 Santer, B.D., S. Solomon, G. Pallotta, C. Mears, S. Po-Chedley, Q. Fu, F.J. Wentz, C.-Z. Zou, J.F. Painter, I. Cvijanovic, C. Bonfils. “Comparing Tropospheric Warming in Climate Models and Satellite Data.” J. Clim. 2017 30, 373–392. DOI: 10.1175/JCLI-D-16-0333.1
 
@@ -120,19 +120,19 @@ Chad A. Steed, Katherine J. Evans, John F. Harney, Brian C. Jewell, Galen Shipma
 
 Santer, B.D., C. Bonfils, J.F. Painter, M. Zelinka, C. Mears, S. Solomon, G.A. Schmidt, J.C. Fyfe, J.N.S. Cole, L. Nazaenko, K.E. Taylor, F.J. Wentz. “Volcanic Contribution to Decadal Changes in Tropospheric Temperature.” I 2014, 7, 185–189, DOI: 10.1038/ngeo2098.
 
-<a href="media/pdf/PID3346481.pdf">Improving Processes for User Support in e-Science</a>
+<a href="{{site.esgf-media}}/pdf/PID3346481.pdf">Improving Processes for User Support in e-Science</a>
 Hashim I. Chunpir, Thomas Ludwig (2014): Improving Processes for User Support in e-Science. IEEE eScience 2014 Conference - Works in Progress session
 
-<a href="media/pdf/LNI-word-vorlage-enChunpir29062014.pdf">Reviewing the governance structure of end-user support  in e-Science infrastructures</a>
+<a href="{{site.esgf-media}}/pdf/LNI-word-vorlage-enChunpir29062014.pdf">Reviewing the governance structure of end-user support  in e-Science infrastructures</a>
 Hashim I. Chunpir, Thomas Ludwig (2014): Reviewing the governance structure of end-user support  in e-Science infrastructures. –INFORMATIK-2014 Beyond Data (2014). 
 
-<a href="media/pdf/AHFE2014_Hashim_Chunpir_PaperID925.pdf">A snap-shot of user support services in Earth System Grid Federation (ESGF): a use case of climate cyberinfrastructure</a>
+<a href="{{site.esgf-media}}/pdf/AHFE2014_Hashim_Chunpir_PaperID925.pdf">A snap-shot of user support services in Earth System Grid Federation (ESGF): a use case of climate cyberinfrastructure</a>
 Hashim Iqbal Chunpir, Thomas Ludwig, A. Badewi: A snap-shot of user support services in Earth System Grid Federation (ESGF): a use case of climate cyberinfrastructure. 2nd International Conference on Human Side of Service Engineering, an associate conference of 5th International Conference on Applied Human Factors and Ergonomics (AHFE), 2014 
 
-<a href="media/pdf/85200392.pdf">User Support System in the Complex Environment</a>
+<a href="{{site.esgf-media}}/pdf/85200392.pdf">User Support System in the Complex Environment</a>
 Hashim Iqbal Chunpir, <a href="http://www.informatik.uni-trier.de/%7Eley/pers/hd/b/Badewi:Amgad_Ali.html">Amgad Ali Badewi</a>, <a href="http://www.informatik.uni-trier.de/%7Eley/pers/hd/l/Ludwig_0002:Thomas.html">Thomas Ludwig</a>: User Support System in the Complex Environment. <a href="http://www.informatik.uni-trier.de/%7Eley/db/conf/hci/hci2014-11.html#ChunpirB014">HCI (11) 2014</a>: 392-402
 
-<a href="media/pdf/85190495.pdf">Using Soft Systems Methodology (SSM) in Understanding Current User-Support Scenario in the Climate Science Domain of Cyber-Infrastructures</a>
+<a href="{{site.esgf-media}}/pdf/85190495.pdf">Using Soft Systems Methodology (SSM) in Understanding Current User-Support Scenario in the Climate Science Domain of Cyber-Infrastructures</a>
 Hashim Iqbal Chunpir, <a href="http://www.informatik.uni-trier.de/%7Eley/pers/hd/l/Ludwig_0002:Thomas.html">Thomas Ludwig</a>, <a href="http://www.informatik.uni-trier.de/%7Eley/pers/hd/b/Badewi:Amgad_Ali.html">Amgad Ali Badewi</a>: Using Soft Systems Methodology (SSM) in Understanding Current User-Support Scenario in the Climate Science Domain of Cyber-Infrastructures.<a href="http://www.informatik.uni-trier.de/%7Eley/db/conf/hci/hci2014-10.html#Chunpir0B14">HCI (10) 2014</a>: 495-506
 
 ### 2013
@@ -170,7 +170,7 @@ Santer, B.D., J. Painter, C. Bonfils, C. Mears, S. Solomon, T.M.L. Wigley, P.J. 
 
 Santer, B.D., J.F. Painter, C.A. Mears, C. Doutriaux, P. Caldwell, J.M. Arblaster, P.J. Cameron-Smith, N.P. Gillett, P.J. Gleckler, J. Lanzante, J. Perlwitz, S. Solomon, P.A. Stott, K.E. Taylor, L. Terray, P.W. Thorne, M.F. Wehner, F.J. Wentz, T.M.L. Wigley, L.J. Wilcox, C.-Z. Zou. “Identifying human influences on atmospheric temperature.” Proceedings of the National Academy of Sciences 2013, 110, 26–33, DOI: 10.1073/pnas.1210514109. 
 
-<a href="media/pdf/ESGF_Fact_Sheet.pdf" target="_blank">ESGF Fact Sheet</a>
+<a href="{{site.esgf-media}}/pdf/ESGF_Fact_Sheet.pdf" target="_blank">ESGF Fact Sheet</a>
 The Earth System Grid Federation (ESGF) peer-to-peer enterprise system is an
 interagency and international effort led by the U.S. Department of Energy, and
 co-funded by National Aeronautics and Space Administration, National Oceanic and
@@ -180,7 +180,7 @@ the German Climate Computing Centre, the Australian National University/National
 Computational Infrastructure, and the British Atmospheric Data Center.
 
 
-<a href="media/pdf/ESGF-R&D-100-v20.pdf" target="_blank">ESGF R&D100 2013</a>
+<a href="{{site.esgf-media}}/pdf/ESGF-R&D-100-v20.pdf" target="_blank">ESGF R&D100 2013</a>
 The Earth System Grid Federation (ESGF, esgf.org) is an international
 collaboration for the software that powers most global climate change research,
 notably assessments by the International Panel on Climate Change. The portal
@@ -203,7 +203,7 @@ R. Kettimuthu, A. Sim, D. Gunter, B. Allcock, P. Bremer, J. Bresnahan, A. Cherry
 
 ### 2009
 
-<a href="media/pdf/Lessons-learned-from-moving-esg.pdf" target="_blank">Lessons learned from moving Earth System Grid data sets over a 20 Gbps wide-area network</a>
+<a href="{{site.esgf-media}}/pdf/Lessons-learned-from-moving-esg.pdf" target="_blank">Lessons learned from moving Earth System Grid data sets over a 20 Gbps wide-area network</a>
 In this paper, we report on obstacles overcome and the key lessons learned in
 moving a small portion (10 TB) of the multimodel Coupled Model Intercomparison
 Project, Phase 3 data set used in the IPCC Fourth Assessment Report from three
@@ -212,7 +212,7 @@ National Laboratory (LLNL), and National Energy Research Scientific Computing
 Center (NERSC)&mdash;to the 2009 Supercomputing conference (SC09) show floor in
 Portland, Oregon.
 
-<a href="media/pdf/ExpReports-ESG-SC09_final.pdf" target="_blank">Experience Report on the Supercomputing 2009 Bandwidth Challenge from the Perspective of the Earth System Grid</a>
+<a href="{{site.esgf-media}}/pdf/ExpReports-ESG-SC09_final.pdf" target="_blank">Experience Report on the Supercomputing 2009 Bandwidth Challenge from the Perspective of the Earth System Grid</a>
 The Supercomputing 2009 (SC09) Bandwidth Challenge entry titled, “High
 Performance GridFTP Transport of Earth System Grid (ESG) Data,” demonstrated
 high-performance GridFTP transport of climate data from multiple Department of
@@ -221,41 +221,41 @@ multi-terabyte data consisted of a small portion of the multi-model Coupled
 Model Intercomparison Project, Phase 3 (CMIP-3) data set used in the
 Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment Report (AR4).
 
-<a href="media/pdf/The-Earth-System-Grid-enabling-access-to-multimodel-climate.pdf" target="_blank">The Earth System Grid: Enabling Access to Multi-Model Climate Simulation Data</a>
+<a href="{{site.esgf-media}}/pdf/The-Earth-System-Grid-enabling-access-to-multimodel-climate.pdf" target="_blank">The Earth System Grid: Enabling Access to Multi-Model Climate Simulation Data</a>
 History and impact of the Earth System Grid on the Climate Community. (BAMS Report published February 2009.)   D N Williams, R Ananthakrishnan, D E Bernholdt, S Bharathi, D Brown, M Chen, A L Chervenak, L Cinquini, R Drach, I T Foster, P Fox, D Fraser, J Garcia, S Hankin, P Jones, D E Middleton, J Schwidder, R Schweitzer, R Schuler, A Shoshani, F Siebenlist, A Sim, W G Strand, M Su, N. Wilhelmi, "The Earth System Grid: Enabling Access to Multi-Model Climate Simulation Data", in the Bulletin of the American Meteorological Society, February 2009.
 
 ### 2008
 
-<a href="media/pdf/The-Planet-at-Their Fingertips.pdf" target="_blank">The Planet at Their Fingertips: Climate Modeling Data Heats Up</a>
+<a href="{{site.esgf-media}}/pdf/The-Planet-at-Their Fingertips.pdf" target="_blank">The Planet at Their Fingertips: Climate Modeling Data Heats Up</a>
 Overview of the importance of the Earth System Grid to the Climate Community (Upcoming SciDAC Review Article).    
 D. N. Williams, R. Ananthakrishnan, D. E. Bernholdt, S. Bharathi, D. Brown, M. Chen, A. L. Chervenak, L. Cinquini, R. Drach, I. T. Foster, P. Fox, S. Hankin, V. E. Henson, P. Jones, D. E. Middleton, J. Schwidder, R. Schweitzer, R. Schuler, A Shoshani, F. Siebenlist, A. Sim, W. G. Strand, N. Wilhelmi, M. Su, "The Planet at Their Fingertips: Climate Modeling Data Heats Up", in the SciDAC Review Magazine, Issue 9, Spring 2009.
 
-<a href="media/pdf/Extreme_Scale_Data_Mgmt_Panel Report.pdf" target="_blank">Extreme Scale Computing Workshop</a>
+<a href="{{site.esgf-media}}/pdf/Extreme_Scale_Data_Mgmt_Panel Report.pdf" target="_blank">Extreme Scale Computing Workshop</a>
 Joint Office of Biological and Environmental Research (BER) and the Office of Advanced Scientific Computing Research (ASCR) on challenges in climate change science and the role of computing at the extreme scale. December, 2008.
 
 
-<a href="media/pdf/Data-management-and-analysis-for-the-earth-system-grid.pdf" target="_blank">Data Management and Analysis for the Earth System Grid</a>
+<a href="{{site.esgf-media}}/pdf/Data-management-and-analysis-for-the-earth-system-grid.pdf" target="_blank">Data Management and Analysis for the Earth System Grid</a>
 Overview of climate data management challenges and server-side analysis in ESG (SciDAC 2008 Conference).   
 D. N. Williams, R. Ananthakrishnan, D. E. Bernholdt, S. Bharathi, D. Brown, M. Chen, A. L. Chervenak, L. Cinquini, R. Drach, I. T. Foster, P. Fox, S. Hankin, V. E. Henson, P. Jones, D. E. Middleton, J. Schwidder, R. Schweitzer, R. Schuler, A Shoshani, F. Siebenlist, A. Sim, W. G. Strand, N. Wilhelmi, M. Su, "Data Management and Analysis for the Earth System Grid", in the Journal of Physics: Conference Series, SciDAC '08 conference proceedings, volume 125. ([Citation:] D N Williams et al 2008 J. Phys.: Conf. Ser. 125 012072)
 
-<a href="media/pdf/Climate_report.pdf" target="_blank">Web Enabled Collaborative Climate Visualization in the Earth System Grid</a>
+<a href="{{site.esgf-media}}/pdf/Climate_report.pdf" target="_blank">Web Enabled Collaborative Climate Visualization in the Earth System Grid</a>
 Kendall, W.; Glatter, M.; Jian Huang; Hoffman, F.; Bernholdt, D.E.; Collaborative Technologies and Systems, 2008. CTS 2008. International Symposium on 19-23 May 2008 Page(s):212 - 220
 
 
-<a href="media/pdf/missing.pdf" target="_blank">Advanced Scientific Computing Advisory Committee and Biological and Environmental Advisory Committee</a>
+<a href="{{site.esgf-media}}/pdf/missing.pdf" target="_blank">Advanced Scientific Computing Advisory Committee and Biological and Environmental Advisory Committee</a>
 Prepared Joint ASCAC-BERAC Subcommittee report on computational and informational technology rate limiters to the advancement of climate change science. March, 2008
 
 ### 2007
 
-<a href="media/pdf/CTWatch-Quarterly-The-Earth-System-Grid-Center-for-Enabling-Technologies-Enabling-Community-Access-to-Petascale-Climate-Datasets" target="_blank">Computational and Informational technology rate limiters to the advancement of climate change science</a>
+<a href="{{site.esgf-media}}/pdf/CTWatch-Quarterly-The-Earth-System-Grid-Center-for-Enabling-Technologies-Enabling-Community-Access-to-Petascale-Climate-Datasets" target="_blank">Computational and Informational technology rate limiters to the advancement of climate change science</a>
 A short overview of ESG-CET in the CTWatch Quarterly November 2007 special issue on Software Enabling Technologies for Petascale Science.   
 Dean N. Williams, David E. Bernholdt, Ian T. Foster, Don E. Middleton, "The Earth System Grid Center for Enabling Technologies: Enabling Community Access to Petascale Climate Datasets", in the Cyberinfrastructure Technology Watch (CTWatch) Quarterly, November 2007, vol 3 number 4.
 
 
-<a href="media/pdf/BER-Net-Req-Workshop-2007-Final-Report.pdf" target="_blank">BER Science Network Requirements</a>
+<a href="{{site.esgf-media}}/pdf/BER-Net-Req-Workshop-2007-Final-Report.pdf" target="_blank">BER Science Network Requirements</a>
 Report on the Biological and Environmental Research Network Requirements Workshop. The Earth System Grid network requirements are location in section 2.3 on page 12. July 2007
 
 
-<a href="media/pdf/Building-a-global-federation-system-for-climate-change-research.pdf" target="_blank">Building a global federation system for climate change research: the Earth System Grid Center for Enabling Technologies (ESG-CET)</a>
+<a href="{{site.esgf-media}}/pdf/Building-a-global-federation-system-for-climate-change-research.pdf" target="_blank">Building a global federation system for climate change research: the Earth System Grid Center for Enabling Technologies (ESG-CET)</a>
 An overview of the ESG-CET project written for the SciDAC 2007 conference.   
 R Ananthakrishnan, D E Bernholdt, S Bharathi, D Brown, M Chen, A L Chervenak, L Cinquini, R Drach, I T Foster, P Fox, D Fraser, K Halliday, S Hankin, P Jones, C Kesselman, D E Middleton, J Schwidder, R Schweitzer, R Schuler, A Shoshani, F Siebenlist, A Sim, W G Strand, N. Wilhelmi, M Su, and D N Williams, "Building a Global Federation System for Climate Change Research: The Earth System Grid Center for Enabling Technologies (ESG-CET)", in the Journal of Physics: Conference Series, SciDAC ’07 conference proceedings. ([Citation]: R Ananthakrishnan et al 2007 J. Phys.: Conf. Ser. 78 012050)
