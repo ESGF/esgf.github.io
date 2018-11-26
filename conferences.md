@@ -13,7 +13,7 @@ title: Conferences
 * [Abstracts][abstracts]
 * [Telecommute] Coming Soon!
 
-[agenda]: {{site.esgf-media}}/2018-F2F/2018-ESGF-Conference-Agenda.pdf
+[agenda]: {{site.esgf-media}}/2018-F2F/F2F-2018-Conference-Agenda.pdf
 [abstracts]: {{site.esgf-media}}/2018-F2F/2018-ESGF-Conference-DRAFT-Abstracts.pdf
 
 
