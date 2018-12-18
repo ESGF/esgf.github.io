@@ -70,12 +70,6 @@ title: Wiki
         <li><a href="https://github.com/EarthSystemCoG/COG">CoG</a></li>
         </ul>
       </div>
-      <div class="span3">
-        <h4>Videos</h4>
-        <ul>
-        <li><a href="http://esgf.llnl.gov/mov/">All</a></li>    
-        </ul>
-      </div>
     </div>
   </div>
 
