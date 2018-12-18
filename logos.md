@@ -9,6 +9,6 @@ title: ESGF Logos
 <hr>
 <img src="media/images/logos/Powered_By_ESGF_A.png"/> <br/>
 <hr>
-<img src="media/images/logos/Powered_by_ESGF_C.png"/> <br/>
+<img src="media/images/logos/Powered_By_ESGF_C.png"/> <br/>
 <hr>
 <img src="media/images/logos/Sphere.png"/> <br/>
