@@ -25,9 +25,6 @@ Developers | esgf-devel@lists.llnl.gov
 * http://esgf.llnl.gov
 * https://esgf.github.io
 
-### Questions & Answers 
-* ~~http://askbot-esgf.llnl.gov~~ will be back up soon
-
 ### Mailing List Archives
 * ~~http://aims4.llnl.gov~~ coming soon
 
