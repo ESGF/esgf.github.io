@@ -69,7 +69,6 @@ Other Mailing lists for developer Working Groups
 * Artifact Repository: [Artifactory], [ESGF's Repo][esgf-repo]
 * How To Participate
     * [Join Mailing List][mailinglist]
-    * [AskBot]
     * Suggest changes give feedback to the community
     * [Check out the repo][github]
     * Develop changes
@@ -104,7 +103,6 @@ modules should be developed:
 [artifactory]:      http://www.jfrog.org/products.php
 [esgf-repo]:        http://esgf.org/artifactory/webapp/browserepo.html
 [mailinglist]:      mailing-list.html
-[askbot]:           http://askbot.esgf.org
 [github]:           http://www.github.com/ESGF
 [majordomo-devel]:       mailto:esgf-devel@lists.llnl.gov
 [majordomo-install]:     mailto:esgf-install@lists.llnl.gov
