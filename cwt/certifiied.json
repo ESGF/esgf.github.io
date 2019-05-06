@@ -1,0 +1,1 @@
+{ "servers" : ["aims2.llnl.gov"], "operators": {"CDAT": ["aggregate", "subset", "min", "max"]}}
