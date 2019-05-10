@@ -1,0 +1,60 @@
+<html>
+<head>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+
+<script crossorigin="anonymous">
+
+    $(function() {
+
+
+   var people = [];
+
+   $.getJSON('certified.json', function(data) {
+       $.each(data.servers, function(i, f) {
+          var tblRow = "<tr>" + "<td>" + f.name + "</td>" +
+           "<td>" + f.url + "</td> </tr>"
+           $(tblRow).appendTo("#servers tbody");
+       });
+     $.each(data.operators, function(i, f) {
+         var operatorName = "" + f.name;
+         $.each(f.operators, function(i, o) {
+             var tblRow = "<tr> <td> " + f.name + "</td><td>" + o +"</td></tr>"
+           $(tblRow).appendTo("#operators tbody");
+         });
+     });
+});
+});
+</script>
+</head>
+
+<body>
+
+<div class="wrapper">
+<div class="cwt">
+   <table id= "servers" border="2">
+        <caption>ESGF Certified Compute Servers</caption>
+  <thead>
+            <th>Name</th>
+            <th>URL</th>
+        </thead>
+      <tbody>
+      </tbody>
+   </table>
+</div>
+<br>
+<div class="cwt">
+   <table id= "operators" border="2">
+        <caption>ESGF Certified Operators</caption>
+  <thead>
+            <th>Kernel</th>
+            <th>Name</th>
+        </thead>
+      <tbody>
+      </tbody>
+   </table>
+</div>
+</div>
+
+</body>
+</html>
+

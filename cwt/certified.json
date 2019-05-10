@@ -1,0 +1,18 @@
+{ "servers" : 
+    [
+        {"url": "https://aims2.llnl.gov",
+            "name": "LLNL"
+        }
+    ],
+    "operators": [
+        {
+            "name": "CDAT",
+            "operators": [
+                "aggregate",
+                "subset",
+                "min",
+                "max"
+            ]
+        }
+    ]
+}
