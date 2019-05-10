@@ -1,10 +1,12 @@
 <html>
 <head>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"> </script>
+    <script
+        type="text/javascript"
+        src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"
+    ></script>
 
-<script crossorigin="anonymous">
-
-    $(function() {
+    <script crossorigin="anonymous">
+        $(function() {
 
 
    var people = [];
@@ -24,37 +26,48 @@
      });
 });
 });
-</script>
+    </script>
 </head>
 
 <body>
+    <div class="wrapper">
+        <div class="cwt">
+            <table
+                id="servers"
+                border="2"
+            >
+                <caption>
+                    ESGF Certified Compute Servers
+                </caption>
 
-<div class="wrapper">
-<div class="cwt">
-   <table id= "servers" border="2">
-        <caption>ESGF Certified Compute Servers</caption>
-  <thead>
-            <th>Name</th>
-            <th>URL</th>
-        </thead>
-      <tbody>
-      </tbody>
-   </table>
-</div>
-<br>
-<div class="cwt">
-   <table id= "operators" border="2">
-        <caption>ESGF Certified Operators</caption>
-  <thead>
-            <th>Kernel</th>
-            <th>Name</th>
-        </thead>
-      <tbody>
-      </tbody>
-   </table>
-</div>
-</div>
+                <thead>
+                    <th>Name</th>
 
+                    <th>URL</th>
+                </thead>
+
+                <tbody></tbody>
+            </table>
+        </div>
+
+        <br>
+
+        <div class="cwt">
+            <table
+                id="operators"
+                border="2"
+            >
+                <caption>ESGF Certified Operators</caption>
+
+                <thead>
+                    <th>Kernel</th>
+
+                    <th>Name</th>
+                </thead>
+
+                <tbody></tbody>
+            </table>
+        </div>
+    </div>
 </body>
 </html>
-
