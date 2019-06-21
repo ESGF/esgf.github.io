@@ -1,18 +1,26 @@
-{ "servers" : 
-    [
-        {"url": "https://aims2.llnl.gov",
-            "name": "LLNL"
+{
+    "servers": {
+      "LLNL": {
+        "wps": "https://aims2.llnl.gov/wps/",
+        "datanode": [
+          "https://aims3.llnl.gov"
+        ]
+      }
+    },
+    "operators": {
+      "subset": {
+        "CDAT": {
+          "version": [
+            "1.0.0"
+          ]
         }
-    ],
-    "operators": [
-        {
-            "name": "CDAT",
-            "operators": [
-                "aggregate",
-                "subset",
-                "min",
-                "max"
-            ]
+      },
+      "aggregate": {
+        "CDAT": {
+          "version": [
+            "1.0.0"
+          ]
         }
-    ]
-}
+      }
+    }
+  }

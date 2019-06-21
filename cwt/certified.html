@@ -12,19 +12,19 @@
    var people = [];
 
    $.getJSON('certified.json', function(data) {
-       $.each(data.servers, function(i, f) {
-          var tblRow = "<tr>" + "<td>" + f.name + "</td>" +
-           "<td>" + f.url + "</td> </tr>"
+       for (var server in data.servers) {
+          var tblRow = "<tr>" + "<td>" + server + "</td>" +
+           "<td>" + data.servers[server].wps + "</td> </tr>"
            $(tblRow).appendTo("#servers tbody");
-       });
-     $.each(data.operators, function(i, f) {
-         var operatorName = "" + f.name;
-         $.each(f.operators, function(i, o) {
-             var tblRow = "<tr> <td> " + f.name + "</td><td>" + o +"</td></tr>"
-           $(tblRow).appendTo("#operators tbody");
-         });
-     });
-});
+       };
+       for (var operator in data.operators) {
+           var op = data.operators[operator];
+           for (var kernel in op) {
+               var tblRow = "<tr> <td> " + operator + "</td><td>" + kernel + "</td> + <td> " + op[kernel].version + "</td></tr>"
+               $(tblRow).appendTo("#operators tbody");
+           };
+       };
+   });
 });
     </script>
 </head>
@@ -60,9 +60,11 @@
                 <caption>ESGF Certified Operators</caption>
 
                 <thead>
+                    <th>Name</th>
+
                     <th>Kernel</th>
 
-                    <th>Name</th>
+                    <th>Version</th>
                 </thead>
 
                 <tbody></tbody>
