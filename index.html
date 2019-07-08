@@ -26,6 +26,15 @@ title: ESGF Home Page
         max-height: 180px;
     }
 
+    img.rd100 {
+        max-height: 180px;
+        max-width: 180px;
+    }
+
+    td.rd100 {
+        vertical-align: top;
+    }
+
     div.span12 {
         margin-bottom: 30px;
     }
@@ -62,32 +71,17 @@ title: ESGF Home Page
 
 <div class="hero-unit announcement">
     <center>
-    <h3><a href="{{site.url}}/2018-F2F.html">
-        8th Annual ESGF Face to Face <br>
-        December 3-7, 2018 in Washington, DC</a></h3>
-    </center>
-</div>
-
-<div class="hero-unit announcement">
-    <center>
     <h3>ESGF Computer Server Certification <a href="{{site.esgf-media}}/pdf/ESGF-Compute-Certification.pdf">White Paper</a> Available Now</h3>
     </center>
 </div>
 
 
-<div class="hero-unit announcement">
-    <center>
-    <h3>ESGF 2017 R&amp;D 100 Winner</h3>
-    <p>
-        <a href="https://www.rd100conference.com/awards/winners-finalists/year/2017/" target="_blank">R&amp;D 100 Award Winners &amp; Finalists</a><br>
-        <a href="awards.html">Awards Page</a>
-    </p>
-    </center>
-</div>
-
 <div class="span12">
     <h2>What is ESGF?</h2>
-    <p>
+    <table><tr><td class="rd100">
+
+            <img class="rd100" src="images/RND100.png"></td>
+            <td>
         The Earth System Grid Federation (ESGF) Peer-to-Peer (P2P) enterprise system is
         a collaboration that develops, deploys and maintains software infrastructure for
         the management, dissemination, and analysis of model output and observational
@@ -99,6 +93,7 @@ title: ESGF Home Page
         German Climate Computing Centre (DKRZ), the Australian National University (ANU)
         National Computational Infrastructure (NCI), Institut Pierre-Simon Laplace (IPSL),
         and the Centre for Environmental Data Analysis (CEDA). The ESGF mission is to:
+
     <ul>
         <li>Support current CMIP6 activities, and prepare for future assessments</li>
         <li>Develop data and metadata facilities for inclusion of observations and reanalysis products for CMIP6 use
@@ -112,7 +107,7 @@ title: ESGF Home Page
         </li>
         <li>Create software infrastructure and tools that facilitate scientific advancements</li>
     </ul>
-    </p>
+    </td></tr></table>
     <p>
         ESGF P2P is a component architecture expressly designed to handle large-scale
         data management for worldwide distribution. The team of computer scientists and
