@@ -7,14 +7,14 @@ title: Developers
 
 ### Code
 
-* [ESGF GitHub Repository](http://github.com/esgf)
+* [ESGF GitHub Repository](http://github.com/ESGF)
 
 ----
 
 ### Mailing lists
 
 To join the developers mailing list, send an email to
-[majordomo@lists.llnl.gov][majordomo-devel] with the following in the body:
+[listserv@listserv.llnl.gov][listserv-devel] with the following in the body:
 
     subscribe esgf-devel	
 
@@ -22,12 +22,9 @@ To join the developers mailing list, send an email to
 
 Other Mailing lists for developer Working Groups
 
-   * [Installation Working Group List][majordomo-install] esgf-install@lists.llnl.gov
-   * [Server Side Working Group List][majordomo-server-side] esgf-server-side@lists.llnl.gov
-   * [Networking Working Group List][majordomo-networking] esgf-networking@lists.llnl.gov
-   * [Security Authentication / ID Mgmt Working Group List][majordomo-security-auth] esgf-security-auth@lists.llnl.gov
-   * [Controlled Vocabulary Working Group][majordomo-ctrl-vocab] esgf-ctrl-vocab@lists.llnl.gov
-   * [Data Publishing Working Group][majordomo-data-pub] esgf-data-pub@lists.llnl.gov
+   * [Installation Working Team List][listserv-install] esgf_iwt@llnl.gov
+   * [Security Authentication / ID Mgmt Working Team List][listserv-security-auth] esgf-IdEA@llnl.gov
+   * [Publication Working Team][listserv-data-pub] esgf-pwt@llnl.gov
    
 ----    
 
@@ -66,7 +63,6 @@ Other Mailing lists for developer Working Groups
 * Dependencey Management: [ivy]
 * Unit Testing: [JUnit]
 * Test Coverage: [Cobertura]
-* Artifact Repository: [Artifactory], [ESGF's Repo][esgf-repo]
 * How To Participate
     * [Join Mailing List][mailinglist]
     * Suggest changes give feedback to the community
@@ -104,12 +100,9 @@ modules should be developed:
 [esgf-repo]:        http://esgf.org/artifactory/webapp/browserepo.html
 [mailinglist]:      mailing-list.html
 [github]:           http://www.github.com/ESGF
-[majordomo-devel]:       mailto:esgf-devel@lists.llnl.gov
-[majordomo-install]:     mailto:esgf-install@lists.llnl.gov
-[majordomo-server-side]:     mailto:esgf-server-side@lists.llnl.gov
-[majordomo-networking]:     mailto:esgf-networking@lists.llnl.gov
-[majordomo-security-auth]:     mailto:esgf-security-auth@lists.llnl.gov
-[majordomo-ctrl-vocab]:     mailto:esgf-ctrl-vocab@lists.llnl.gov
-[majordomo-data-pub]:     mailto:esgf-data-pub@lists.llnl.gov
+[listserv-devel]:       mailto:esgf-devel@llnl.gov
+[listserv-install]:     mailto:esgf_iwt@llnl.gov
+[listserv-security-auth]:       mailto:esgf-idea@llnl.gov
+[listserv-data-pub]:       mailto:esgf-pwt@llnl.gov
 [mailing list]:     mailing-list.html
 
