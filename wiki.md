@@ -32,6 +32,7 @@ Wikis issues page
         <ul>
         <li><a href="https://github.com/ESGF/esgf.github.io/wiki">General</a></li>
         <li><a href="https://github.com/ESGF/esgf-installer/wiki">Installer</a></li>
+        </ul>
       </div>
       <div class="span3">
        <h4>Issues</h4>
