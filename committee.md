@@ -18,11 +18,14 @@ title: Committees
 #### ESGF Executive Committee Membership
 
 * Dean N. Williams (Chair, DOE)
-* Michael Lautenschlager (Co-Chair, DKRZ)
+* Michael Lautenschlager (Chair, DKRZ)
+* Ghaleb Abdulla (DOE)
 * Sebastien Denvil (IPSL)
 * Luca Cinquini (NASA/NOAA)
 * Robert Ferraro (NASA)
-* Daniel Duffy (NASA)
+* Laura Carriere (NASA)
 * V. Balaji (NOAA)
 * Ben Evans (NCI)
 * Tom Landry (CRIM)
+* Philip Kershaw (CEDA)
+* Sasha Ames (DOE)

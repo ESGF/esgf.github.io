@@ -22,8 +22,8 @@ administered yet united by common protocols and interfaces&mdash;the ESGF
 community holds the premier collection of simulations and observational and
 reanalysis data for climate change research. ESGF is in the early stages of
 being adapted for use in two additional domains: biology (to accelerate drug
-design and development) and energy (infrastructure for [California Energy
-Systems for the 21st Century][ces21] (CES21)).
+design and development) and energy (infrastructure for California Energy
+Systems for the 21st Century).
 
 ---
 
@@ -32,5 +32,5 @@ Systems for the 21st Century][ces21] (CES21)).
 </center>
 
 [ipcc]:  http://www.ipcc.ch/
-[cmip]:  http://cmip-pcmdi.llnl.gov/
+[cmip]:  http://pcmdi.llnl.gov/mips/
 [ces21]: https://ces21.llnl.gov/
