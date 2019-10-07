@@ -60,7 +60,7 @@ Other Mailing lists for developer Working Groups
 
 * Version Control System: [git]
 * Build: [ant]
-* Dependencey Management: [ivy]
+* Dependency Management: [ivy]
 * Unit Testing: [JUnit]
 * Test Coverage: [Cobertura]
 * How To Participate
@@ -85,7 +85,7 @@ modules should be developed:
 * Layered applications
 * Support for multiple languages (Java and Python)
 * Agile: rapid prototyping, frequent demos and feedback, iterative development,
-  reponsiveness
+  responsiveness
 
 [background1]:      http://www.jwz.org/doc/tabs-vs-spaces.html
 [background2]:      http://www.dansanderson.com/blog/2007/07/indenting-source-code-in-emacs.html

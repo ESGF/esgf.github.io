@@ -78,7 +78,7 @@ done
   - New ram realtime module
   - New swap realtime module
   - New statistics module ( plan B ) with local metrics
-  - Small improvements (logout removed, rssfeed fixed)
+  - Small improvements (logout removed, RSS feed fixed)
 * **Other**:
   - LAS: version 8.1
 

@@ -7,7 +7,7 @@ title: Publications
 
 ### 2017
 
-Charles Doutriaux; Thomas Maxwell; Aashish Chaudhary; Paul J. Durack; Sankhesh Jhaveri; David Lonie; Sam Fries; Dan Lipsa; Chris Harris; David E DeMarle; Remi Rampin; Denis Nadeau; Charles Doutriaux; James McEnerney; Jonathan Beezley; HarinarayanKrishnan; Jeffrey Painter; Brad King; Ben Burnett; Andrew Bauer; leung25; Huy T. Vo; dakoop; Dean N. Williams; Zach Mullen; Bryce Sampson; Arulalan.T; Edward Brown; Boonthanome Nouanesengsy; Jonathas Costa. Ultrascale Visualization Climate Data Analysis Tools (UV-CDAT), release version 2.10.0, May 11, 2017, DOI: 10.5281/zenodo.574661.
+Charles Doutriaux; Thomas Maxwell; Aashish Chaudhary; Paul J. Durack; Sankhesh Jhaveri; David Lonie; Sam Fries; Dan Lipsa; Chris Harris; David E DeMarle; Remi Rampin; Denis Nadeau; Charles Doutriaux; James McEnerney; Jonathan Beezley; Harinarayan Krishnan; Jeffrey Painter; Brad King; Ben Burnett; Andrew Bauer; Huy T. Vo; Dean N. Williams; Zach Mullen; Bryce Sampson; Arulalan T.; Edward Brown; Boonthanome Nouanesengsy; Jonathas Costa. Ultrascale Visualization Climate Data Analysis Tools (UV-CDAT), release version 2.10.0, May 11, 2017, DOI: 10.5281/zenodo.574661.
 
 Santer, B.D., J.C. Fyfe, G. Pallotta, G.M. Flato, G.A. Meehl, M.H. England, E. Hawkins, M.E. Mann, J.F. Painter, C. Bonfils, I. Cvijanovic, C. Mears, F.J. Wentz, S. Po-Chedley, Q. Fu, C.-Z. Zou. “Model Expectations and Reality: The Case of Tropospheric Warming.” Nature Geoscience 2017 (in review).
 
@@ -27,7 +27,7 @@ S. Fiore, M. Płóciennik, C. Doutriaux, C. Palazzo, J. Boutte, T. Żok, D. Elia
 
 ### 2016
 
-Denis Nadeau, Charles Doutriaux, Tim Bradshaw, Jamie Kettleborough, TobiasWeigel, Emma Hogan, Paul J. Durack. CMOR release version 3.2.0, November 2016, DOI: 10.5281/zenodo.168253.
+Denis Nadeau, Charles Doutriaux, Tim Bradshaw, Jamie Kettleborough, Tobias Weigel, Emma Hogan, Paul J. Durack. CMOR release version 3.2.0, November 2016, DOI: 10.5281/zenodo.168253.
 
 Charles Doutriaux, Paul J. Durack, Peter Gleckler, Jeffrey Painter. PCMDI Metrics, release version 1.1.1, July 2016, DOI: 10.5281/zenodo.58440.
 

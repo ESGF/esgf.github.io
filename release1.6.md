@@ -7,9 +7,9 @@ title: Releases
 
 #### v1.6.2-bushwick_myrtle-release (Bushwick/Myrtle, Brooklyn)
 
-The embodiment of the node application stack is indeed the [installation script][esgf-script] ([downlad][esgf-download]). The script automates the installation process installing the node's application stack in a predictable and uniform way.  This allows for better maintenance and ease of upgrade. The script is written in bash and has a number of features.  Though, one could install these components individiually on one's own.  It is **HIGHLY** recommended to use the script for all installation and update needs.  Learn more about the script, it's flags and features [here][flags-featres].
+The embodiment of the node application stack is indeed the [installation script][esgf-script] ([downlad][esgf-download]). The script automates the installation process installing the node's application stack in a predictable and uniform way.  This allows for better maintenance and ease of upgrade. The script is written in bash and has a number of features.  Though, one could install these components individually on one's own.  It is **HIGHLY** recommended to use the script for all installation and update needs.  Learn more about the script, it's flags and features [here][flags-featres].
 
-The ESGF Node, as discussed on the [node][esgf-node] page, is an amalgam of software components that work in concert to perform the higher level tasks of the Node.  The Node is a collectionof components developed by the members of the [ESGF.org][esgf-home] open source effort as well as external tools and libraries that provide support for the ESGF Node feature set. A list of ESGF P2P Node functionality is posted [here][wiki-functions].
+The ESGF Node, as discussed on the [node][esgf-node] page, is an amalgam of software components that work in concert to perform the higher level tasks of the Node.  The Node is a collection of components developed by the members of the [ESGF.org][esgf-home] open source effort as well as external tools and libraries that provide support for the ESGF Node feature set. A list of ESGF P2P Node functionality is posted [here][wiki-functions].
 
 ---
 
