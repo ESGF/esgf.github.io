@@ -83,7 +83,7 @@ title: Acknowledgments
     * [http://www.dkrz.de/][dkrz]
 * ![IPSL logo][]
     * Institut Pierre Simon Laplace
-    * [http://igcmg.ipsl.jussieu.fr/][ipsl]
+    * [https://www.ipsl.fr/en/][ipsl]
 
 #### Australia
 
@@ -116,7 +116,7 @@ title: Acknowledgments
 [badc]: http://badc.nerc.ac.uk/
 [cmcc]: http://www.cmcc.it/
 [dkrz]: http://www.dkrz.de/
-[ipsl]: http://igcmg.ipsl.jussieu.fr/
+[ipsl]: https://www.ipsl.fr/en/
 [anu]:  http://www.anu.edu.au/
 [nci]:  http://nci.org.au/
 

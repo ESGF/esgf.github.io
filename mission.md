@@ -32,5 +32,4 @@ Systems for the 21st Century).
 </center>
 
 [ipcc]:  http://www.ipcc.ch/
-[cmip]:  http://pcmdi.llnl.gov/mips/
-[ces21]: https://ces21.llnl.gov/
+[cmip]:  http://pcmdi.github.io/CMIP6/

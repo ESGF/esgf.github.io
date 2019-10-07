@@ -124,11 +124,10 @@ An example is shown here: http://cds.nccs.nasa.gov. The NASA logo will appear at
 As a newcomer to ESGF, NASA will follow the Department of Energy’s (DOE’s) decision on where to put CMIP, ESGF, or CoG logos. 
 We intentionally added the footer to follow our own style guide in addition to providing a place for new information.
 
-There are three documents of interest:
+There are two documents of interest:
 
 1. STRAWS—definition of sites that need to be registered
-2. [Website Guidance](http://webmaster.gsfc.nasa.gov/policy/)—logo, banner, and footer guidance
-3. [NASA Branding Guide](http://inside.nasa.gov/insidenasadocs/files/NASA_Branding_Guide.pdf)—Includes guidance on materials produced with co-sponsors
+2. [NASA Multimedia Guidelines](https://www.nasa.gov/multimedia/guidelines/index.html#targetText=The%20NASA%20insignia%20logo%20)—Includes guidance on logo, banner, footer, and materials produced with co-sponsors
 
 #### A.1.1. STRAWS
 

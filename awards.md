@@ -8,8 +8,7 @@ title: Awards
 ### 2017
   
   * <h4><a href="https://www.rd100conference.com/" target="_blank"> R &amp; D 100 </a></h4>
-    * <a href="https://www.rd100conference.com/awards/winners-finalists/year/2017/" target="_blank">R &amp; D 100 Winners</a>
-    * <a href="https://www.rd100conference.com/awards/winners-finalists/6819/esgf/" target="_blank">R &amp; D 100 ESGF</a>
+    * R &amp; D 100 ESGF: <a href="https://str.llnl.gov/2018-04/williams" target="_blank">Interconnecting a World of Petabytes</a>
     * <a href="media/images/RD100/RD100A.jpg" target="_blank">Award Image</a>
     * <a href="media/images/RD100/RD100B.jpg" target="_blank">Award Acceptance</a>
     * <a href="media/images/RD100/RD100C.jpg" target="_blank">Award Slide</a>

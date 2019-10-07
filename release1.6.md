@@ -9,7 +9,7 @@ title: Releases
 
 The embodiment of the node application stack is indeed the [installation script][esgf-script] ([downlad][esgf-download]). The script automates the installation process installing the node's application stack in a predictable and uniform way.  This allows for better maintenance and ease of upgrade. The script is written in bash and has a number of features.  Though, one could install these components individually on one's own.  It is **HIGHLY** recommended to use the script for all installation and update needs.  Learn more about the script, it's flags and features [here][flags-featres].
 
-The ESGF Node, as discussed on the [node][esgf-node] page, is an amalgam of software components that work in concert to perform the higher level tasks of the Node.  The Node is a collection of components developed by the members of the [ESGF.org][esgf-home] open source effort as well as external tools and libraries that provide support for the ESGF Node feature set. A list of ESGF P2P Node functionality is posted [here][wiki-functions].
+The ESGF Node, as discussed on the [node][esgf-node] page, is an amalgam of software components that work in concert to perform the higher level tasks of the Node.  The Node is a collection of components developed by the members of the [ESGF][esgf-home] open source effort as well as external tools and libraries that provide support for the ESGF Node feature set. A list of ESGF P2P Node functionality is posted [here][wiki-functions].
 
 ---
 
@@ -50,15 +50,15 @@ The best and recommended way to install and setup the Node is to first visit the
 
 <table cellspacing="1" cellpadding="1" border="0">
   <tr bgcolor="#eaeaea"><td> Project </td><td> Version / Tag&nbsp;&nbsp;</td><td> Home Site </td></tr>
-  <tr bgcolor="#ffffff"><td> node-manager&nbsp;&nbsp;</td><td> v0.6.19 (db [1])</td><td> <a href="http://esgf.org/esgf-node-manager">http://esgf.org/esgf-node-manager</a> </td></tr>
-  <tr bgcolor="#eaeaea"><td> publisher </td><td> v2.11.1 </td><td> <a href="http://esgf.org/esg-publisher">http://esgf.org/esg-publisher</a> </td></tr>
-  <tr bgcolor="#ffffff"><td> orp </td><td> v2.3.8 </td><td> <a href="http://esgf.org/esg-orp">http://esgf.org/esg-orp</a> </td></tr>
-  <tr bgcolor="#eaeaea"><td> security </td><td> v2.4.0 (db [2]) </td><td> <a href="http://esgf.org/esgf-security">http://esgf.org/esgf-security</a> </td></tr>
-  <tr bgcolor="#ffffff"><td> search </td><td> v3.7.8 </td><td> <a href="http://esgf.org/esg-search">http://esgf.org/esg-search</a> </td></tr>
-  <tr bgcolor="#eaeaea"><td> idp </td><td> v2.4.4 </td><td> <a href="http://esgf.org/esgf-idp">http://esgf.org/esgf-idp</a> </td></tr>
-  <tr bgcolor="#ffffff"><td> web-fe </td><td> v2.4.10 </td><td> <a href="http://esgf.org/esgf-web-fe">http://esgf.org/esgf-web-fe</a> </td></tr>
-  <tr bgcolor="#eaeaea"><td> dashboard </td><td> v1.3.7 (db [5])</td><td> <a href="http://esgf.org/esgf-dashboard">http://esgf.org/esgf-dashboard</a> </td></tr>
-  <tr bgcolor="#ffffff"><td> desktop </td><td> v0.0.5 </td><td><a href="http://esgf.org/esgf-desktop">http://esgf.org/esgf-desktop</a></td></tr>
+  <tr bgcolor="#ffffff"><td> node-manager&nbsp;&nbsp;</td><td> v0.6.19 (db [1])</td><td> <a href="https://github.com/ESGF/esgf-node-manager">https://github.com/ESGF/esgf-node-manager</a> </td></tr>
+  <tr bgcolor="#eaeaea"><td> publisher </td><td> v2.11.1 </td><td> <a href="https://github.com/ESGF/esg-publisher">https://github.com/ESGF/esg-publisher</a> </td></tr>
+  <tr bgcolor="#ffffff"><td> orp </td><td> v2.3.8 </td><td> <a href="https://github.com/ESGF/esg-orp">https://github.com/ESGF/esg-orp</a> </td></tr>
+  <tr bgcolor="#eaeaea"><td> security </td><td> v2.4.0 (db [2]) </td><td> <a href="https://github.com/ESGF/esgf-security">https://github.com/ESGF/esgf-security</a> </td></tr>
+  <tr bgcolor="#ffffff"><td> search </td><td> v3.7.8 </td><td> <a href="https://github.com/ESGF/esg-search">https://github.com/ESGF/esg-search</a> </td></tr>
+  <tr bgcolor="#eaeaea"><td> idp </td><td> v2.4.4 </td><td> <a href="https://github.com/ESGF/esgf-idp">https://github.com/ESGF/esgf-idp</a> </td></tr>
+  <tr bgcolor="#ffffff"><td> web-fe </td><td> v2.4.10 </td><td> <a href="https://github.com/ESGF/esgf-web-fe">https://github.com/ESGF/esgf-web-fe</a> </td></tr>
+  <tr bgcolor="#eaeaea"><td> dashboard </td><td> v1.3.7 (db [5])</td><td> <a href="https://github.com/ESGF/esgf-dashboard">https://github.com/ESGF/esgf-dashboard</a> </td></tr>
+  <tr bgcolor="#ffffff"><td> desktop UI</td><td> v0.0.5 </td><td><a href="https://github.com/ESGF/esgf-dashboard-ui">https://github.com/ESGF/esgf-dashboard-ui</a></td></tr>
 </table>
 
 ### External Application Stack Versions
@@ -102,7 +102,7 @@ The best and recommended way to install and setup the Node is to first visit the
       <a href="http://sourceforge.net/projects/flex/files/" target="rel">http://sourceforge.net/projects/flex/files/</a> </td></tr>
   <tr bgcolor="#ffffff"><td> gsoap </td><td> v2.7.15 </td><td> <a href="http://sourceforge.net/projects/gsoap2/files/" target="rel">http://sourceforge.net/projects/gsoap2/files/</a> </td></tr>
 </table>
-(<b>*</b> indicates that the installer fetches a copy of indicated file from the ESGF.org distribution server)
+(<b>*</b> indicates that the installer fetches a copy of indicated file from the ESGF distribution server)
 
 ---
 
@@ -114,13 +114,13 @@ The best and recommended way to install and setup the Node is to first visit the
 [esgf-release]:       https://github.com/ESGF/esgf-installer/releases/tag/v1.6.2-bushwick_myrtle-release
 [esgf-script]:        https://github.com/ESGF/esgf-installer/blob/f33e0990eb061927e64595c48b4a2182575e81a9/esg-node
 [esgf-download]:      https://raw.github.com/ESGF/esgf-installer/f33e0990eb061927e64595c48b4a2182575e81a9/esg-node
-[flags-features]:     http://esgf.org/esgf-installer-site
+[flags-features]:     https://github.com/ESGF/esgf-installer
 [esgf-node]:          node.html
-[esgf-home]:          http://esgf.org
+[esgf-home]:          ttps://github.com/ESGF
 [wiki-functions]:     https://github.com/ESGF/esgf.github.io/wiki/ESGF_Functionality
 [rainbow-dist]:       http://rainbow.llnl.gov/dist/
 [rainbow-howto]:      http://rainbow.llnl.gov/dist/esgf-installer/HOWTO
 [rainbow-bootstrap]:  http://rainbow.llnl.gov/dist/esgf-installer/esg-bootstrap
 [release-notes]:      https://github.com/ESGF/esgf.github.io/wiki/Release_1.4
 [road-map]:           https://github.com/ESGF/esgf.github.io/wiki/RoadMap
-[other-version]:      http://esgf.org/release1.5.html
+[other-version]:      http://esgf.llnl.gov/release1.5.html

@@ -47,11 +47,11 @@ Dean N. Williams, Giriprakash Palanisamy, Kerstin Kleese van Dam, et al.. U.S. D
 
 Charles Doutriaux; Thomas Maxwell; Aashish Chaudhary; Sam Fries; Paul J. Durack; Sankhesh Jhaveri; David Lonie; Chris Harris; David E DeMarle; Dan Lipsa; Remi Rampin; Denis Nadeau; James McEnerney; Jonathan Beezley; Harinarayan Krishnan; Jeffrey Painter; Brad King; Ben Burnett; Andrew Bauer; Huy T. Vo; Dean N. Williams; Zach Mullen; Bryce Sampson; Arulalan T.; Boonthanome Nouanesengsy; Stephane Raynaud; Matthew Harris. UV-CDAT Release version 2.6, June 2016, DOI: 10.5281/zenodo.56759.
 
-Matthew B. Harris, Sam B. Fries, Dean N. Williams, Sterling A. Baldwin, James W. Crean, Bryce J. Sampson, Edward M. Brown, Anna Paula M. Pawlicka. “The Legend of CDAT: A Link to the Past,” Proceedings of the World Congress on Engineering and Computer Science 2016 Vol I WCECS, [https://doaj.org/article/4586648f2b544930b6fe5d662ee02c22](https://doaj.org/article/4586648f2b544930b6fe5d662ee02c22).
+Matthew B. Harris, Sam B. Fries, Dean N. Williams, Sterling A. Baldwin, James W. Crean, Bryce J. Sampson, Edward M. Brown, Anna Paula M. Pawlicka. “The Legend of CDAT: A Link to the Past,” Proceedings of the World Congress on Engineering and Computer Science 2016 Vol I WCECS, [http://www.iaeng.org/publication/WCECS2016/WCECS2016_pp181-184.pdf](http://www.iaeng.org/publication/WCECS2016/WCECS2016_pp181-184.pdf).
 
 Jim McEnerney. “A Real Nullstellensatz with Multiplicity,” Journal of Pure and Applied Algebra, 2016 (accepted), [http://www.journals.elsevier.com/journal-of-pure-and-applied-algebra/](http://www.journals.elsevier.com/journal-of-pure-and-applied-algebra/)), DOI: 10.1016/j.jpaa.2016.12.010.
 
-Sterling A. Baldwin, Matthew B. Harris, Samuel B. Fries. “Science as a Service,” Proceedings of The World Congress on Engineering and Computer Science , Vol. I, WCECS 2016, October 21–23, 2016, San Francisco, USA, pp. 123-–126, [http://www.iaeng.org/publication/WCECS2015/ ISBN: 978-988-19253-6-7](http://www.iaeng.org/publication/WCECS2015/ ISBN: 978-988-19253-6-7).
+Sterling A. Baldwin, Matthew B. Harris, Samuel B. Fries. “Science as a Service,” Proceedings of The World Congress on Engineering and Computer Science , Vol. I, WCECS 2016, October 21–23, 2016, San Francisco, USA, pp. 123-–126, [http://www.iaeng.org/publication/WCECS2015/](http://www.iaeng.org/publication/WCECS2015/) ISBN: 978-988-19253-6-7.
 
 Chad A. Steed, Katherine J. Evans, John F. Harney, Brian C. Jewell, Galen Shipman, Brian E. Smith, Peter E. Thornton, Dean N. Williams. Web-Based Visual Analytics for Extreme Scale Climate Science, Oak Ridge National Laboratory, 2016, 10.1109/BigData.2014.7004255.
 

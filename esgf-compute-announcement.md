@@ -18,7 +18,7 @@ We recommend you get familiar with it by following the notebook at: [https://git
 
 A set of F.A.Q.s is also available at: [https://github.com/ESGF/esgf-compute-wps/blob/devel/FAQ.md](https://github.com/ESGF/esgf-compute-wps/blob/devel/FAQ.md)
 
-ESGF compute services are now available for production at: [https://aims2.llnl.gov](https://aims2.llnl.gov).
+ESGF compute services are now available for production at: [https://aims.llnl.gov](https://aims.llnl.gov).
 
 This node offers the following services: 
  * Aggregate
