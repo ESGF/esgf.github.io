@@ -59,7 +59,7 @@ Gleckler, P. J., C. Doutriaux, P. J. Durack, K. E. Taylor, Y. Zhang, D. N. Willi
 
 Dean N. Williams, et al. U.S. DOE. 5th Annual Earth System Grid Federation Face-to-Face Conference Report. DOE/SC-0181. U.S. Department of Energy Office of Science,” March 2016, DOI: 10.2172/1253685.
 
-Dean N. Williams. “5th Annual Earth System Grid Federation and Observations,” LLNL Technical Report #LLNL-TR-689917, April 2016, [https://e-reports-ext.llnl.gov/pdf/806992.pdf](https://e-reports-ext.llnl.gov/pdf/806992.pdf)  DOI: 10.2172/1253685.  
+Dean N. Williams. “5th Annual Earth System Grid Federation and Observations,” LLNL Technical Report #LLNL-TR-689917, April 2016, DOI: 10.2172/1253685.  
 
 Christensen, C., S. Liu, G. Scorzelli, J.-W. Lee, P.-T. Bremer, V. Pascucci. “Embedded Domain-Specific Language and Runtime System for Progressive Spatiotemporal Data Analysis and Visualization.” The 6th IEEE Symposium on Large Data Analysis and Visualization (LDAV): Baltimore, Maryland. October 23, 2016, [http://www.sci.utah.edu/publications/Chr2016a/christiensen_LDAV16.pdf](http://www.sci.utah.edu/publications/Chr2016a/christiensen_LDAV16.pdf).
 
@@ -241,13 +241,12 @@ D. N. Williams, R. Ananthakrishnan, D. E. Bernholdt, S. Bharathi, D. Brown, M. C
 <a href="{{site.esgf-media}}/pdf/Climate_report.pdf" target="_blank">Web Enabled Collaborative Climate Visualization in the Earth System Grid</a>
 Kendall, W.; Glatter, M.; Jian Huang; Hoffman, F.; Bernholdt, D.E.; Collaborative Technologies and Systems, 2008. CTS 2008. International Symposium on 19-23 May 2008 Page(s):212 - 220
 
-
-<a href="{{site.esgf-media}}/pdf/missing.pdf" target="_blank">Advanced Scientific Computing Advisory Committee and Biological and Environmental Advisory Committee</a>
+Advanced Scientific Computing Advisory Committee and Biological and Environmental Advisory Committee;
 Prepared Joint ASCAC-BERAC Subcommittee report on computational and informational technology rate limiters to the advancement of climate change science. March, 2008
 
 ### 2007
 
-<a href="{{site.esgf-media}}/pdf/CTWatch-Quarterly-The-Earth-System-Grid-Center-for-Enabling-Technologies-Enabling-Community-Access-to-Petascale-Climate-Datasets" target="_blank">Computational and Informational technology rate limiters to the advancement of climate change science</a>
+Computational and informational technology rate limiters to the advancement of climate change science;
 A short overview of ESG-CET in the CTWatch Quarterly November 2007 special issue on Software Enabling Technologies for Petascale Science.   
 Dean N. Williams, David E. Bernholdt, Ian T. Foster, Don E. Middleton, "The Earth System Grid Center for Enabling Technologies: Enabling Community Access to Petascale Climate Datasets", in the Cyberinfrastructure Technology Watch (CTWatch) Quarterly, November 2007, vol 3 number 4.
 

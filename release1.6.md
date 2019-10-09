@@ -58,7 +58,7 @@ The best and recommended way to install and setup the Node is to first visit the
   <tr bgcolor="#eaeaea"><td> idp </td><td> v2.4.4 </td><td> <a href="https://github.com/ESGF/esgf-idp">https://github.com/ESGF/esgf-idp</a> </td></tr>
   <tr bgcolor="#ffffff"><td> web-fe </td><td> v2.4.10 </td><td> <a href="https://github.com/ESGF/esgf-web-fe">https://github.com/ESGF/esgf-web-fe</a> </td></tr>
   <tr bgcolor="#eaeaea"><td> dashboard </td><td> v1.3.7 (db [5])</td><td> <a href="https://github.com/ESGF/esgf-dashboard">https://github.com/ESGF/esgf-dashboard</a> </td></tr>
-  <tr bgcolor="#ffffff"><td> desktop UI</td><td> v0.0.5 </td><td><a href="https://github.com/ESGF/esgf-dashboard-ui">https://github.com/ESGF/esgf-dashboard-ui</a></td></tr>
+  <tr bgcolor="#ffffff"><td> desktop</td><td> v0.0.5 </td><td> http://esgf.org/esgf-desktop</td></tr>
 </table>
 
 ### External Application Stack Versions
@@ -71,21 +71,21 @@ The best and recommended way to install and setup the Node is to first visit the
   <tr bgcolor="#eaeaea"><td> git </td><td> v1.8.4.3 </td><td>   <a href="http://git-scm.com/" target="rel">http://git-scm.com/</a> <br> <a href="http://www.kernel.org/pub/software/scm/git/" target="rel">http://www.kernel.org/pub/software/scm/git/</a> </td></tr>
   <tr bgcolor="#ffffff">
     <td> postgres </td><td> v8.4.7 </td><td> <a href="http://www.postgresql.org/" target="rel">http://www.postgresql.org/</a> <br>
-      <a href="http://ftp9.us.postgresql.org/pub/mirrors/postgresql/source/" target="rel">http://ftp9.us.postgresql.org/pub/mirrors/postgresql/source/</a>
+      http://ftp9.us.postgresql.org/pub/mirrors/postgresql/source/
     </td>
   </tr>
   <tr bgcolor="#eaeaea"><td> java </td><td> v1.7.0_21 </td><td>  <a href="http://www.oracle.com/technetwork/java/index.html" target="rel">http://www.oracle.com/technetwork/java/index.html</a> </td></tr>
   <tr bgcolor="#ffffff"><td> thredds* </td><td> v4.3.17 </td><td>   <a href="http://www.unidata.ucar.edu/projects/THREDDS/tech/TDS.html" target="rel">http://www.unidata.ucar.edu/projects/THREDDS/tech/TDS.html</a> </td></tr>
   <tr bgcolor="#eaeaea"><td> tomcat </td><td> v7.0.47 </td><td>  <a href="http://tomcat.apache.org/" target="rel">http://tomcat.apache.org/</a> </td></tr>
   <tr bgcolor="#ffffff">
-    <td> myproxy* </td><td> v5.0.4 </td><td><a href="http://dev.globus.org/wiki/MyProxy" target="rel">http://dev.globus.org/wiki/MyProxy</a> <br>
-      <a href="http://www.globus.org/ftppub/myproxy/" target="rel">http://www.globus.org/ftppub/myproxy/</a> <br>
+    <td> myproxy* </td><td> v5.0.4 </td><td>http://dev.globus.org/wiki/MyProxy <br>
+      http://www.globus.org/ftppub/myproxy/ <br>
       <a href="http://grid.ncsa.illinois.edu/myproxy/" target="rel">http://grid.ncsa.illinois.edu/myproxy/</a> <br>
       <a href="http://grid.ncsa.illinois.edu/myproxy/download.html" target="rel">http://grid.ncsa.illinois.edu/myproxy/download.html</a>
     </td>
   </tr>
   <tr bgcolor="#eaeaea"><td> globus* </td><td> v5.0.4 </td><td> <a href="http://www.globus.org/toolkit" target="rel">http://www.globus.org/toolkit</a> </td></tr>
-  <tr bgcolor="#ffffff"><td> gridftp server*</td><td> v3.24 </td><td> <a href="http://dev.globus.org/wiki/GridFTP" target="rel">http://dev.globus.org/wiki/GridFTP</a>
+  <tr bgcolor="#ffffff"><td> gridftp server*</td><td> v3.24 </td><td> http://dev.globus.org/wiki/GridFTP
       <tr><td> las </td><td> v8.1 </td><td> <a href="http://ferret.pmel.noaa.gov/LAS" target="rel">http://ferret.pmel.noaa.gov/LAS</a> </td></tr>
       <tr><td> ferret </td><td> v6.842 </td><td> <a href="http://ferret.pmel.noaa.gov/Ferret/" target="rel">http://ferret.pmel.noaa.gov/Ferret/</a>
 </table>
