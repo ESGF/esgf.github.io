@@ -115,8 +115,8 @@ The best and recommended way to install and setup the Node is to first visit the
 [esgf-script]:        https://github.com/ESGF/esgf-installer/blob/f33e0990eb061927e64595c48b4a2182575e81a9/esg-node
 [esgf-download]:      https://raw.github.com/ESGF/esgf-installer/f33e0990eb061927e64595c48b4a2182575e81a9/esg-node
 [flags-features]:     https://github.com/ESGF/esgf-installer
-[esgf-node]:          node.html
-[esgf-home]:          ttps://github.com/ESGF
+[esgf-node]:          https://github.com/ESGF/esgf-node-manager
+[esgf-home]:          https://github.com/ESGF
 [wiki-functions]:     https://github.com/ESGF/esgf.github.io/wiki/ESGF_Functionality
 [rainbow-dist]:       http://rainbow.llnl.gov/dist/
 [rainbow-howto]:      http://rainbow.llnl.gov/dist/esgf-installer/HOWTO
