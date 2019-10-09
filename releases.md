@@ -12,4 +12,4 @@ title: Releases
 
 #### Versions 2.8.4 and older
 
-* [esgf-iwt Release Notes](https://github.com/ESGF/esgf-installer/wiki/ESGF-Release-Notes)
+* [esgf-installer Release Notes](https://github.com/ESGF/esgf-installer/wiki/ESGF-Release-Notes)

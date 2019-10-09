@@ -77,13 +77,13 @@ access to these services via rich desktop clients and toolkits, which allow
 scripted and more powerful access. Specifically, the following clients are
 being developed.
 
-  * **UV-CDAT**. UV-CDAT is a high-performace visualization client that allows
+  * **UV-CDAT**. UV-CDAT is a high-performance visualization client that allows
   the user to query the ESGF data catalogs via any metadata category, and
   either download the selected files, or create visualization plots.  * **Data
   Mover Light**. Data Mover Light (DML) is a high performance desktop client
   that allows bulk download of data files via either HTTP or GridFTP.
   * **Regional Climate Model Evaluation System (RCMES) & Apache Open Climate 
-  Workbench**. [RCMES](http://rcmes.jpl.nasa.gov/) is a model evalution framework bringing remote sensing 
+  Workbench**. [RCMES](http://rcmes.jpl.nasa.gov/) is a model evaluation framework bringing remote sensing 
   data from the National Aeronautics and Space Administration (NASA) and
   other agencies to bear for evaluation of climate model outputs. RCMES is
   Powered by [Apache OCW](http://climate.apache.org/) is a comprehensive 

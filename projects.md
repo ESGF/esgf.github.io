@@ -57,10 +57,7 @@ and access control system. Also including a web-based interface for site
 administrators.
 * Identity Provider and User Manager
 * Where users are managed and identities kept.
-* identity, security, naming, access, people
-* Identity Provider and User Manager
-* Where users are managed and identities kept.
-* identity, security, naming, access, people
+* Identity, security, naming, access, people
 
 ---
 

@@ -84,5 +84,5 @@ title: Release v1.2
   - Ability to run installer using off board database
   - LAS multi-dataset support
 
-[myproxy]: https://github.com/ESGF/esgf.github.io/wiki/MyProxy
+[myproxy]: https://github.com/ESGF/esgf.github.io/wiki/ESGFNode%7CIDP%7CMyProxyWithAttributeCalloutConfig
 [idps]: https://github.com/ESGF/esgf.github.io/wiki/IdPs

@@ -7,7 +7,7 @@ title: Publications
 
 ### 2017
 
-Charles Doutriaux; Thomas Maxwell; Aashish Chaudhary; Paul J. Durack; Sankhesh Jhaveri; David Lonie; Sam Fries; Dan Lipsa; Chris Harris; David E DeMarle; Remi Rampin; Denis Nadeau; Charles Doutriaux; James McEnerney; Jonathan Beezley; HarinarayanKrishnan; Jeffrey Painter; Brad King; Ben Burnett; Andrew Bauer; leung25; Huy T. Vo; dakoop; Dean N. Williams; Zach Mullen; Bryce Sampson; Arulalan.T; Edward Brown; Boonthanome Nouanesengsy; Jonathas Costa. Ultrascale Visualization Climate Data Analysis Tools (UV-CDAT), release version 2.10.0, May 11, 2017, DOI: 10.5281/zenodo.574661.
+Charles Doutriaux; Thomas Maxwell; Aashish Chaudhary; Paul J. Durack; Sankhesh Jhaveri; David Lonie; Sam Fries; Dan Lipsa; Chris Harris; David E DeMarle; Remi Rampin; Denis Nadeau; Charles Doutriaux; James McEnerney; Jonathan Beezley; Harinarayan Krishnan; Jeffrey Painter; Brad King; Ben Burnett; Andrew Bauer; Huy T. Vo; Dean N. Williams; Zach Mullen; Bryce Sampson; Arulalan T.; Edward Brown; Boonthanome Nouanesengsy; Jonathas Costa. Ultrascale Visualization Climate Data Analysis Tools (UV-CDAT), release version 2.10.0, May 11, 2017, DOI: 10.5281/zenodo.574661.
 
 Santer, B.D., J.C. Fyfe, G. Pallotta, G.M. Flato, G.A. Meehl, M.H. England, E. Hawkins, M.E. Mann, J.F. Painter, C. Bonfils, I. Cvijanovic, C. Mears, F.J. Wentz, S. Po-Chedley, Q. Fu, C.-Z. Zou. “Model Expectations and Reality: The Case of Tropospheric Warming.” Nature Geoscience 2017 (in review).
 
@@ -27,7 +27,7 @@ S. Fiore, M. Płóciennik, C. Doutriaux, C. Palazzo, J. Boutte, T. Żok, D. Elia
 
 ### 2016
 
-Denis Nadeau, Charles Doutriaux, Tim Bradshaw, Jamie Kettleborough, TobiasWeigel, Emma Hogan, Paul J. Durack. CMOR release version 3.2.0, November 2016, DOI: 10.5281/zenodo.168253.
+Denis Nadeau, Charles Doutriaux, Tim Bradshaw, Jamie Kettleborough, Tobias Weigel, Emma Hogan, Paul J. Durack. CMOR release version 3.2.0, November 2016, DOI: 10.5281/zenodo.168253.
 
 Charles Doutriaux, Paul J. Durack, Peter Gleckler, Jeffrey Painter. PCMDI Metrics, release version 1.1.1, July 2016, DOI: 10.5281/zenodo.58440.
 
@@ -47,11 +47,11 @@ Dean N. Williams, Giriprakash Palanisamy, Kerstin Kleese van Dam, et al.. U.S. D
 
 Charles Doutriaux; Thomas Maxwell; Aashish Chaudhary; Sam Fries; Paul J. Durack; Sankhesh Jhaveri; David Lonie; Chris Harris; David E DeMarle; Dan Lipsa; Remi Rampin; Denis Nadeau; James McEnerney; Jonathan Beezley; Harinarayan Krishnan; Jeffrey Painter; Brad King; Ben Burnett; Andrew Bauer; Huy T. Vo; Dean N. Williams; Zach Mullen; Bryce Sampson; Arulalan T.; Boonthanome Nouanesengsy; Stephane Raynaud; Matthew Harris. UV-CDAT Release version 2.6, June 2016, DOI: 10.5281/zenodo.56759.
 
-Matthew B. Harris, Sam B. Fries, Dean N. Williams, Sterling A. Baldwin, James W. Crean, Bryce J. Sampson, Edward M. Brown, Anna Paula M. Pawlicka. “The Legend of CDAT: A Link to the Past,” Proceedings of the World Congress on Engineering and Computer Science 2016 Vol I WCECS, [https://doaj.org/article/4586648f2b544930b6fe5d662ee02c22](https://doaj.org/article/4586648f2b544930b6fe5d662ee02c22).
+Matthew B. Harris, Sam B. Fries, Dean N. Williams, Sterling A. Baldwin, James W. Crean, Bryce J. Sampson, Edward M. Brown, Anna Paula M. Pawlicka. “The Legend of CDAT: A Link to the Past,” Proceedings of the World Congress on Engineering and Computer Science 2016 Vol I WCECS, [http://www.iaeng.org/publication/WCECS2016/WCECS2016_pp181-184.pdf](http://www.iaeng.org/publication/WCECS2016/WCECS2016_pp181-184.pdf).
 
 Jim McEnerney. “A Real Nullstellensatz with Multiplicity,” Journal of Pure and Applied Algebra, 2016 (accepted), [http://www.journals.elsevier.com/journal-of-pure-and-applied-algebra/](http://www.journals.elsevier.com/journal-of-pure-and-applied-algebra/)), DOI: 10.1016/j.jpaa.2016.12.010.
 
-Sterling A. Baldwin, Matthew B. Harris, Samuel B. Fries. “Science as a Service,” Proceedings of The World Congress on Engineering and Computer Science , Vol. I, WCECS 2016, October 21–23, 2016, San Francisco, USA, pp. 123-–126, [http://www.iaeng.org/publication/WCECS2015/ ISBN: 978-988-19253-6-7](http://www.iaeng.org/publication/WCECS2015/ ISBN: 978-988-19253-6-7).
+Sterling A. Baldwin, Matthew B. Harris, Samuel B. Fries. “Science as a Service,” Proceedings of The World Congress on Engineering and Computer Science , Vol. I, WCECS 2016, October 21–23, 2016, San Francisco, USA, pp. 123-–126, [http://www.iaeng.org/publication/WCECS2015/](http://www.iaeng.org/publication/WCECS2015/) ISBN: 978-988-19253-6-7.
 
 Chad A. Steed, Katherine J. Evans, John F. Harney, Brian C. Jewell, Galen Shipman, Brian E. Smith, Peter E. Thornton, Dean N. Williams. Web-Based Visual Analytics for Extreme Scale Climate Science, Oak Ridge National Laboratory, 2016, 10.1109/BigData.2014.7004255.
 
@@ -59,7 +59,7 @@ Gleckler, P. J., C. Doutriaux, P. J. Durack, K. E. Taylor, Y. Zhang, D. N. Willi
 
 Dean N. Williams, et al. U.S. DOE. 5th Annual Earth System Grid Federation Face-to-Face Conference Report. DOE/SC-0181. U.S. Department of Energy Office of Science,” March 2016, DOI: 10.2172/1253685.
 
-Dean N. Williams. “5th Annual Earth System Grid Federation and Observations,” LLNL Technical Report #LLNL-TR-689917, April 2016, [https://e-reports-ext.llnl.gov/pdf/806992.pdf](https://e-reports-ext.llnl.gov/pdf/806992.pdf)  DOI: 10.2172/1253685.  
+Dean N. Williams. “5th Annual Earth System Grid Federation and Observations,” LLNL Technical Report #LLNL-TR-689917, April 2016, DOI: 10.2172/1253685.  
 
 Christensen, C., S. Liu, G. Scorzelli, J.-W. Lee, P.-T. Bremer, V. Pascucci. “Embedded Domain-Specific Language and Runtime System for Progressive Spatiotemporal Data Analysis and Visualization.” The 6th IEEE Symposium on Large Data Analysis and Visualization (LDAV): Baltimore, Maryland. October 23, 2016, [http://www.sci.utah.edu/publications/Chr2016a/christiensen_LDAV16.pdf](http://www.sci.utah.edu/publications/Chr2016a/christiensen_LDAV16.pdf).
 
@@ -241,13 +241,12 @@ D. N. Williams, R. Ananthakrishnan, D. E. Bernholdt, S. Bharathi, D. Brown, M. C
 <a href="{{site.esgf-media}}/pdf/Climate_report.pdf" target="_blank">Web Enabled Collaborative Climate Visualization in the Earth System Grid</a>
 Kendall, W.; Glatter, M.; Jian Huang; Hoffman, F.; Bernholdt, D.E.; Collaborative Technologies and Systems, 2008. CTS 2008. International Symposium on 19-23 May 2008 Page(s):212 - 220
 
-
-<a href="{{site.esgf-media}}/pdf/missing.pdf" target="_blank">Advanced Scientific Computing Advisory Committee and Biological and Environmental Advisory Committee</a>
+Advanced Scientific Computing Advisory Committee and Biological and Environmental Advisory Committee;
 Prepared Joint ASCAC-BERAC Subcommittee report on computational and informational technology rate limiters to the advancement of climate change science. March, 2008
 
 ### 2007
 
-<a href="{{site.esgf-media}}/pdf/CTWatch-Quarterly-The-Earth-System-Grid-Center-for-Enabling-Technologies-Enabling-Community-Access-to-Petascale-Climate-Datasets" target="_blank">Computational and Informational technology rate limiters to the advancement of climate change science</a>
+Computational and informational technology rate limiters to the advancement of climate change science;
 A short overview of ESG-CET in the CTWatch Quarterly November 2007 special issue on Software Enabling Technologies for Petascale Science.   
 Dean N. Williams, David E. Bernholdt, Ian T. Foster, Don E. Middleton, "The Earth System Grid Center for Enabling Technologies: Enabling Community Access to Petascale Climate Datasets", in the Cyberinfrastructure Technology Watch (CTWatch) Quarterly, November 2007, vol 3 number 4.
 

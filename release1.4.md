@@ -43,7 +43,7 @@ wrong published checksum check
 * **Dashboard/Desktop**(new)
   - data usage statistics management at node level (back-end).
   - statistics aggregator at federation level (back-end)
-  - new Desktop interface (Rssfeed viewer, management console, data usage statistics, twitter and dashboard gadgets)
+  - new Desktop interface (RSS feed viewer, management console, data usage statistics, Twitter and dashboard gadgets)
 * **Other**
   - Updated Thredds server to 4.2.10, which should greatly improved the internal memory management.
 
@@ -54,7 +54,7 @@ wrong published checksum check
 * **Thredds Data Server**
   - Because of a change in how the TDS application is being versioned, you must remove the current TDS installation for the installer to pick up the new version:
     - **mv /usr/local/tomcat/webapps/thredds /tmp/.**
-  - Optionally, you can turn caching off in the file **/esg/content/thredds/threddsConfig.xml** - it's not yet clear wether this will improve memory usage or not:
+  - Optionally, you can turn caching off in the file **/esg/content/thredds/threddsConfig.xml** - it's not yet clear whether this will improve memory usage or not:
     - \<Catalog\>\<cache\>false\</cache\>\</Catalog\>
 * **"Super-Node" configuration.**
   - After updating to this release, an Index Node administrator has the option of creating a local replica of any other up-to-date Index Node, and configure the search services to query the local replica shard, as opposed to the remote shard. For example, to create and query a local replica of the JPL Index Node (which is up to date), using port 8985:

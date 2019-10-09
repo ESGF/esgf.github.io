@@ -31,9 +31,9 @@ Other Mailing lists for developer Working Groups
 ### Standards
 
 * **NO TABS**; instead use 4 spaces
-    * For background behind this issues check out [this][background1] or [that][background2] site
+    * For background behind this issue check out [this][background] site
 * Java
-    * For Java code please follow the [Java Style Guide]
+    * For Java code please follow the [Java Style Guide][java style guide]
     * For those of us special enough to use [emacs], here is the .emacs entry to
     enforce space standards:
 
@@ -60,7 +60,7 @@ Other Mailing lists for developer Working Groups
 
 * Version Control System: [git]
 * Build: [ant]
-* Dependencey Management: [ivy]
+* Dependency Management: [ivy]
 * Unit Testing: [JUnit]
 * Test Coverage: [Cobertura]
 * How To Participate
@@ -85,11 +85,10 @@ modules should be developed:
 * Layered applications
 * Support for multiple languages (Java and Python)
 * Agile: rapid prototyping, frequent demos and feedback, iterative development,
-  reponsiveness
+  responsiveness
 
-[background1]:      http://www.jwz.org/doc/tabs-vs-spaces.html
-[background2]:      http://www.dansanderson.com/blog/2007/07/indenting-source-code-in-emacs.html
-[java style guide]: http://www.oracle.com/technetwork/java/codeconv-138413.html
+[background]:      http://www.jwz.org/doc/tabs-vs-spaces.html
+[java style guide]: hhttps://www.oracle.com/technetwork/java/codeconvtoc-136057.html
 [emacs]:            http://www.gnu.org/software/emacs
 [git]:              http://git-scm.com
 [ant]:              http://ant.apache.org
@@ -97,7 +96,7 @@ modules should be developed:
 [junit]:            http://www.junit.org
 [cobertura]:        http://cobertura.sourceforge.net
 [artifactory]:      http://www.jfrog.org/products.php
-[esgf-repo]:        http://esgf.org/artifactory/webapp/browserepo.html
+[github]:           http://github.com/ESGF
 [mailinglist]:      mailing-list.html
 [github]:           http://www.github.com/ESGF
 [listserv-devel]:       mailto:esgf-devel@llnl.gov
