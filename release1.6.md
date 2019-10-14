@@ -75,7 +75,7 @@ The best and recommended way to install and setup the Node is to first visit the
     </td>
   </tr>
   <tr bgcolor="#eaeaea"><td> java </td><td> v1.7.0_21 </td><td>  <a href="http://www.oracle.com/technetwork/java/index.html" target="rel">http://www.oracle.com/technetwork/java/index.html</a> </td></tr>
-  <tr bgcolor="#ffffff"><td> thredds* </td><td> v4.3.17 </td><td>   <a href="http://www.unidata.ucar.edu/projects/THREDDS/tech/TDS.html" target="rel">http://www.unidata.ucar.edu/projects/THREDDS/tech/TDS.html</a> </td></tr>
+  <tr bgcolor="#ffffff"><td> thredds* </td><td> v4.3.17 </td><td>   http://www.unidata.ucar.edu/projects/THREDDS/tech/TDS.html</td></tr>
   <tr bgcolor="#eaeaea"><td> tomcat </td><td> v7.0.47 </td><td>  <a href="http://tomcat.apache.org/" target="rel">http://tomcat.apache.org/</a> </td></tr>
   <tr bgcolor="#ffffff">
     <td> myproxy* </td><td> v5.0.4 </td><td>http://dev.globus.org/wiki/MyProxy <br>

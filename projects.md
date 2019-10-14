@@ -63,7 +63,7 @@ administrators.
 
 ### orp
 
-##### [Source][ESGF/esgf-orp], [Issues][ESGF/esgf-orp/issues], [Wiki][ESGF/esgf-orp/wiki]
+##### [Source][ESGF/esg-orp], [Issues][ESGF/esg-orp/issues], [Wiki][ESGF/esg-orp/wiki]
 
 <img src="{{site.url}}/media/images/orp.png" class="project-icon">
 
@@ -90,7 +90,7 @@ across the federation.
 
 ### search
 
-##### [Source][ESGF/esgf-search], [Issues][ESGF/esgf-search/issues], [Wiki][ESGF/esgf-search/wiki]
+##### [Source][ESGF/esg-search], [Issues][ESGF/esg-search/issues], [Wiki][ESGF/esg-search/wiki]
 
 <img src="{{site.url}}/media/images/search.png" class="project-icon">
 
@@ -112,17 +112,17 @@ package contains functionality for:
 [ESGF/esgf-idp/wiki]:             https://github.com/ESGF/esgf-idp/wiki
 
 
-[ESGF/esgf-orp]:                  https://github.com/ESGF/esgf-orp
-[ESGF/esgf-orp/issues]:           https://github.com/ESGF/esgf-orp/issues
-[ESGF/esgf-orp/wiki]:             https://github.com/ESGF/esgf-orp/wiki
+[ESGF/esg-orp]:                  https://github.com/ESGF/esg-orp
+[ESGF/esg-orp/issues]:           https://github.com/ESGF/esg-orp/issues
+[ESGF/esg-orp/wiki]:             https://github.com/ESGF/esg-orp/wiki
 
 [ESGF/esg-publisher]:            https://github.com/ESGF/esg-publisher
 [ESGF/esg-publisher/issues]:     https://github.com/ESGF/esg-publisher/issues
 [ESGF/esg-publisher/wiki]:       https://github.com/ESGF/esg-publisher/wiki
 
-[ESGF/esgf-search]:               https://github.com/ESGF/esgf-search
-[ESGF/esgf-search/issues]:        https://github.com/ESGF/esgf-search/issues
-[ESGF/esgf-search/wiki]:          https://github.com/ESGF/esgf-search/wiki
+[ESGF/esg-search]:               https://github.com/ESGF/esg-search
+[ESGF/esg-search/issues]:        https://github.com/ESGF/esg-search/issues
+[ESGF/esg-search/wiki]:          https://github.com/ESGF/esg-search/wiki
 
 [ESGF/esgf-security]:             https://github.com/ESGF/esgf-security
 [ESGF/esgf-security/issues]:      https://github.com/ESGF/esgf-security/issues
