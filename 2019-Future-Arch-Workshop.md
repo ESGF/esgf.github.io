@@ -33,7 +33,7 @@ The programme for the meeting has been specified by Philip Kershaw (UKRI STFC, l
 - Compute on data
 - Platforms, system administration
 
-The meeting aims to agree on a roadmap for future architecture directions in ESGF. The meeting results will be presented and discussed at the upcoming ESGF Face-to Face Conference in March 2020 in Toulouse.
+The meeting aims to agree on a roadmap for future architecture directions in ESGF. The meeting results will be presented and discussed at the upcoming ESGF Face-to-Face Conference in March 2020 in Toulouse.
 
 #### Sponsorship
 
