@@ -11,21 +11,19 @@ title: Committees
 * Tsengdar Lee (NASA)
 * Ben Evans (NCI)
 * Annarita Mariotti (NOAA)
-* ESGF Executive Committee Membership
 
 ---
 
 #### ESGF Executive Committee Membership
 
-* Dean N. Williams (Chair, DOE)
+* Ghaleb Abdulla (Chair, DOE)
 * Michael Lautenschlager (Chair, DKRZ)
-* Ghaleb Abdulla (DOE)
-* Sebastien Denvil (IPSL)
-* Luca Cinquini (NASA/NOAA)
-* Robert Ferraro (NASA)
-* Laura Carriere (NASA)
-* V. Balaji (NOAA)
-* Ben Evans (NCI)
-* Tom Landry (CRIM)
-* Philip Kershaw (CEDA)
 * Sasha Ames (DOE)
+* V. Balaji (NOAA)
+* Laura Carriere (NASA)
+* Ben Evans (NCI)
+* Robert Ferraro (NASA)
+* Philip Kershaw (CEDA)
+* Stephan Kindermann (DKRZ)
+* Tom Landry (CRIM)
+* Guillaume Levavasseur (IPSL)
