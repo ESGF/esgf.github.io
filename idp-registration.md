@@ -62,7 +62,7 @@ This document will detail the procedure for the following use-cases:
 
 ## Setting up access to a Keycloak server’s REST API
 
-*This section assumes you have access to a **Keycloak** server with an accessible **realm** (see **Installing Keycloak**)*
+*This section assumes you have access to a **Keycloak** server with an accessible **realm***
 
 Before being able to use the API for a Keycloak installation, some setup must be performed by an administrator of that server.
 
@@ -111,7 +111,7 @@ In this use case, the **Local IDP** is acting as an *Identity Provider* and the 
 
 The first step is to establish access to the *Keycloak API*:
 
-1. Fetch a *Bearer Token* from the *Local IDP* for the relevant *Realm*. (see ***Setting up access to a Keycloak IDP’s REST API***)
+1. Fetch a *Bearer Token* from the *Local IDP* for the relevant *Realm*. (see [Setting up access to a Keycloak IDP’s REST API](#setting-up-access-to-a-keycloak-servers-rest-api))
 
 Now the *Keycloak API* for the *Local IDP*'s `<realm-name>` can be queried:
 
@@ -174,7 +174,7 @@ Now the *Keycloak API* for the *Local IDP*'s `<realm-name>` can be queried:
 
 Now that the *Client* details have been retrieved, the last stage is to set up the new IDP in Keycloak based on the acquired credentials. This will require querying the *IDP Proxy's* *Keycloak API*.
 
-5. Fetch a *Bearer Token* from the *IDP Proxy* for the relevant *Realm*. (see ***Setting up access to a Keycloak IDP’s REST API***)
+5. Fetch a *Bearer Token* from the *IDP Proxy* for the relevant *Realm*. (see [Setting up access to a Keycloak IDP’s REST API](#setting-up-access-to-a-keycloak-servers-rest-api))
 
 6. Create a new Keycloak Identity Provider on `<idp-proxy-realm-name>` with the `<client-name>` and `<client-secret>`:
 
