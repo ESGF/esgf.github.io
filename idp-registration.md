@@ -21,7 +21,7 @@ The diagram below shows the various components in this architecture. The connect
 - **Local IDP:**
   This is a Keycloak server installed on a node at an ESGF site and acting as an Identity Provider. It would be appropriately branded and provide login and registration for users at that site.
 - **IDP Proxy:**
-  This is a Keycloak server acting as the central identity management service for ESGF. While it facilitates login for ESGF users, it does not allow registration. Instead, acts as a proxy to Local IDPs (hence "IDP Proxy") which provide it with user identities. This gives it access to all users in the federation, allowing it to be the Identity Provider for all ESGF applications.
+  This is a Keycloak server acting as the central identity management service for ESGF. While it facilitates login for ESGF users, it does not allow registration. Instead acting as proxy to multiple Local IDPs (hence "IDP Proxy") which provide it with user identities. This gives it access to all users in the federation, allowing it to be the Identity Provider for all ESGF applications.
 - **Commercial IDP:**
   An Identity Provider not managed by ESGF but which could be hooked up to the IDP Proxy to provide additional login options for "homeless" users. e.g. GitHub, Google Plus, etc.
 - **ESGF Application:**
@@ -43,7 +43,7 @@ The diagram below shows the various components in this architecture. The connect
 
 ## Use cases
 
-This document will detail that procedure for the following use-cases:
+This document will detail the procedure for the following use-cases:
 
 1. Registering the ESGF IDP Proxy with an organisation’s Local IDP
 
@@ -325,6 +325,6 @@ Now the *Keycloak API* for the **IDP Proxy**'s `<realm-name>` can be queried:
 
 This completes the registration of the ESGF Application's client. Next, the application must be configured to use the **IDP Proxy** as an *Identity Provider*. This configuration will look different depending on what kind of OIDC support you are using.
 
-In the following steps, we will assume that we are configuring a Django web application using the `mozilla-django-oidc` authentication backen. Since this configuration requires direct access to the web application's deployment, it can obviously only be done by someone with privileges access to the deployment (i.e. the *RP Administrator*).
+As an example, we will assume that we are configuring a Django web application using the `mozilla-django-oidc` authentication backen. Since this configuration requires direct access to the web application's deployment, it can obviously only be done by someone with privileges access to the deployment (i.e. the *RP Administrator*).
 
-5. 
+The steps for this are detailed in the _mozilla-django-oidc documentation_.
