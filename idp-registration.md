@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This guide details the process for bootstrapping different layers of the ESGf identity management infrastructure. Specifically, the registration of client applications (*Relying Parties*) with identity management services (*Identity Providers*). We are using OpenID Connect on top of the OAuth 2 protocol to facilitate the sharing of identities between applications.
+This guide details the process for bootstrapping different layers of the ESGf identity management infrastructure. Specifically, the registration of client applications (*Relying Parties*) with identity management services (*Identity Providers*). We are using [OpenID Connect](https://openid.net/connect/) on top of the OAuth 2 protocol to facilitate the sharing of identities between applications.
 
-Keycloak, an open source and highly customisable identity management server, can act as both *Relying Party* and an *Identity Provider*. This is the technology we are using for the main components of the identity management system, the **IDP Proxy** and the organisation-specific **Local IDP** servers.
+[Keycloak](https://www.keycloak.org/documentation), an open source and highly customisable identity management server, can act as both *Relying Party* and an *Identity Provider*. This is the technology we are using for the main components of the identity management system, the **IDP Proxy** and the organisation-specific **Local IDP** servers.
 
 The diagram below shows the various components in this architecture. The connections between components are our use-cases:
 
@@ -327,4 +327,4 @@ This completes the registration of the ESGF Application's client. Next, the appl
 
 As an example, we will assume that we are configuring a Django web application using the `mozilla-django-oidc` authentication backen. Since this configuration requires direct access to the web application's deployment, it can obviously only be done by someone with privileges access to the deployment (i.e. the *RP Administrator*).
 
-The steps for this are detailed in the _mozilla-django-oidc documentation_.
+The steps for this are detailed in the [mozilla-django-oidc documentation](https://mozilla-django-oidc.readthedocs.io/en/stable/installation.html).
