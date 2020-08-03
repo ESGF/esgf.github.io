@@ -5,7 +5,7 @@ title: Reports
 
 ## Reports
 
-* <a href="{{site.esgf-media}}/pdf/IM-1019796-3.pdf" target="_blank">ESGF Future Architecture Report</a>
+* <a href="{{site.esgf-media}}/pdf/ESGF_Future_Architecture_Report.pdf" target="_blank">ESGF Future Architecture Report</a>
 * <a href="{{site.esgf-media}}/pdf/2019-ESGF-Progress-Report.pdf" target="_blank">2019 ESGF Progress Report</a>
 * <a href="{{site.esgf-media}}/pdf/2018_8th_Annual_ESGF_Conference_Report_final.pdf" target="_blank">2018 ESGF F2F Conference Report</a>
 * <a href="{{site.esgf-media}}/pdf/2017_7th_Annual_ESGF_Conference_Report_12.11.18.pdf" target="_blank">2017 ESGF F2F Conference Report</a>
