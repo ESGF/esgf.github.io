@@ -17,7 +17,7 @@ The diagram below shows the various components in this architecture. The connect
 - **Identity Provider (IDP)**
   This is a trusted source of authority on user identity which communicates with a Relying Party using the OAuth 2.0 protocol.
 - **Keycloak:**
-  Keycloak is an identity management server written in Java. Its documentation can be found **here**.
+  Keycloak is an identity management server written in Java. Its documentation can be found [here](https://www.keycloak.org/documentation).
 - **Local IDP:**
   This is a Keycloak server installed on a node at an ESGF site and acting as an Identity Provider. It would be appropriately branded and provide login and registration for users at that site.
 - **IDP Proxy:**
