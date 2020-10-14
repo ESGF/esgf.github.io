@@ -3,3 +3,4 @@
 *.swo
 _site
 .idea/
+.jekyll-cache
