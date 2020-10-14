@@ -20,11 +20,7 @@ periodic assessments carried out by the IPCC.
 Using a system of geographically distributed peer nodes&mdash;independently
 administered yet united by common protocols and interfaces&mdash;the ESGF
 community holds the premier collection of simulations and observational and
-reanalysis data for climate change research. ESGF is in the early stages of
-being adapted for use in two additional domains: biology (to accelerate drug
-design and development) and energy (infrastructure for California Energy
-Systems for the 21st Century).
-
+reanalysis data for climate change research. 
 ---
 
 <center>
