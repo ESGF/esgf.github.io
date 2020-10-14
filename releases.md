@@ -6,6 +6,10 @@ title: Releases
 
 ### ESGF Release Notes
 
+#### Compute Release Announcement
+
+* [ESGF Compute Release Announcement]({{site.url}}/esgf-compute-announcement.html)
+
 #### Versions 4.0.1 and later
 
 * [ESGF Ansible Releases](https://esgf.github.io/esgf-ansible/whatsnew/whatsnew.html)
