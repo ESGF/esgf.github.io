@@ -5,6 +5,15 @@ title: Conferences
 
 ## Conferences
 
+### 2020
+
+* <a href="{{site.url}}/2020-F2F.html" target="_blank">ESGF Conference (Cancelled)</a>
+  - This conference was cancelled due to the COVID-19 pandemic.
+
+### 2019
+
+* <a href="{{site.url}}/2019-Future-Arch-Workshop.html" target="_blank">ESGF Future Architecture Workshop</a>
+
 ### 2018
 
 * <a href="{{site.url}}/2018-F2F.html" target="_blank">ESGF Conference</a>
