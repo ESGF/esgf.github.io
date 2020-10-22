@@ -28,6 +28,10 @@ Other Mailing lists for developer Working Groups
    
 ----    
 
+### Other Forms of Contact
+
+The ESGF community has Slack and a workspace in Atlassian Confluence.  Please contact us if you need access.
+
 ### Standards
 
 * **NO TABS**; instead use 4 spaces
