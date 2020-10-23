@@ -16,8 +16,8 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 * Getting help:
     * <https://esgf.github.io/esgf-user-support/faq.html#how-to-contact-us>
 
-### ESGF Software stack: for the node administrator
-#### *ESGF data and index/identity node*
+### ESGF Software Stack: for the Node Administrator
+#### *ESGF Data and Index/Identity Node*
 * **Description:**
     * The ESGF Data Node software stack enables sites hosting earth system data to make it available to the community over several transfer protocols including http(s).  Index nodes enable search for hosted data via data publishing to the index, and these nodes include a search API and web frontend.  Identity nodes manage user accounts.  All these services together consitute a "Full" ESGF installation.  These nodes are installed using the popular Ansible automation platform using our esgf-ansible collection of playbooks.
 * **Use case:**
@@ -52,8 +52,8 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
         * <https://github.com/ESGF/esgf-docker/issues>
 
 #### *User Interface (CoG) Frontend*
-* **Site documentation**
-    * [COG Admin and Developers Guide](https://esgf.github.io/COG)
+* See the CoG README for instructions to access the Admin and Developers Guide:
+   * https://github.com/earthsystemcog/COG
 
 ### ESGF data publisher
 #### *ESG publisher (esg-publisher)*
@@ -79,7 +79,7 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 * **Publication working team mailing list:**
     * <esgf-pwt@llnl.gov>
 
-**For data preparation**, our collaborators at IPSL provide the [Pre-publication Tools](https://esgf.github.io/esgf-prepare) for a number of ongoing ESGF data projects.  
+**For Data Preparation**, our collaborators at IPSL provide the [Pre-publication Tools](https://esgf.github.io/esgf-prepare) for a number of ongoing ESGF data projects.  
 
 ### Data Analysis tools
 #### *Community Data Analysis Tools (CDAT)*
