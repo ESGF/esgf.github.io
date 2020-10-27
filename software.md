@@ -16,22 +16,23 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 * Getting help:
     * <https://esgf.github.io/esgf-user-support/faq.html#how-to-contact-us>
 
-### ESGF Software stack
-#### *ESGF data and index/identity node*
+### ESGF Software Stack: for the Node Administrator
+#### *ESGF Data and Index/Identity Node*
 * **Description:**
-    * The ESGF Data Node software stack enables sites hosting earth system data to make it available to the community over several transfer protocols including http(s).  Index nodes enable search for hosted data via data publishing to the index, and they include a search API and web frontend.  Identity nodes manage user accounts.  These nodes are installed using the popular Ansible automation platform using our esgf-ansible collection of playbooks.
+    * The ESGF Data Node software stack enables sites hosting earth system data to make it available to the community over several transfer protocols including http(s).  Index nodes enable search for hosted data via data publishing to the index, and these nodes include a search API and web frontend.  Identity nodes manage user accounts.  All these services together consitute a "Full" ESGF installation.  These nodes are installed using the popular Ansible automation platform using our esgf-ansible collection of playbooks.
 * **Use case:**
     * I want to install a data and/or index/IdP node software stack using the current architecture
     * I want to upgrade my existing node software stack to the latest supported service versions
-        * Requirements, Setup and Usage documentation
-        * <https://esgf.github.io/esgf-ansible/intro/intro.html>
 * **New and returning installations:**
     * Regardless of whether you have installed and administered an ESGF node previously, please read the following document on ESGF policies, as this should influence what type of installation you should do:
         * <http://esgf.llnl.gov/media/pdf/ESGF-Policies-and-Guidelines-V1.0.pdf>
         * <https://esgf.llnl.gov/esgf-media/pdf/ESGF-Tier1and2-NodeSiteRequirements-V5.pdf>
             * describes suggested requirements under “Tier 2 sites” section.
+* Requirements, Setup and Usage documentation
+        * <https://esgf.github.io/esgf-ansible/intro/intro.html>
 * **Basic Prerequisite:**
     * The ESGF software stack requires Linux RedHat Enterprise or Centos 7 distributions and administrators have full sudo privileges to root access
+    * The services are meant to run on webserver-grade hardware.  For data nodes, storage holding your data to share must be mounted on the node.
     * See the main documentation site for more information
 * **Source repository on github**
     * [ESGF Ansible playbooks source repository](https://github.com/ESGF/esgf-ansible)
@@ -51,8 +52,8 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
         * <https://github.com/ESGF/esgf-docker/issues>
 
 #### *User Interface (CoG) Frontend*
-* **Site documentation**
-    * [COG Admin and Developers Guide](https://esgf.github.io/COG)
+* See the CoG README for instructions to access the Admin and Developers Guide:
+   * https://github.com/earthsystemcog/COG
 
 ### ESGF data publisher
 #### *ESG publisher (esg-publisher)*
@@ -69,15 +70,16 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
     * Publishers to ESGF must have an existing Data Node installed at their site.  
 * **Installation: (Python3 recommended)**
     * <https://github.com/ESGF/esg-publisher/tree/python3> 
-* **Next generation publisher: (Alpha version)**
+* **Next generation publisher: (v5 Alpha version)**
     * This version is compatible with the current and next-generation ESGF Archtectures 
     * <https://esg-publisher.readthedocs.io/en/gen-five-pkg/>
+    * The Next-gen (v5) Publisher can be run external to the Data Node, but the data to be published must be locally accessible on your linux file system.
 * **Issues:**
     * <https://github.com/ESGF/esg-publisher/issues>
 * **Publication working team mailing list:**
     * <esgf-pwt@llnl.gov>
 
-**For data preparation**, our collaborators at IPSL provide the [Pre-publication Tools](https://esgf.github.io/esgf-prepare) for a number of ongoing ESGF data projects.  
+**For Data Preparation**, our collaborators at IPSL provide the [Pre-publication Tools](https://esgf.github.io/esgf-prepare) for a number of ongoing ESGF data projects.  
 
 ### Data Analysis tools
 #### *Community Data Analysis Tools (CDAT)*
