@@ -5,6 +5,10 @@ title: Publications
 
 ## Publications, Reports and Software
 
+### 2021
+
+Petrie, R., Denvil, S., Ames, S., Levavasseur, G., Fiore, S., Allen, C., Antonio, F., Berger, K., Bretonnière, P.-A., Cinquini, L., Dart, E., Dwarakanath, P., Druken, K., Evans, B., Franchistéguy, L., Gardoll, S., Gerbier, E., Greenslade, M., Hassell, D., Iwi, A., Juckes, M., Kindermann, S., Lacinski, L., Mirto, M., Nasser, A. B., Nassisi, P., Nienhouse, E., Nikonov, S., Nuzzo, A., Richards, C., Ridzwan, S., Rixen, M., Serradell, K., Snow, K., Stephens, A., Stockhause, M., Vahlenkamp, H., and Wagner, R.: Coordinating an operational data distribution network for CMIP6 data, Geosci. Model Dev., 14, 629–644, [https://doi.org/10.5194/gmd-14-629-2021], 2021.
+
 ### 2017
 
 Charles Doutriaux; Thomas Maxwell; Aashish Chaudhary; Paul J. Durack; Sankhesh Jhaveri; David Lonie; Sam Fries; Dan Lipsa; Chris Harris; David E DeMarle; Remi Rampin; Denis Nadeau; Charles Doutriaux; James McEnerney; Jonathan Beezley; Harinarayan Krishnan; Jeffrey Painter; Brad King; Ben Burnett; Andrew Bauer; Huy T. Vo; Dean N. Williams; Zach Mullen; Bryce Sampson; Arulalan T.; Edward Brown; Boonthanome Nouanesengsy; Jonathas Costa. Ultrascale Visualization Climate Data Analysis Tools (UV-CDAT), release version 2.10.0, May 11, 2017, DOI: 10.5281/zenodo.574661.
