@@ -72,7 +72,7 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
     * <https://github.com/ESGF/esg-publisher/tree/python3> 
 * **Next generation publisher: (v5 Alpha version)**
     * This version is compatible with the current and next-generation ESGF Archtectures 
-    * <https://esg-publisher.readthedocs.io/en/gen-five-pkg/>
+    * <https://esg-publisher.readthedocs.io/en/refactor/>
     * The Next-gen (v5) Publisher can be run external to the Data Node, but the data to be published must be locally accessible on your linux file system.
 * **Issues:**
     * <https://github.com/ESGF/esg-publisher/issues>
@@ -81,33 +81,6 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 
 **For Data Preparation**, our collaborators at IPSL provide the [Pre-publication Tools](https://esgf.github.io/esgf-prepare) for a number of ongoing ESGF data projects.  
 
-### Data Analysis tools
-#### *Community Data Analysis Tools (CDAT)*
-* **Description:** CDAT is a powerful and complete front-end to a rich set of visual-data exploration and analysis capabilities well suited for data analysis problems.
-* **Use Cases:**
-    * I want to perform data analysis of multi-dimensional gridded climate and simulation data
-    * I want to visualize data through graphical plots of gridded data
-* **Main Page:** <https://github.com/CDAT/cdat/wiki>
-* **Installation:** <https://github.com/CDAT/cdat/wiki/install>
-* **Documentation:**
-    * Getting started: <https://cdat.llnl.gov/getting_started.html> 
-    * Notebook Tutorials: <https://cdat.llnl.gov/tutorials.html> 
-* **Support**
-    * Contact: <https://cdat.llnl.gov/contact.html> 
-    * Github Issues: <https://github.com/CDAT/cdat/issues>
-
-#### *Visual Community Data Analysis Tools (VCDAT)*
-* **Description:** VCDAT is a [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) extension that provides a graphical user interface to CDAT. Specifically, it allows users to load, manipulate and plot large data sets within [Jupyter Notebooks](https://jupyter.org/) through the tools and libraries provided by CDAT. 
-* **Use Cases:**
-    * I want to run CDAT analysis and visualization within an interactive JupyterLab environment
-    * I want to perform common CDAT analysis and visualization tasks through a user interface
-* **Main Page:** <https://github.com/CDAT/jupyter-vcdat/wiki>
-* **Installation:** <https://github.com/CDAT/jupyter-vcdat/wiki/Deploy>
-* **Documentation**
-    * Getting Started: <https://github.com/CDAT/jupyter-vcdat/wiki/Getting-Started>
-    * FAQ: <https://github.com/CDAT/jupyter-vcdat/wiki/FAQ>
-* **Support:**
-    * Github Issues: <https://github.com/CDAT/jupyter-vcdat/issues> 
 
 #### *ESGF Compute end-user API (esgf-compute-api)*
 * **Description:** The esgf-compute-api is python package design to interact with the ESGF Compute Node’s Web Processing Service (ECN WPS). It provides access to primitive operations (subset, min, max, etc) that will be execute using remote resources.
