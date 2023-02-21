@@ -8,6 +8,7 @@ title: Software
 The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaboration that develops, deploys and maintains software infrastructure for the management, dissemination, and analysis of model output and observational data. Below are the different data access interfaces and software tools. You can install and configure all the tools or a subset depending on your needs. 
 
 ### Search data
+* Metagrid Beta Release (Web UI): <https://aims2.llnl.gov/>
 * LLNL Data site (CoG Web UI): <https://esgf-node.llnl.gov/projects/esgf-llnl/>
 * [ESGF User Guide and FAQ](https://esgf.github.io/esgf-user-support)
     * Includes information on operation of the CoG frontend, wget script and Globus downloads
@@ -51,7 +52,17 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
      * **Issues:**
         * <https://github.com/ESGF/esgf-docker/issues>
 
-#### *User Interface (CoG) Frontend*
+#### Metagrid User Interface
+
+* **Description**
+    * **Metagrid** is the upcoming Web UI release that will replace the *legacy* CoG UI
+* **Use case((
+    * I want to install my own Metagrid deployment
+* Documentation site:  <https://metagrid.readthedocs.io/en/latest/>
+* Git Repo: <https://github.com/aims-group/metagrid>
+))
+
+#### Deprecated *User Interface (CoG) Frontend*  
 * See the CoG README for instructions to access the Admin and Developers Guide:
    * https://github.com/earthsystemcog/COG
 
@@ -68,11 +79,9 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
     * <http://esgf.github.io/esg-publisher/>
 * **Prerequisite:**
     * Publishers to ESGF must have an existing Data Node installed at their site.  
-* **Installation: (Python3 recommended)**
-    * <https://github.com/ESGF/esg-publisher/tree/python3> 
 * **Next generation publisher: (v5 Alpha version)**
     * This version is compatible with the current and next-generation ESGF Archtectures 
-    * <https://esg-publisher.readthedocs.io/en/gen-five-pkg/>
+    * <https://esg-publisher.readthedocs.io/>
     * The Next-gen (v5) Publisher can be run external to the Data Node, but the data to be published must be locally accessible on your linux file system.
 * **Issues:**
     * <https://github.com/ESGF/esg-publisher/issues>
@@ -95,19 +104,6 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 * **Support**
     * Contact: <https://cdat.llnl.gov/contact.html> 
     * Github Issues: <https://github.com/CDAT/cdat/issues>
-
-#### *Visual Community Data Analysis Tools (VCDAT)*
-* **Description:** VCDAT is a [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) extension that provides a graphical user interface to CDAT. Specifically, it allows users to load, manipulate and plot large data sets within [Jupyter Notebooks](https://jupyter.org/) through the tools and libraries provided by CDAT. 
-* **Use Cases:**
-    * I want to run CDAT analysis and visualization within an interactive JupyterLab environment
-    * I want to perform common CDAT analysis and visualization tasks through a user interface
-* **Main Page:** <https://github.com/CDAT/jupyter-vcdat/wiki>
-* **Installation:** <https://github.com/CDAT/jupyter-vcdat/wiki/Deploy>
-* **Documentation**
-    * Getting Started: <https://github.com/CDAT/jupyter-vcdat/wiki/Getting-Started>
-    * FAQ: <https://github.com/CDAT/jupyter-vcdat/wiki/FAQ>
-* **Support:**
-    * Github Issues: <https://github.com/CDAT/jupyter-vcdat/issues> 
 
 #### *ESGF Compute end-user API (esgf-compute-api)*
 * **Description:** The esgf-compute-api is python package design to interact with the ESGF Compute Node’s Web Processing Service (ECN WPS). It provides access to primitive operations (subset, min, max, etc) that will be execute using remote resources.
