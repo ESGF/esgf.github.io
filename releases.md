@@ -8,7 +8,7 @@ title: Releases
 
 #### Metagrid Beta
 
-* [Metagrid Beta Test Site](https://aims2.llnlg.gov/)
+* [Metagrid Beta Test Site](https://aims2.llnl.gov/)
 
 #### Compute Release Announcement
 
