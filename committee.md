@@ -10,20 +10,21 @@ title: Committees
 * Sylvie Joussaume (IS-ENES)
 * Tsengdar Lee (NASA)
 * Ben Evans (NCI)
-* Annarita Mariotti (NOAA)
+* Vacant (NOAA)
+* Forrest Hoffman (ex-officio, DOE)
+* Philip Kershaw (ex-officio, CEDA)
 
 ---
 
 #### ESGF Executive Committee Membership
 
-* Ghaleb Abdulla (Chair, DOE)
-* Michael Lautenschlager (Chair, DKRZ)
+* Forrest Hoffman (Chair, DOE)
+* Philip Kershaw (Chair, CEDA)
 * Sasha Ames (DOE)
-* V. Balaji (NOAA)
+* Rachana Ananthakrishnan (UChicago)
 * Laura Carriere (NASA)
 * Ben Evans (NCI)
-* Robert Ferraro (NASA)
-* Philip Kershaw (CEDA)
 * Stephan Kindermann (DKRZ)
-* Tom Landry (CRIM)
-* Guillaume Levavasseur (IPSL)
+* Christian Pagé (CERFACS)
+* Aparna Radhakrishanan (NOAA)
+
