@@ -48,19 +48,19 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 * **Use case**
     * I want to test install the next-generation architecture 
 * **Main page: includes installation instructions**
-        * <https://github.com/ESGF/esgf-docker/tree/future-architecture/>
-     * **Issues:**
-        * <https://github.com/ESGF/esgf-docker/issues>
+    * <https://github.com/ESGF/esgf-docker/tree/future-architecture/>
+* **Issues:**
+    * <https://github.com/ESGF/esgf-docker/issues>
 
 #### Metagrid User Interface
 
 * **Description**
     * **Metagrid** is the upcoming Web UI release that will replace the *legacy* CoG UI
-* **Use case((
+* **Use case**
     * I want to install my own Metagrid deployment
 * Documentation site:  <https://metagrid.readthedocs.io/en/latest/>
 * Git Repo: <https://github.com/aims-group/metagrid>
-))
+
 
 #### Deprecated *User Interface (CoG) Frontend*  
 * See the CoG README for instructions to access the Admin and Developers Guide:
