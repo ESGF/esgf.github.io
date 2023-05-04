@@ -70,32 +70,5 @@ Meetings may occur via telecom, e-mail, or face-to-face.  The XC will hold regul
 
 The SC and the XC may invite guests to attend meetings and participate in other relevant ways, but guests do not have voting privileges. Participating guests may, for example, testify as to needed capabilities, provide expert technical advice, present proposals, or contribute to the code base.
 
-### Addendum 1: ESGF Steering Committee Membership:
-
-* Members:
-  * Sponsor representatives:
-  * Justin Hnilo (Chair, DOE)
-  * Sylvie Joussaume (IS-ENES)
-  * Tsengdar Lee (NASA)
-  * Ben Evans (NCI)
-  * Annarita Mariotti (NOAA)
-* Ex-officio member:
-	* Executive Committee Chair, Dean N. Williams (DOE)
-
-### Addendum 2: ESGF Executive Committee Membership
-
-* Members:
-  * Dean N. Williams (Chair, DOE)
-  * Michael Lautenschlager (Co-Chair, DKRZ)
-  * Sebastien Denvil (IPSL)
-  * Martin Juckes (STFC)
-  * Luca Cinquini (NASA/NOAA)
-  * Robert Ferraro (NASA)
-  * Daniel Duffy (NASA)
-  * Cecilia DeLuca (NOAA)
-  * V. Balaji (NOAA)
-  * Ben Evans (NCI)
-  * Claire Trenham (NCI)
-
 
 [download]({{site.esgf-media}}/pdf/ESGF_Governance_6_4_2015.pdf)
