@@ -6,13 +6,14 @@ title: Committees
 #### ESGF Steering Committee Membership:
 
 * Sponsor representatives:
-* Justin Hnilo (Chair, DOE)
-* Sylvie Joussaume (IS-ENES)
-* Tsengdar Lee (NASA)
-* Ben Evans (NCI)
-* Adrienne Simonson (NOAA)
-* Forrest Hoffman (ex-officio, DOE)
-* Philip Kershaw (ex-officio, CEDA)
+  * Justin Hnilo (Chair, DOE)
+  * Sylvie Joussaume (IS-ENES)
+  * Tsengdar Lee (NASA)
+  * Ben Evans (NCI)
+  * Adrienne Simonson (NOAA)
+* XC Co-chairs:
+  * Forrest Hoffman (ex-officio, DOE)
+  * Philip Kershaw (ex-officio, CEDA)
 
 ---
 
