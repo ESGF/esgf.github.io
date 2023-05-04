@@ -75,7 +75,7 @@ ESGF as the global climate data infrastructure is supported by:
 <div class="span12">
     <div class="row">
         <div class="span3">
-            <a target="_blank" href="http://enes.org">
+            <a target="_blank" href="https://is.enes.org">
                 <h4 class="muted">IS-ENES</h4>
                 <img src="media/images/IS-ENES2.png" class="thumbnail">
             </a>
