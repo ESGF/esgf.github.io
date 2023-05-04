@@ -71,4 +71,4 @@ Meetings may occur via telecom, e-mail, or face-to-face.  The XC will hold regul
 The SC and the XC may invite guests to attend meetings and participate in other relevant ways, but guests do not have voting privileges. Participating guests may, for example, testify as to needed capabilities, provide expert technical advice, present proposals, or contribute to the code base.
 
 
-[download]({{site.esgf-media}}/pdf/ESGF_Governance_6_4_2015.pdf)
+[download]({{site.esgf-media}}/pdf/ESGF_Governance_5_11_2017.pdf)
