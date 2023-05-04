@@ -10,7 +10,7 @@ title: Committees
 * Sylvie Joussaume (IS-ENES)
 * Tsengdar Lee (NASA)
 * Ben Evans (NCI)
-* Vacant (NOAA)
+* Adrienne Simonson (NOAA)
 * Forrest Hoffman (ex-officio, DOE)
 * Philip Kershaw (ex-officio, CEDA)
 
