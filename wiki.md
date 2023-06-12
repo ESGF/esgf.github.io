@@ -23,7 +23,8 @@ Wikis issues page
  </li>
          <li><a href="https://esgf.github.io/COG">COG Admin and Developers Guide</a>
  </li>
-
+        <li><a href="https://esgf.github.io/esgf-cwt">Compute and Processing</a>
+ </li>
 
 </ul>
       </div>           
@@ -38,7 +39,7 @@ Wikis issues page
        <h4>Issues</h4>
         <ul>
         <li><a href="https://github.com/ESGF/esgf-ansible/issues">esgf-ansible</a></li>
-        <li><a href="https://github.com/ESGF/compute/issues">compute</a></li>
+        <li><a href="https://github.com/ESGF/esgf-cwt/issues">compute</a></li>
         <li><a href="https://github.com/ESGF/esg-orp/issues">esg-orp</a></li>
         <li><a href="https://github.com/ESGF/esg-publisher/issues">esg-publisher</a></li>
         <li><a href="https://github.com/ESGF/esg-search/issues">esg-search</a></li>
@@ -55,8 +56,8 @@ Wikis issues page
       <div class="span3">
         <h4>GitHub</h4>
         <ul>
-        <li><a href="https://github.com/esgf">Organization</a></li>
-        <li><a href="https://github.com/ESGF-compute">Compute organization</a></li>
+        <li><a href="https://github.com/ESGF">ESGF Organization</a></li>
+        <li><a href="https://github.com/ESGF/esgf-cwt">esgf-cwt</a></li>
         <li><a href="https://github.com/ESGF/esgf-ansible">esgf-ansible</a></li>
         <li><a href="https://github.com/ESGF/esg-orp">esg-orp</a></li>
         <li><a href="https://github.com/ESGF/esg-publisher">esg-publisher</a></li>
