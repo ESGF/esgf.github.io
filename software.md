@@ -107,24 +107,23 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 
 #### *ESGF Compute*
 * **Description:**  
-    * The ESGF Compute Node software stack (known as `roocs`) enables sites hosting earth system data to deploy 
-
-
-!!! GOT HERE !!!
-    * 
-    *  These nodes are installed using the popular Ansible automation platform using our esgf-ansible collection of playbooks.
-
+    * The ESGF Compute Node software stack (known as `roocs`) enables sites hosting earth system data to deploy a _compute_ service next to the data.
+    * The Compute Node is built on the OGC Web Processing Service standard to describe a common interface for specifying _remote processsing_.
+    * The Node includes a complete backend stack which can be installed on a single or cluster of servers, deployed through an Ansible Playbook.
+    * The primary aim of the Node is to enable server-side processing to reduce the global network traffic of ESGF data and enable greater access to these essential scientific data.
 * **Use Cases**
     * I want to retrieve a subset of the data.
     * I want to execute compute operations on data using remote resources.
 * **Main Page:**
-    * <https://github.com/ESGF/esgf-compute-api> 
+    * <https://github.com/ESGF/esgf-cwt> 
 * **Installation:** 
-    * <https://github.com/ESGF/esgf-compute-api#installation>
+    * <https://github.com/ESGF/esgf-cwt> (in preparation)
 * **Documentation:** 
-    * Example Jupyter Notebooks: [Jupyter Notebooks](https://github.com/ESGF/esgf-compute-api/tree/devel/examples)
+    * [`roocs` documentation](https://roocs.github.io/)
+    * [`rooki` python client](https://rooki.readthedocs.io/en/latest/)
+    * [Example Jupyter Notebooks](https://rooki.readthedocs.io/en/latest/notebooks/index.html)
 * **Support:**
-    * Github Issues: <https://github.com/ESGF/esgf-compute-api/issues>
+    * Github Issues: <https://github.com/ESGF/esgf-cwt/issues>
 
 ### Misc software and documentation
 #### *CMIP6 administrators and publishers*
