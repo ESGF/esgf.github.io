@@ -90,6 +90,26 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 
 **For Data Preparation**, our collaborators at IPSL provide the [Pre-publication Tools](https://esgf.github.io/esgf-prepare) for a number of ongoing ESGF data projects.  
 
+### ESGF Compute
+* **Description:**  
+    * The ESGF Compute Node software stack (known as `roocs`) enables sites hosting earth system data to deploy a _compute_ service next to the data.
+    * The Compute Node is built on the OGC Web Processing Service standard to describe a common interface for specifying _remote processsing_.
+    * The Node includes a complete backend stack which can be installed on a single or cluster of servers, deployed through an Ansible Playbook.
+    * The primary aim of the Node is to enable server-side processing to reduce the global network traffic of ESGF data and enable greater access to these essential scientific data.
+* **Use Cases**
+    * I want to retrieve a subset of the data.
+    * I want to execute compute operations on data using remote resources.
+* **Main Page:**
+    * <https://github.com/ESGF/esgf-cwt> 
+* **Installation:** 
+    * <https://github.com/ESGF/esgf-cwt> (in preparation)
+* **Documentation:** 
+    * [`roocs` documentation](https://roocs.github.io/)
+    * [`rooki` python client](https://rooki.readthedocs.io/en/latest/)
+    * [Example Jupyter Notebooks](https://rooki.readthedocs.io/en/latest/notebooks/index.html)
+* **Support:**
+    * Github Issues: <https://github.com/ESGF/esgf-cwt/issues>
+
 ### Data Analysis tools
 #### *Community Data Analysis Tools (CDAT)*
 * **Description:** CDAT is a powerful and complete front-end to a rich set of visual-data exploration and analysis capabilities well suited for data analysis problems.
@@ -104,33 +124,6 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 * **Support**
     * Contact: <https://cdat.llnl.gov/contact.html> 
     * Github Issues: <https://github.com/CDAT/cdat/issues>
-
-#### *ESGF Compute end-user API (esgf-compute-api)*
-* **Description:** The esgf-compute-api is python package design to interact with the ESGF Compute Node’s Web Processing Service (ECN WPS). It provides access to primitive operations (subset, min, max, etc) that will be execute using remote resources.
-* **Use Cases**
-    * I want to retrieve a subset of the data.
-    * I want to execute compute operations on data using remote resources.
-* **Main Page:**
-    * <https://github.com/ESGF/esgf-compute-api> 
-* **Installation:** 
-    * <https://github.com/ESGF/esgf-compute-api#installation>
-* **Documentation:** 
-    * Example Jupyter Notebooks: [Jupyter Notebooks](https://github.com/ESGF/esgf-compute-api/tree/devel/examples)
-* **Support:**
-    * Github Issues: <https://github.com/ESGF/esgf-compute-api/issues>
-
-#### *ESGF Compute Node Web Processing Service (ECN WPS)*
-* **Description:** The ECN WPS is a scalable compute service. The service is exposed to users through a WPS interface. The compute backend is Xarray based and scales on a Kubernetes cluster.
-* **Use Cases:**
-    * I want to host a compute service near data.
-* **Main Page:** 
-    * <https://github.com/ESGF/esgf-compute-wps> 
-* **Installation:** 
-    * <https://github.com/esgf-compute/charts#installing-the-chart> 
-* **Documentation:** 
-    * <https://github.com/ESGF/esgf-compute-wps/blob/devel/README.md> 
-* **Support:**
-    * Github Issues: <https://github.com/ESGF/esgf-compute-wps/issues>
 
 ### Misc software and documentation
 #### *CMIP6 administrators and publishers*

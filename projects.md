@@ -107,6 +107,21 @@ package contains functionality for:
 
 ---
 
+### Compute
+
+##### [Source][ESGF/esgf-cwt], [Issues][ESGF/esgf-cwt/issues]
+
+<img src="{{site.url}}/media/images/compute.png" class="project-icon">
+
+* The ESGF Compute Node is a common installation like the Data Node
+* Deployed through recipes to enable server-side processing as an alternative to file download
+* Built upon OGC Web Processing Service (WPS) for standards-compliance and interoperability
+* Leveraging work from international activities to deliver robust subsetting and more advanced processing capabilities
+* Scalable deployment on a range of architectures
+* Reliant on large unit test coverage to support maintainability and product-readiness
+  
+---
+
 [ESGF/esgf-idp]:                  https://github.com/ESGF/esgf-idp
 [ESGF/esgf-idp/issues]:           https://github.com/ESGF/esgf-idp/issues
 [ESGF/esgf-idp/wiki]:             https://github.com/ESGF/esgf-idp/wiki
@@ -127,4 +142,7 @@ package contains functionality for:
 [ESGF/esgf-security]:             https://github.com/ESGF/esgf-security
 [ESGF/esgf-security/issues]:      https://github.com/ESGF/esgf-security/issues
 [ESGF/esgf-security/wiki]:        https://github.com/ESGF/esgf-security/wiki
+
+[ESGF/esgf-cwt]:                  https://github.com/ESGF/esgf-cwt
+[ESGF/esgf-cwt/issues]:           https://github.com/ESGF/esgf-cwt/issues
 
