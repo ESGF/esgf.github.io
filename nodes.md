@@ -5,7 +5,7 @@ title: Nodes
 
 ## Federated ESGF Nodes
 
-Note: nodes run the CoG web user application, unless 
+Note: nodes run the CoG web user application, unless specified.
 
 * [CEDA](https://esgf-index1.ceda.ac.uk)
 * [DKRZ](https://esgf-data.dkrz.de)
