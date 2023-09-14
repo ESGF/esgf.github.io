@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ESGF Overview
+title: ESGF Technical Overview
 ---
 
 ## ESGF Technical Overview
@@ -48,7 +48,5 @@ Installation of these components is done via a Helm chart or with Ansible.
 - MetaGrid
 
 - RabbitMQ
-
-### 
 
 [esgf federation design]:    {{site.url}}/federation-design.html
