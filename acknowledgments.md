@@ -72,9 +72,9 @@ title: Acknowledgments
 
 #### Europe
 
-* ![BADC logo][]
-    * British Atmospheric Data Center
-    * [http://badc.nerc.ac.uk/][badc]
+* ![CEDA logo][]
+    * Centre for Environmental Data Analysis
+    * [https://www.ceda.ac.uk][ceda]
 * ![CMCC logo][]
     * Centro Euro-Mediterraneo sui Cambiamenti Climatici
     * [http://www.cmcc.it/][cmcc]
@@ -113,7 +113,7 @@ title: Acknowledgments
 [nasa]: http://www.nasa.gov/
 [ncar]: http://ncar.ucar.edu/
 [ornl]: http://www.ornl.gov/
-[badc]: http://badc.nerc.ac.uk/
+[ceda]: https://www.ceda.ac.uk
 [cmcc]: http://www.cmcc.it/
 [dkrz]: http://www.dkrz.de/
 [ipsl]: https://www.ipsl.fr/en/
@@ -126,7 +126,7 @@ title: Acknowledgments
 [nasa logo]:  media/images/nasa.svg
 [ncar logo]:  media/images/ncar.jpg
 [ornl logo]:  media/images/ornl.svg
-[badc logo]:  media/images/badc.png
+[ceda logo]:  media/images/ceda.png
 [cmcc logo]:  media/images/cmcc.png
 [dkrz logo]:  media/images/dkrz.png
 [ipsl logo]:  media/images/ipsl.jpg

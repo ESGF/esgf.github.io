@@ -7,7 +7,8 @@ title: Software
 
 The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaboration that develops, deploys and maintains software infrastructure for the management, dissemination, and analysis of model output and observational data. Below are the different data access interfaces and software tools. You can install and configure all the tools or a subset depending on your needs. 
 
-### Search data
+### For Data Users - Search Data
+* Metagrid Beta Release (Web UI): <https://aims2.llnl.gov/>
 * LLNL Data site (CoG Web UI): <https://esgf-node.llnl.gov/projects/esgf-llnl/>
 * [ESGF User Guide and FAQ](https://esgf.github.io/esgf-user-support)
     * Includes information on operation of the CoG frontend, wget script and Globus downloads
@@ -19,7 +20,7 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 ### ESGF Software Stack: for the Node Administrator
 #### *ESGF Data and Index/Identity Node*
 * **Description:**
-    * The ESGF Data Node software stack enables sites hosting earth system data to make it available to the community over several transfer protocols including http(s).  Index nodes enable search for hosted data via data publishing to the index, and these nodes include a search API and web frontend.  Identity nodes manage user accounts.  All these services together consitute a "Full" ESGF installation.  These nodes are installed using the popular Ansible automation platform using our esgf-ansible collection of playbooks.
+    * The ESGF Data Node software stack enables sites hosting earth system data to make it available to the community over several transfer protocols including http(s).  Index nodes enable search for hosted data via data publishing to the index, and these nodes include a search API and web frontend.  Identity nodes manage user accounts.  All these services together consitute a "Full" ESGF installation. These nodes run as Docker containers and can be deployed via Ansible Playbooks or Helm Charts in a Kubernetes environment.
 * **Use case:**
     * I want to install a data and/or index/IdP node software stack using the current architecture
     * I want to upgrade my existing node software stack to the latest supported service versions
@@ -31,29 +32,27 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 * Requirements, Setup and Usage documentation
         * <https://esgf.github.io/esgf-ansible/intro/intro.html>
 * **Basic Prerequisite:**
-    * The ESGF software stack requires Linux RedHat Enterprise or Centos 7 distributions and administrators have full sudo privileges to root access
+    * The ESGF software stack requires Linux RedHat Enterprise or Rocky/Alma distributions and administrators have full sudo privileges to root access
+    or a Kubernetes Cluster
     * The services are meant to run on webserver-grade hardware.  For data nodes, storage holding your data to share must be mounted on the node.
-    * See the main documentation site for more information
-* **Source repository on github**
-    * [ESGF Ansible playbooks source repository](https://github.com/ESGF/esgf-ansible)
-* **Issues: (bug reporting)**
-    * <https://github.com/ESGF/esgf-ansible/issues>
+* **Main page: includes installation instructions**
+    * <https://github.com/ESGF/esgf-docker/>
+* **Issues:**
+    * <https://github.com/ESGF/esgf-docker/issues>
 * **Installation email list:**
     * <esgf_iwt@llnl.gov>
 
-#### *ESGF Docker (beta)*
-* **Description**
-    * ESGF Docker is the deployment mechanism for the next generation ESGF architecture, and can be tested concurrently with the production platform.
-* **Use case**
-    * I want to test install the next-generation architecture 
-* **Main page: includes installation instructions**
-        * <https://github.com/ESGF/esgf-docker/tree/future-architecture/>
-     * **Issues:**
-        * <https://github.com/ESGF/esgf-docker/issues>
 
-#### *User Interface (CoG) Frontend*
-* See the CoG README for instructions to access the Admin and Developers Guide:
-   * https://github.com/earthsystemcog/COG
+#### Metagrid User Interface
+
+* **Description**
+    * **Metagrid** is the upcoming Web UI release that will replace the *legacy* CoG UI
+* **Use case**
+    * I want to install my own Metagrid deployment
+* Documentation site:  <https://metagrid.readthedocs.io/en/latest/>
+* Git Repo: <https://github.com/aims-group/metagrid>
+
+
 
 ### ESGF data publisher
 #### *ESG publisher (esg-publisher)*
@@ -65,15 +64,10 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
     * I want to update an existing dataset that I published on ESGF
     * I want to retract/delete a dataset that I published from ESGF 
 * **Main Page: (user documentation)**
-    * <http://esgf.github.io/esg-publisher/>
-* **Prerequisite:**
-    * Publishers to ESGF must have an existing Data Node installed at their site.  
-* **Installation: (Python3 recommended)**
-    * <https://github.com/ESGF/esg-publisher/tree/python3> 
-* **Next generation publisher: (v5 Alpha version)**
-    * This version is compatible with the current and next-generation ESGF Archtectures 
-    * <https://esg-publisher.readthedocs.io/en/refactor/>
-    * The Next-gen (v5) Publisher can be run external to the Data Node, but the data to be published must be locally accessible on your linux file system.
+    * <https://esg-publisher.readthedocs.io/>
+=* **Prerequisite:**
+    * Publishers to ESGF must have an existing Data Node installed at their site. 
+    * The publisher software (as of v5.x) does not need to run on the Data Node, but requires a "Data mount" so the software can access data files.  
 * **Issues:**
     * <https://github.com/ESGF/esg-publisher/issues>
 * **Publication working team mailing list:**
@@ -81,33 +75,25 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 
 **For Data Preparation**, our collaborators at IPSL provide the [Pre-publication Tools](https://esgf.github.io/esgf-prepare) for a number of ongoing ESGF data projects.  
 
-
-#### *ESGF Compute end-user API (esgf-compute-api)*
-* **Description:** The esgf-compute-api is python package design to interact with the ESGF Compute Node’s Web Processing Service (ECN WPS). It provides access to primitive operations (subset, min, max, etc) that will be execute using remote resources.
+### ESGF Compute
+* **Description:**  
+    * The ESGF Compute Node software stack (known as `roocs`) enables sites hosting earth system data to deploy a _compute_ service next to the data.
+    * The Compute Node is built on the OGC Web Processing Service standard to describe a common interface for specifying _remote processsing_.
+    * The Node includes a complete backend stack which can be installed on a single or cluster of servers, deployed through an Ansible Playbook.
+    * The primary aim of the Node is to enable server-side processing to reduce the global network traffic of ESGF data and enable greater access to these essential scientific data.
 * **Use Cases**
     * I want to retrieve a subset of the data.
     * I want to execute compute operations on data using remote resources.
 * **Main Page:**
-    * <https://github.com/ESGF/esgf-compute-api> 
+    * <https://github.com/ESGF/esgf-cwt> 
 * **Installation:** 
-    * <https://github.com/ESGF/esgf-compute-api#installation>
+    * <https://github.com/ESGF/esgf-cwt> (in preparation)
 * **Documentation:** 
-    * Example Jupyter Notebooks: [Jupyter Notebooks](https://github.com/ESGF/esgf-compute-api/tree/devel/examples)
+    * [`roocs` documentation](https://roocs.github.io/)
+    * [`rooki` python client](https://rooki.readthedocs.io/en/latest/)
+    * [Example Jupyter Notebooks](https://rooki.readthedocs.io/en/latest/notebooks/index.html)
 * **Support:**
-    * Github Issues: <https://github.com/ESGF/esgf-compute-api/issues>
-
-#### *ESGF Compute Node Web Processing Service (ECN WPS)*
-* **Description:** The ECN WPS is a scalable compute service. The service is exposed to users through a WPS interface. The compute backend is Xarray based and scales on a Kubernetes cluster.
-* **Use Cases:**
-    * I want to host a compute service near data.
-* **Main Page:** 
-    * <https://github.com/ESGF/esgf-compute-wps> 
-* **Installation:** 
-    * <https://github.com/esgf-compute/charts#installing-the-chart> 
-* **Documentation:** 
-    * <https://github.com/ESGF/esgf-compute-wps/blob/devel/README.md> 
-* **Support:**
-    * Github Issues: <https://github.com/ESGF/esgf-compute-wps/issues>
+    * Github Issues: <https://github.com/ESGF/esgf-cwt/issues>
 
 ### Misc software and documentation
 #### *CMIP6 administrators and publishers*

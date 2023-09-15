@@ -6,6 +6,10 @@ title: Releases
 
 ### ESGF Release Notes
 
+#### Metagrid Beta
+
+* [Metagrid Beta Test Site](https://aims2.llnl.gov/)
+
 #### Compute Release Announcement
 
 * [ESGF Compute Release Announcement]({{site.url}}/esgf-compute-announcement.html)

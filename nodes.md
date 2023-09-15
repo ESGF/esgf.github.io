@@ -3,13 +3,14 @@ layout: default
 title: Nodes
 ---
 
-## Federated ESGF-CoG Nodes
+## Federated ESGF Nodes
 
-* [LLNL](https://esgf-node.llnl.gov)
+Note: nodes run the CoG web user application, unless specified.
+
 * [CEDA](https://esgf-index1.ceda.ac.uk)
 * [DKRZ](https://esgf-data.dkrz.de)
-* [GFDL](https://esgdata.gfdl.noaa.gov)
 * [IPSL](https://esgf-node.ipsl.upmc.fr)
 * [LIU](https://esg-dn1.nsc.liu.se)
+* [LLNL](https://esgf-node.llnl.gov) - Beta [Metagrid UI](https://aims2.llnl.gov/)
 * [NCI](https://esgf.nci.org.au)
-* [NCCS](https://esgf.nccs.nasa.gov)
+* [ORNL Metagrid](https://esgf-node.ornl.gov)
