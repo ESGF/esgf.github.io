@@ -7,7 +7,7 @@ title: Software
 
 The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaboration that develops, deploys and maintains software infrastructure for the management, dissemination, and analysis of model output and observational data. Below are the different data access interfaces and software tools. You can install and configure all the tools or a subset depending on your needs. 
 
-### Search data
+### For Data Users - Search Data
 * Metagrid Beta Release (Web UI): <https://aims2.llnl.gov/>
 * LLNL Data site (CoG Web UI): <https://esgf-node.llnl.gov/projects/esgf-llnl/>
 * [ESGF User Guide and FAQ](https://esgf.github.io/esgf-user-support)
@@ -20,7 +20,7 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 ### ESGF Software Stack: for the Node Administrator
 #### *ESGF Data and Index/Identity Node*
 * **Description:**
-    * The ESGF Data Node software stack enables sites hosting earth system data to make it available to the community over several transfer protocols including http(s).  Index nodes enable search for hosted data via data publishing to the index, and these nodes include a search API and web frontend.  Identity nodes manage user accounts.  All these services together consitute a "Full" ESGF installation.  These nodes are installed using the popular Ansible automation platform using our esgf-ansible collection of playbooks.
+    * The ESGF Data Node software stack enables sites hosting earth system data to make it available to the community over several transfer protocols including http(s).  Index nodes enable search for hosted data via data publishing to the index, and these nodes include a search API and web frontend.  Identity nodes manage user accounts.  All these services together consitute a "Full" ESGF installation. These nodes run as Docker containers and can be deployed via Ansible Playbooks or Helm Charts in a Kubernetes environment.
 * **Use case:**
     * I want to install a data and/or index/IdP node software stack using the current architecture
     * I want to upgrade my existing node software stack to the latest supported service versions
@@ -32,25 +32,16 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 * Requirements, Setup and Usage documentation
         * <https://esgf.github.io/esgf-ansible/intro/intro.html>
 * **Basic Prerequisite:**
-    * The ESGF software stack requires Linux RedHat Enterprise or Centos 7 distributions and administrators have full sudo privileges to root access
+    * The ESGF software stack requires Linux RedHat Enterprise or Rocky/Alma distributions and administrators have full sudo privileges to root access
+    or a Kubernetes Cluster
     * The services are meant to run on webserver-grade hardware.  For data nodes, storage holding your data to share must be mounted on the node.
-    * See the main documentation site for more information
-* **Source repository on github**
-    * [ESGF Ansible playbooks source repository](https://github.com/ESGF/esgf-ansible)
-* **Issues: (bug reporting)**
-    * <https://github.com/ESGF/esgf-ansible/issues>
+* **Main page: includes installation instructions**
+    * <https://github.com/ESGF/esgf-docker/>
+* **Issues:**
+    * <https://github.com/ESGF/esgf-docker/issues>
 * **Installation email list:**
     * <esgf_iwt@llnl.gov>
 
-#### *ESGF Docker (beta)*
-* **Description**
-    * ESGF Docker is the deployment mechanism for the next generation ESGF architecture, and can be tested concurrently with the production platform.
-* **Use case**
-    * I want to test install the next-generation architecture 
-* **Main page: includes installation instructions**
-    * <https://github.com/ESGF/esgf-docker/tree/future-architecture/>
-* **Issues:**
-    * <https://github.com/ESGF/esgf-docker/issues>
 
 #### Metagrid User Interface
 
@@ -62,9 +53,6 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 * Git Repo: <https://github.com/aims-group/metagrid>
 
 
-#### Deprecated *User Interface (CoG) Frontend*  
-* See the CoG README for instructions to access the Admin and Developers Guide:
-   * https://github.com/earthsystemcog/COG
 
 ### ESGF data publisher
 #### *ESG publisher (esg-publisher)*
@@ -76,13 +64,10 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
     * I want to update an existing dataset that I published on ESGF
     * I want to retract/delete a dataset that I published from ESGF 
 * **Main Page: (user documentation)**
-    * <http://esgf.github.io/esg-publisher/>
-* **Prerequisite:**
-    * Publishers to ESGF must have an existing Data Node installed at their site.  
-* **Next generation publisher: (v5 Alpha version)**
-    * This version is compatible with the current and next-generation ESGF Archtectures 
     * <https://esg-publisher.readthedocs.io/>
-    * The Next-gen (v5) Publisher can be run external to the Data Node, but the data to be published must be locally accessible on your linux file system.
+=* **Prerequisite:**
+    * Publishers to ESGF must have an existing Data Node installed at their site. 
+    * The publisher software (as of v5.x) does not need to run on the Data Node, but requires a "Data mount" so the software can access data files.  
 * **Issues:**
     * <https://github.com/ESGF/esg-publisher/issues>
 * **Publication working team mailing list:**
@@ -109,21 +94,6 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
     * [Example Jupyter Notebooks](https://rooki.readthedocs.io/en/latest/notebooks/index.html)
 * **Support:**
     * Github Issues: <https://github.com/ESGF/esgf-cwt/issues>
-
-### Data Analysis tools
-#### *Community Data Analysis Tools (CDAT)*
-* **Description:** CDAT is a powerful and complete front-end to a rich set of visual-data exploration and analysis capabilities well suited for data analysis problems.
-* **Use Cases:**
-    * I want to perform data analysis of multi-dimensional gridded climate and simulation data
-    * I want to visualize data through graphical plots of gridded data
-* **Main Page:** <https://github.com/CDAT/cdat/wiki>
-* **Installation:** <https://github.com/CDAT/cdat/wiki/install>
-* **Documentation:**
-    * Getting started: <https://cdat.llnl.gov/getting_started.html> 
-    * Notebook Tutorials: <https://cdat.llnl.gov/tutorials.html> 
-* **Support**
-    * Contact: <https://cdat.llnl.gov/contact.html> 
-    * Github Issues: <https://github.com/CDAT/cdat/issues>
 
 ### Misc software and documentation
 #### *CMIP6 administrators and publishers*
