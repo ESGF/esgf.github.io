@@ -100,5 +100,4 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 PCMDI has produced the Data Node Managers guide for CMIP6 data specifically here: <https://pcmdi.llnl.gov/CMIP6/Guide/dataManagers.html> 
 
 #### *ESGF bulk data download tools*
-* <https://github.com/ESGF/sproket>  Sproket Download tool for command line data search and download, where you can specify search criteria and download data files in a single command.
-* <http://prodiguer.github.io/synda/index.html> From IPSL, Synda is an automated download service to manage massive replica copies of ESGF datasets. (suited for server administrators to operate) 
+* <https://esgf.github.io/esgf-download/> From IPSL, esgpull / esgf-download combines an automated download service to manage massive replica copies of ESGF datasets, suited for server administrators to operate and a "thick client" for users to perform downloads to individual systems and user accounts.
