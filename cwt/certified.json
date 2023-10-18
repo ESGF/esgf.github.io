@@ -1,0 +1,26 @@
+{
+    "servers": {
+      "LLNL": {
+        "wps": "https://aims2.llnl.gov/wps/",
+        "datanode": [
+          "https://aims3.llnl.gov"
+        ]
+      }
+    },
+    "operators": {
+      "subset": {
+        "CDAT": {
+          "version": [
+            "1.0.0"
+          ]
+        }
+      },
+      "aggregate": {
+        "CDAT": {
+          "version": [
+            "1.0.0"
+          ]
+        }
+      }
+    }
+  }
