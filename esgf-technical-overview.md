@@ -13,8 +13,9 @@ relevant documentation pages and installation guides.
 
 For a more general description of the purpose and high-level structure of the
 federation, see [ESGF Federation Design].
+For specific information on ESGF software packages documentaion sites and repositories, see [ESGF Software].
 
-*(A good place for a diagram)*
+![ESGF Architecture Diagram](./esgf-architecture.png)
 
 ### Components
 
@@ -43,10 +44,13 @@ Installation of these components is done via a Helm chart or with Ansible.
 
 #### Other components
 
-- Central Identity Service: login.esgf.io (IDP "proxy" providing login from multiple possible IDPs)
+- Central Identity Services: 
+  - login.esgf.io (IDP "proxy" providing login from multiple possible IDPs)
+  - Globus Auth
 
-- MetaGrid
+- MetaGrid: Web UI
 
 - RabbitMQ
 
 [esgf federation design]:    {{site.url}}/federation-design.html
+[esgf software]: {{site.url}}/software.html
