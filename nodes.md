@@ -11,6 +11,6 @@ Note: nodes run the CoG web user application, unless specified.
 * [DKRZ](https://esgf-data.dkrz.de)
 * [IPSL](https://esgf-node.ipsl.upmc.fr)
 * [LIU](https://esg-dn1.nsc.liu.se)
-* [LLNL](https://esgf-node.llnl.gov) - Beta [Metagrid UI](https://aims2.llnl.gov/)
+* [LLNL Metagrid](https://esgf-node.llnl.gov) 
 * [NCI](https://esgf.nci.org.au)
 * [ORNL Metagrid](https://esgf-node.ornl.gov)
