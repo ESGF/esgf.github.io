@@ -7,7 +7,7 @@ title: Conferences
 
 ### 2024
 
-* [Register for the 2024 Conference](https://docs.google.com/forms/d/e/1FAIpQLScPJsYiED-et-oq7yKzZkgyVVHLXU73u-F5uYUDGDTGveYcgw/viewform)
+* 23-26 April. In-person registration closed but virtual participation is encouraged. [Register for the 2024 Conference](https://docs.google.com/forms/d/e/1FAIpQLScPJsYiED-et-oq7yKzZkgyVVHLXU73u-F5uYUDGDTGveYcgw/viewform)
 
 ### 2020
 
