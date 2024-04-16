@@ -5,6 +5,10 @@ title: Conferences
 
 ## Conferences
 
+* [Register for the 2024 Conference](https://docs.google.com/forms/d/e/1FAIpQLScPJsYiED-et-oq7yKzZkgyVVHLXU73u-F5uYUDGDTGveYcgw/viewform)
+
+### 2024
+
 ### 2020
 
 * <a href="{{site.url}}/2020-F2F.html" target="_blank">ESGF Conference (Cancelled)</a>
