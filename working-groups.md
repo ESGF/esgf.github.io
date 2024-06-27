@@ -8,10 +8,10 @@ title: Working Groups
 {:.table .table-striped}
 Working Groups | Team Leads and Funding Agencies / Institution | Description
 --- | --- | ---
-1. Stats/Dashboard Working Team | Alessandra Nuzzo (CMCC) | Statistics related to ESGF user metrics
-2. Compute Working Team | Ag Stephens (CEDA) and Carsten Ehbrecht (DKRZ) | Developing a common Compute Node capability for ESGF - to provide server-side processing
-3. Identity Entitlement Access Working Team | Philp Kershaw (CEDA) and Rachana Ananthakrishan (DOE) | Transitioning ESGF authentication and authorization to OpenID Connect
-4. Installation; Containers, and Security Working Team | William Tucker (CEDA) and Prashanth Dwarakanath (LiU) | Containerized deployment of the components of the ESGF software stack; security scans to identify vulnerabilities in the ESGF software; 
-5. International Climate Network Working Group, Replication/Versioning, and Data Transfer Working Team | Eli Dart (DOE/ESnet), Lukasz Lacinski (DOE), and Stephan Kindermann (DKRZ) | Increase data transfer rates between the ESGF climate data centers; replication tool for moving data from one ESGF center to another; ESGF data transfer and enhancement of the web-based download
-6. Publication, Quality Control, Metadata, and  Search Working Team | Sasha Ames (DOE), Katharina Berger (DKRZ), and Guillaume Levavasseur (IPSL) | Capability to publish data sets for CMIP and other projects to ESGF; integration of external information into the ESGF portal; Search catalog organization and API
-7. User Support and Documentation Working Team | Katharina Berger and (DKRZ) Sasha Ames (DOE) | User frequently asked questions regarding ESGF-and housed data; document the use of the ESGF software stack
+1. Stats/Dashboard | Alessandra Nuzzo (CMCC) | Statistics related to ESGF user metrics
+2. Compute | Carsten Ehbrecht (DKRZ) and Max Grover (DOE/ANL) | Developing a common Compute Node capability for ESGF - to provide server-side processing
+3. Installation; Containers, and Documentation | William Tucker (CEDA) and Zach Price (DOE/ORNL) | Containerized deployment of the components of the ESGF software stack; security scans to identify vulnerabilities in the ESGF software; ; document the use of the ESGF software stack ; integration of metrics infrastructure
+4.  Quality Control, Metadata, and Controlled Vocabularies (CV) | Guillaume Levavasseur (IPSL) and Paul Durack (DOE/LLNL) |  CV management, services and integration with QC tools, publication and metadata services eg. Errata, Docs and Citation.
+5. Core: Replication, Notification, Publication and Search | Dave Poulter (CEDA) and Sasha Ames (DOE/LLNL) | Capability to publish data sets for CMIP and other projects to ESGF; integration of external information into the ESGF portal; Search catalog organization and API; Message queueing for synchronization and notifications ; bulk data movement between sites
+6. User Experience / Data Access | Nathan Collier (DOE/ORNL),  Max Grover (DOE/ANL), Christian Pagé (CERFACS),  Atef Ben-Nasser (IPSL) and Lee Liming (Globus/ANL)| User interfaces and tools for search access and analysis, Data transfer clients and services
+7. CDNOT | Katharina Berger (DKRZ) and Sasha Ames | (sponsored by WCRP/WGCM) | Climate data node operations team: coordinates the node administrators.
