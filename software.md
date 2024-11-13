@@ -9,6 +9,10 @@ The [Earth System Grid Federation](http://esgf.llnl.gov/) (ESGF) is a collaborat
 
 ### For Data Users - Search Data
 * Metagrid Beta Release (Web UI): <https://aims2.llnl.gov/>
+* intake-esgf: python-based programmatic access to ESGF holdings
+    * Available in pip and conda-forge
+    * Github <https://github.com/esgf2-us/intake-esgf>
+    * Documentation <https://intake-esgf.readthedocs.io/>
 * LLNL Data site (CoG Web UI): <https://esgf-node.llnl.gov/projects/esgf-llnl/>
 * [ESGF User Guide and FAQ](https://esgf.github.io/esgf-user-support)
     * Includes information on operation of the CoG frontend, wget script and Globus downloads
