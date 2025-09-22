@@ -12,6 +12,7 @@ As of 28 May 2025 ESGF is undergoing an interim period prior to migrating to a "
 
 These sites run the React-based Metagrid Web Application
 
+* [CEDA](https://esgf-ui.ceda.ac.uk/search)
 * [DKRZ](https://esgf-data.dkrz.de)
 * [NCI](https://esgf.nci.org.au)
 
@@ -24,7 +25,6 @@ These sites run the React-based Metagrid Web Application
 
 These sites run the *legacy* Django-based CoG Web Application.  Please note that OpenID logins do not work on several of these systems.
 
-* [CEDA](https://esgf-index1.ceda.ac.uk)
 * [IPSL](https://esgf-node.ipsl.upmc.fr)
 * [LIU](https://esg-dn1.nsc.liu.se)
 
