@@ -51,24 +51,6 @@ title: Acknowledgments
 
 #### United States
 
-* ![ANL logo][]
-    * Argonne National Laboratory
-    * [http://www.anl.gov/][anl]
-* ![LBNL logo][]
-    * Lawrence Berkeley National Laboratory
-    * [http://www.lbl.gov/][lbnl]
-* ![LLNL logo][]
-    * LLNL/PCMDI
-    * [https://www.llnl.gov/][llnl]
-* ![nasa logo][]
-    * NASA/JPL (Jet Propulsion Laboratory)
-    * [http://www.jpl.nasa.gov/][nasa]
-* ![NCAR logo][]
-    * National Center for Atmospheric Research
-    * [http://ncar.ucar.edu/][ncar]
-* ![ORNL logo][]
-    * Oak Ridge National Laboratory
-    * [http://www.ornl.gov/][ornl]
 
 #### Europe
 
@@ -103,16 +85,7 @@ title: Acknowledgments
 
 ### ESGF is a team of many people and teams from nations all over the world.
 
-<center>
-<img src="{{site.url}}/media/images/ESGF_Participants.png"/>
-</center>
 
-[anl]:  http://www.anl.gov/
-[lbnl]: http://www.lbl.gov/
-[llnl]: https://www.llnl.gov/
-[nasa]: http://www.nasa.gov/
-[ncar]: http://ncar.ucar.edu/
-[ornl]: http://www.ornl.gov/
 [ceda]: https://www.ceda.ac.uk
 [cmcc]: http://www.cmcc.it/
 [dkrz]: http://www.dkrz.de/
@@ -120,12 +93,6 @@ title: Acknowledgments
 [anu]:  http://www.anu.edu.au/
 [nci]:  http://nci.org.au/
 
-[anl logo]:   media/images/anl.jpg
-[lbnl logo]:  media/images/lbnl.svg
-[llnl logo]:  media/images/llnl.jpg
-[nasa logo]:  media/images/nasa.svg
-[ncar logo]:  media/images/ncar.jpg
-[ornl logo]:  media/images/ornl.svg
 [ceda logo]:  media/images/ceda.png
 [cmcc logo]:  media/images/cmcc.png
 [dkrz logo]:  media/images/dkrz.png
