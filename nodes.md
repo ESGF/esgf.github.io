@@ -18,8 +18,9 @@ These sites run the React-based Metagrid Web Application
 
 ### Metagrid Nodes - DOE/US 
 
-* [LLNL](https://esgf-node.llnl.gov) 
-* [ORNL](https://esgf-node.ornl.gov)
+* [ORNL](https://esgf-node.ornl.gov) (Primary Site)
+* [LLNL](https://esgf-node.llnl.gov) (Backup / Redundant Site)
+
 
 ### CoG Nodes - Europe/AU
 
