@@ -3,29 +3,27 @@ layout: default
 title: Nodes
 ---
 
-## Federated ESGF Nodes
+## Federated ESGF Frontend Nodes
 
-As of 28 May 2025 ESGF is undergoing an interim period prior to migrating to a "Next-Generation" Index.  During this short period, data discovery is partitioned into two domains: DOE/US and Europe/AU nodes.  Not all data is replicated among both domain.  If an expected dataset does not appear in one domain then the search may need to be repeated in the other.
+ESGF maitains three categories of Metagrid frontend nodes:   Federated STAC nodes, legacy Solr and ESGF-1.5 (US-Globus index).  For legacy CMIP6 data, it may be necessary for the time being to search in both the Solr and ESGF-1.5 legacy index while migration to STAC is in progress.  Other older legacy data products can be found in either but not necessarily both.
+
+As of 19 November 2026 all CoG Nodes have been retired.
 
 
-### Metagrid Nodes - Europe/AU
+### STAC-enabled Metagrid Nodes 
 
-These sites run the React-based Metagrid Web Application
+These sites serve the following STAC-enabled data collections: CMIP7, CMIP6Plus, CORDEX-CMIP6, CMIP6 (migration from legacy indexes in progress)
+
+* [CEDA](https://metagrid-ceda.ceda.esgf.io)  (STAC catalog search only)
+* [NERSC](https://metagrid-nersc.west.esgf.io)  (West Metagrid also has ESGF-1.5 data)
+
+
+### Legacy-data nodes
+
+* [ORNL](https://esgf-node.ornl.gov) (ESGF-1.5 only; STAC access coming soon)
+
+#### Solr index
 
 * [CEDA](https://esgf-ui.ceda.ac.uk/search)
 * [DKRZ](https://esgf-data.dkrz.de)
 * [NCI](https://esgf.nci.org.au)
-
-### Metagrid Nodes - DOE/US 
-
-* [ORNL](https://esgf-node.ornl.gov) (Primary Site)
-* [LLNL](https://esgf-node.llnl.gov) (Backup / Redundant Site)
-
-
-### CoG Nodes - Europe/AU
-
-These sites run the *legacy* Django-based CoG Web Application.  Please note that OpenID logins do not work on several of these systems.
-
-* [IPSL](https://esgf-node.ipsl.upmc.fr)
-* [LIU](https://esg-dn1.nsc.liu.se)
-
