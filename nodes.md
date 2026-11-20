@@ -9,7 +9,6 @@ ESGF maitains three categories of Metagrid frontend nodes:   Federated STAC node
 
 As of 19 November 2026 all CoG Nodes have been retired.
 
-
 ### STAC-enabled Metagrid Nodes 
 
 These sites serve the following STAC-enabled data collections: CMIP7, CMIP6Plus, CORDEX-CMIP6, CMIP6 (migration from legacy indexes in progress)
@@ -18,11 +17,11 @@ These sites serve the following STAC-enabled data collections: CMIP7, CMIP6Plus,
 * [NERSC](https://metagrid-nersc.west.esgf.io)  (West Metagrid also has ESGF-1.5 data)
 
 
-### Legacy-data nodes
+### Legacy-data Metagrid Nodes (ESGF-1.5 and Solr)
 
 * [ORNL](https://esgf-node.ornl.gov) (ESGF-1.5 only; STAC access coming soon)
 
-#### Solr index
+#### Legacy-Solr
 
 * [CEDA](https://esgf-ui.ceda.ac.uk/search)
 * [DKRZ](https://esgf-data.dkrz.de)
