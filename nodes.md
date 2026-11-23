@@ -3,29 +3,27 @@ layout: default
 title: Nodes
 ---
 
-## Federated ESGF Nodes
+## Federated ESGF Frontend Sites
 
-As of 28 May 2025 ESGF is undergoing an interim period prior to migrating to a "Next-Generation" Index.  During this short period, data discovery is partitioned into two domains: DOE/US and Europe/AU nodes.  Not all data is replicated among both domain.  If an expected dataset does not appear in one domain then the search may need to be repeated in the other.
+ESGF maitains three categories of Metagrid frontend sites:   Federated STAC search sites, legacy Solr and ESGF-1.5 (US-Globus index).  For legacy CMIP6 data, it may be necessary for the time being to search in both the Solr and ESGF-1.5 legacy index while migration to STAC is in progress.  Other older legacy data products can be found in either but not necessarily both.
+
+As of 19 November 2026 all CoG Nodes have been retired.
+
+### STAC-enabled Metagrid Sites 
+
+These sites serve the following STAC-enabled data collections: CMIP7, CMIP6Plus, CORDEX-CMIP6, CMIP6 (migration from legacy indexes in progress)
+
+* [CEDA](https://metagrid-ceda.ceda.esgf.io)  (STAC catalog search only)
+* [NERSC](https://metagrid-nersc.west.esgf.io)  (West Metagrid also has ESGF-1.5 data)
 
 
-### Metagrid Nodes - Europe/AU
+### Legacy-data Metagrid Sites (ESGF-1.5 and Solr)
 
-These sites run the React-based Metagrid Web Application
+* [ORNL](https://esgf-node.ornl.gov) (ESGF-1.5 only; STAC access coming soon)
 
-* [CEDA](https://esgf-ui.ceda.ac.uk/search)
+#### Legacy-Solr
+
+_Please node that Solr is deprecated and these site may no longer provide search results_
+
 * [DKRZ](https://esgf-data.dkrz.de)
 * [NCI](https://esgf.nci.org.au)
-
-### Metagrid Nodes - DOE/US 
-
-* [ORNL](https://esgf-node.ornl.gov) (Primary Site)
-* [NERSC](https://metagrid.esgf-west.org) (Backup / Redundant Site)
-
-
-### CoG Nodes - Europe/AU
-
-These sites run the *legacy* Django-based CoG Web Application.  Please note that OpenID logins do not work on several of these systems.
-
-* [IPSL](https://esgf-node.ipsl.upmc.fr)
-* [LIU](https://esg-dn1.nsc.liu.se)
-
